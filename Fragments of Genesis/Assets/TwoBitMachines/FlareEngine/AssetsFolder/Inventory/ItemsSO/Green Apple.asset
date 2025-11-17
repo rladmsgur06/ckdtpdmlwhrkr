@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e902e4f2f7e77ff4a85d88d0ae71f8ad, type: 3}
+  m_Name: Green Apple
+  m_EditorClassIdentifier: 
+  itemName: Green Apple
+  keyName: 
+  genericString: 
+  extraInfo: 
+  description: 'Odio aenean sed adipiscing diam donec adipiscing. Suscipit adipiscing
+    bibendum est ultricies integer quis auctor elit sed. Lacus laoreet non curabitur
+    gravida arcu ac tortor dignissim convallis. Vitae aliquet nec ullamcorper sit.
+    Facilisis gravida neque convallis a cras semper auctor neque vitae. '
+  consumable: 0
+  genericFloat: 0
+  stackLimit: 10
+  cost: 0
+  icon: {fileID: 3473067488844627539, guid: 0f4dc44f1541c3b4f99a99735dcdbb14, type: 3}
+  prefab: {fileID: 0}
+  droppable: 0
+  forInventory: 1
+  vendorItem: 0
+  add: 0
+  foldOut: 0
+  remove: 0
+  delete: 0
+  deleteAsk: 0
+  deleteData: 0
+  descriptionFoldOut: 1
+  extraInfoFoldOut: 0

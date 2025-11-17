@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e902e4f2f7e77ff4a85d88d0ae71f8ad, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  itemName: Dagger
+  keyName: 
+  genericString: 
+  extraInfo: 
+  description: Quis eleifend quam adipiscing vitae proin sagittis nisl. Fames ac
+    turpis egestas maecenas. Ut morbi tincidunt augue interdum velit euismod. Ultrices
+    eros in cursus turpis massa tincidunt dui. Euismod elementum nisi quis eleifend
+    quam.
+  consumable: 1
+  genericFloat: 1
+  stackLimit: 5
+  cost: 0
+  icon: {fileID: -4878780369741212085, guid: 0f4dc44f1541c3b4f99a99735dcdbb14, type: 3}
+  prefab: {fileID: 6735527679656433023, guid: 7d772787301541b45a9b3ecb81bf2e6f, type: 3}
+  droppable: 0
+  forInventory: 1
+  vendorItem: 0
+  add: 0
+  foldOut: 0
+  remove: 0
+  delete: 0
+  deleteAsk: 0
+  deleteData: 0
+  descriptionFoldOut: 1
+  extraInfoFoldOut: 0
