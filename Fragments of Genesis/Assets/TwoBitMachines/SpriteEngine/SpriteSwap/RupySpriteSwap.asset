@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd2415e3488a1a442a664aae81a19baa, type: 3}
+  m_Name: RupySpriteSwap
+  m_EditorClassIdentifier: 
+  characterSkin:
+  - name: NormalSuit
+    skin:
+    - name: Idle
+      sprite:
+      - {fileID: 332067010231621799, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
+      - {fileID: 5238184639876704655, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
+      - {fileID: -5400792537294575135, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
+      - {fileID: -5414938976875148219, guid: 79f867d1257c1344daaec07068145eaa, type: 3}
+      add: 0
+      edit: 0
+      delete: 0
+      deleteAsk: 0
+      replace: 0
+      foldOut: 0
+      active: 0
+      signalIndex: 0
+    - name: Run
+      sprite:
+      - {fileID: -3508399728743747605, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -3243377820418137495, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -6003446323106517755, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -4628781491364611034, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -2094921549971527865, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -6123642687891745881, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: 1481644663056074313, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -3365077288805416414, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: -74134910044702908, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      - {fileID: 3927912953082220589, guid: d91b02345738c8e40905e58bf32ad18b, type: 3}
+      add: 0
+      edit: 0
+      delete: 0
+      deleteAsk: 0
+      replace: 0
+      foldOut: 0
+      active: 0
+      signalIndex: 0
+    add: 0
+    edit: 0
+    delete: 0
+    deleteAsk: 0
+    foldOut: 1
+    active: 0
+    signalIndex: 1
+  - name: DarkSuit
+    skin:
+    - name: Idle
+      sprite:
+      - {fileID: 8438710631068745019, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: 557593868904028707, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: 7562120717987312352, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: 101892764234681696, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      add: 0
+      edit: 0
+      delete: 0
+      deleteAsk: 0
+      replace: 0
+      foldOut: 0
+      active: 0
+      signalIndex: 3
+    - name: Run
+      sprite:
+      - {fileID: -4199989433185469779, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: -3973208130631556058, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: 8613551678679987337, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: -114232763669092452, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: 8950144346621374554, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: -36023203986341313, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: -1130094977521950457, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: 4843912831216827482, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: -3880480125887670663, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      - {fileID: -3138610309564634906, guid: edb995a25e1dd32419bc560c84c7605e, type: 3}
+      add: 0
+      edit: 0
+      delete: 0
+      deleteAsk: 0
+      replace: 0
+      foldOut: 0
+      active: 0
+      signalIndex: 0
+    add: 0
+    edit: 0
+    delete: 0
+    deleteAsk: 0
+    foldOut: 1
+    active: 0
+    signalIndex: 1
+  - name: PurpleSuit
+    skin:
+    - name: Idle
+      sprite:
+      - {fileID: -3316452519768612454, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -6455928209200377263, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -6118955169547292116, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -3480405024314550352, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      add: 0
+      edit: 0
+      delete: 0
+      deleteAsk: 0
+      replace: 0
+      foldOut: 0
+      active: 0
+      signalIndex: 0
+    - name: Run
+      sprite:
+      - {fileID: 7402454239452303008, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -4529489652859321924, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -7188669872344950708, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: 4745298193663926826, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: 1820282464225937017, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: 215776885746596389, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: 7665587392037216461, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -1373644350066751452, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: 7218408694160833889, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      - {fileID: -8907375515412125823, guid: 14c4cc74be6b61f46a8eb09358c227a1, type: 3}
+      add: 0
+      edit: 0
+      delete: 0
+      deleteAsk: 0
+      replace: 0
+      foldOut: 0
+      active: 0
+      signalIndex: 0
+    add: 0
+    edit: 0
+    delete: 0
+    deleteAsk: 0
+    foldOut: 1
+    active: 0
+    signalIndex: 1
+  active: 0
+  signalIndex: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e902e4f2f7e77ff4a85d88d0ae71f8ad, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  itemName: Arrow
+  keyName: ToggleTool
+  genericString: Arrow
+  extraInfo: 
+  description: I shoot arrows. Left mouse click.
+  consumable: 0
+  genericFloat: 0
+  stackLimit: 10
+  cost: 0
+  icon: {fileID: 21300000, guid: 77dfc48bdbd48754c89a5a45cbcd3071, type: 3}
+  prefab: {fileID: 815363239738989881, guid: 1fc8a5f302b346744bde2ce69fae9797, type: 3}
+  droppable: 0
+  forInventory: 0
+  vendorItem: 0
+  add: 0
+  foldOut: 0
+  remove: 0
+  delete: 0
+  deleteAsk: 0
+  deleteData: 0
+  descriptionFoldOut: 0
+  extraInfoFoldOut: 0

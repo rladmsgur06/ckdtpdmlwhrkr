@@ -4,36 +4,42 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
-  - FirePoint
-  - Critical
-  - Weapons
-  - Ramp
-  - BodyShot
-  - Step
-  - Interactable
-  - Ladder
-  - OneWayPlatform
-  - Projectile
+  - Beam
+  - RotatedWall
+  - Edge2DDownOnly
+  - Edge2DUpOnly
+  - UIControl
+  - Block
+  - Friction
+  - NoClimb
+  - PushBlock
+  - SlowEnemy
+  - FireArm
+  - MeleeSword
+  - Ground
+  - Spike
+  - Avoid
+  - RailRight
+  - RailLeft
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
-  - Weapons
+  - World
+  - Platform
   - Enemy
-  - Object
-  - Interactable
-  - Grass
-  - Metal
-  - Mud
-  - Wood
-  - UITop
-  - PostProcessing
-  - Effects
   - Player
+  - Vehicle
+  - Hide
+  - GrabItem
+  - Front
+  - Map
+  - Ladder
+  - 
+  - 
   - 
   - 
   - 
@@ -49,6 +55,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3002075567
+    locked: 0
+  - name: Hide
+    uniqueID: 3558103599
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 483194477
+    locked: 0
+  - name: Abvoe
+    uniqueID: 1032580689
     locked: 0

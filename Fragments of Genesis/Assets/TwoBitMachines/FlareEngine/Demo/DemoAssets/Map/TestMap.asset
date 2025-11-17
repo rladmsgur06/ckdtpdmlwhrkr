@@ -1,0 +1,4813 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a243b60a9645c79469d5baf2655e27e9, type: 3}
+  m_Name: TestMap
+  m_EditorClassIdentifier: 
+  mapName: FlareDemoMap
+  pauseGame: 0
+  openInput: {fileID: 11400000, guid: 4cdd3007f207eeb448b052cecd270177, type: 2}
+  meshData:
+    shapeOffset: 429
+    triangles: 0b00000001000b00010002000b00020003000b00030004000b00040005000b00050006000b00060007000b00070008000b000800090009000a000b0018000c000d000e000f0010000e00100011000d000e0011000d00110012000d00120013001300140015000d00130015000d00150016000d00160017000d0017001800220019001a001a001b001c0022001a001c001c001d001e001c001e001f001c001f00200022001c0020002000210022003c00230024003c00240025003c00250026003c00260027003c00270028003c00280029003c0029002a003c002a002b003c002b002c003c002c002d003c002d002e003c002e002f003c002f0030003c00300031003c00310032003c00320033003c00330034003c00340035003c00350036003c00360037003c0037003800380039003a003c0038003a003a003b003c004c003d003e004c003e003f004c003f0040004c00400041004c00410042004c00420043004c00430044004c00440045004c00450046004c00460047004c00470048004c004800490049004a004b0049004b004c004d004e0050004d0050004f0051005200510051005300520051005400530055005600580055005800570059005a00590059005b005a0059005c005b0059005d005c0059005e005d0059005f005e00590060005f0059006100600059006200610063006400630063006500640063006600650063006700660063006800670063006900680063006a00690063006b006a0063006c006b006d006e0070006d0070006f006f00700072006f0072007100710072007400710074007300730074007600730076007500750076007800750078007700770078007a0077007a00790079007a007c0079007c007b007b007c007e007b007e007d007d007e0080007d0080007f0081008200810081008300820081008400830085008600850085008700860085008800870089008a008c0089008c008b008d008e0090008d0090008f00910092009100910093009200910094009300950096009800950098009700990099009a0099009a009b0099009b009c009d009e00a0009d00a0009f00a100a100a200a100a200a300a100a300a400a500a600a800a500a800a700a900aa00a900a900ab00aa00a900ac00ab00ad00ae00b000ad00b000af00b100b200b100b100b300b200b100b400b300b500b600b800b500b800b700b900b900ba00b900ba00bb00b900bb00bc00bd00be00c000bd00c000bf00c100c200c100c100c300c200c100c400c300c500c600c800c500c800c700c900ca00cc00c900cc00cb00cd00ce00d000cd00d000cf00d100d100d200d100d200d300d100d300d400d500d600d800d500d800d700d900da00d900d900db00da00d900dc00db00dd00de00e000dd00e000df00e100e200e400e100e400e300e500e600e500e500e700e600e500e800e700e900ea00ec00e900ec00eb00ed00ed00ee00ed00ee00ef00ed00ef00f000f100f200f400f100f400f300f500f500f600f500f600f700f500f700f800f900fa00fc00f900fc00fb00fd00fe00fd00fd00ff00fe00fd000001ff0001010201040101010401030105010601050105010701060105010801070109010a010c0109010c010b010d010e010d010d010f010e010d0110010f0111011201140111011401130115011601150115011701160115011801170119011a011c0119011c011b011d011d011e011d011e011f011d011f01200121012201240121012401230125012601280125012801270129012a012c0129012c012b012d012e0130012d0130012f01310132013101310133013201310134013301350136013801350138013701390139013a0139013a013b0139013b013c013d013e0140013d0140013f0141014201410141014301420141014401430145014601450145014701460145014801470149014a014c0149014c014b014b014c014e014b014e014d014d014e0150014d0150014f014f01500152014f0152015101510152015401510154015301530154015601530156015501550156015801550158015701570158015a0157015a01590159015a015c0159015c015b015b015c015e015b015e015d015d015e0160015d0160015f015f01600162015f0162016101610162016401610164016301630164016601630166016501650166016801650168016701670168016a0167016a01690169016a016c0169016c016b016b016c016e016b016e016d016d016e0170016d0170016f016f01700172016f0172017101710172017401710174017301750176017801750178017701770178017a0177017a01790179017a017c0179017c017b017b017c017e017b017e017d017d017e0180017d0180017f017f01800182017f0182018101810182018401810184018301830184018601830186018501850186018801850188018701870188018a0187018a0189018b018c018b018b018d018c018b018e018d018b018f018e018b0190018f018b01910190018b0192019101930194019601930196019501950196019801950198019701970198019a0197019a01990199019a019c0199019c019b019b019c019e019b019e019d019d019e01a0019d01a0019f019f01a001a2019f01a201a101a101a201a401a101a401a301a301a401a601a301a601a501a501a601a801a501a801a701a701a801aa01a701aa01a901a901aa01ac01a901ac01ab01
+    colors:
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4279637526
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    - serializedVersion: 2
+      rgba: 4294807296
+    vertices:
+    - {x: 28, y: 7, z: 0}
+    - {x: 28.698618, y: 6.1572976, z: 0}
+    - {x: 29.234707, y: 5.1047745, z: 0}
+    - {x: 29.514595, y: 4.011498, z: 0}
+    - {x: 29.577332, y: 2.9203963, z: 0}
+    - {x: 29.461952, y: 1.874398, z: 0}
+    - {x: 29.207487, y: 0.91643095, z: 0}
+    - {x: 28.852978, y: 0.089423455, z: 0}
+    - {x: 28.437471, y: -0.5636962, z: 0}
+    - {x: 28, y: -1, z: 0}
+    - {x: -10, y: -1, z: 0}
+    - {x: -10, y: 7, z: 0}
+    - {x: 28, y: -1, z: 0}
+    - {x: 44, y: -1, z: 0}
+    - {x: 44, y: -5, z: 0}
+    - {x: 56, y: -5, z: 0}
+    - {x: 56, y: -10, z: 0}
+    - {x: 39, y: -10, z: 0}
+    - {x: 39, y: -8, z: 0}
+    - {x: 21, y: -8, z: 0}
+    - {x: 21, y: -5, z: 0}
+    - {x: 23, y: -5, z: 0}
+    - {x: 23, y: -4, z: 0}
+    - {x: 21, y: -4, z: 0}
+    - {x: 21, y: -1, z: 0}
+    - {x: 56, y: -10, z: 0}
+    - {x: 56, y: -11.75, z: 0}
+    - {x: 64, y: -11.75, z: 0}
+    - {x: 64, y: -19, z: 0}
+    - {x: 54, y: -19, z: 0}
+    - {x: 54, y: -15, z: 0}
+    - {x: 56, y: -15, z: 0}
+    - {x: 56, y: -14, z: 0}
+    - {x: 54, y: -14, z: 0}
+    - {x: 54, y: -10, z: 0}
+    - {x: 56.571434, y: -0.6436554, z: 0}
+    - {x: 57.434933, y: -0.22514951, z: 0}
+    - {x: 58.397842, y: 0.12916625, z: 0}
+    - {x: 59.445484, y: 0.4223355, z: 0}
+    - {x: 60.56318, y: 0.6574018, z: 0}
+    - {x: 61.73627, y: 0.83740854, z: 0}
+    - {x: 62.950066, y: 0.9653996, z: 0}
+    - {x: 64.189896, y: 1.0444183, z: 0}
+    - {x: 65.441086, y: 1.0775083, z: 0}
+    - {x: 66.68896, y: 1.067713, z: 0}
+    - {x: 67.91885, y: 1.0180763, z: 0}
+    - {x: 69.11608, y: 0.93164134, z: 0}
+    - {x: 70.26597, y: 0.8114519, z: 0}
+    - {x: 71.35385, y: 0.6605514, z: 0}
+    - {x: 72.36504, y: 0.48198354, z: 0}
+    - {x: 73.28486, y: 0.27879187, z: 0}
+    - {x: 74.09866, y: 0.05401984, z: 0}
+    - {x: 74.79175, y: -0.18928888, z: 0}
+    - {x: 75.34944, y: -0.44809085, z: 0}
+    - {x: 75.75709, y: -0.7193424, z: 0}
+    - {x: 76, y: -1, z: 0}
+    - {x: 76, y: -2.75, z: 0}
+    - {x: 98, y: -2.75, z: 0}
+    - {x: 98, y: -10, z: 0}
+    - {x: 56, y: -10, z: 0}
+    - {x: 56, y: -1, z: 0}
+    - {x: 112.714714, y: -13.695194, z: 0}
+    - {x: 118, y: -18.5, z: 0}
+    - {x: 117.94429, y: -18.72442, z: 0}
+    - {x: 117.44936, y: -19.853773, z: 0}
+    - {x: 116.700455, y: -20.740566, z: 0}
+    - {x: 115.76105, y: -21.413248, z: 0}
+    - {x: 114.69454, y: -21.900257, z: 0}
+    - {x: 113.56441, y: -22.230047, z: 0}
+    - {x: 112.43407, y: -22.431053, z: 0}
+    - {x: 111.366974, y: -22.531727, z: 0}
+    - {x: 110.4266, y: -22.560516, z: 0}
+    - {x: 109.67634, y: -22.545858, z: 0}
+    - {x: 109.17966, y: -22.516207, z: 0}
+    - {x: 109, y: -22.5, z: 0}
+    - {x: 110.280945, y: -19.20615, z: 0}
+    - {x: 112.5, y: -13.5, z: 0}
+    - {x: -10.13, y: 7, z: 0}
+    - {x: -9.87, y: 7, z: 0}
+    - {x: -10.13, y: -1, z: 0}
+    - {x: -9.87, y: -1, z: 0}
+    - {x: -10, y: -1, z: 0}
+    - {x: -10.13, y: -1, z: 0}
+    - {x: -10.13, y: -1.1300001, z: 0}
+    - {x: -10, y: -1.13, z: 0}
+    - {x: -10, y: -1.13, z: 0}
+    - {x: -10, y: -0.87, z: 0}
+    - {x: 21, y: -1.13, z: 0}
+    - {x: 21, y: -0.87, z: 0}
+    - {x: 21, y: -1, z: 0}
+    - {x: 21, y: -1.13, z: 0}
+    - {x: 21.04975, y: -1.1201043, z: 0}
+    - {x: 21.091925, y: -1.0919238, z: 0}
+    - {x: 21.120104, y: -1.0497489, z: 0}
+    - {x: 21.13, y: -1, z: 0}
+    - {x: 21.120104, y: -0.95025116, z: 0}
+    - {x: 21.091925, y: -0.9080761, z: 0}
+    - {x: 21.04975, y: -0.8798957, z: 0}
+    - {x: 21, y: -0.87, z: 0}
+    - {x: 28, y: -1, z: 0}
+    - {x: 27.9082, y: -0.90795326, z: 0}
+    - {x: 27.879963, y: -0.9500905, z: 0}
+    - {x: 27.87, y: -0.99982613, z: 0}
+    - {x: 27.87983, y: -1.0495881, z: 0}
+    - {x: 27.907953, y: -1.0918008, z: 0}
+    - {x: 27.95009, y: -1.1200377, z: 0}
+    - {x: 27.999826, y: -1.1299999, z: 0}
+    - {x: 28.049587, y: -1.1201707, z: 0}
+    - {x: 28.0918, y: -1.0920467, z: 0}
+    - {x: 28.0918, y: -1.0920466, z: 0}
+    - {x: 27.9082, y: -0.9079534, z: 0}
+    - {x: 28.542574, y: -0.6402051, z: 0}
+    - {x: 28.332369, y: -0.48718736, z: 0}
+    - {x: 28.969835, y: 0.032465477, z: 0}
+    - {x: 28.73612, y: 0.14638144, z: 0}
+    - {x: 29.331488, y: 0.87739706, z: 0}
+    - {x: 29.083487, y: 0.95546484, z: 0}
+    - {x: 29.590338, y: 1.8539729, z: 0}
+    - {x: 29.333567, y: 1.8948231, z: 0}
+    - {x: 29.70733, y: 2.9208028, z: 0}
+    - {x: 29.447332, y: 2.9199898, z: 0}
+    - {x: 29.642311, y: 4.0357547, z: 0}
+    - {x: 29.386879, y: 3.9872413, z: 0}
+    - {x: 29.354446, y: 5.1553936, z: 0}
+    - {x: 29.114967, y: 5.0541553, z: 0}
+    - {x: 28.804811, y: 6.2322836, z: 0}
+    - {x: 28.592424, y: 6.0823116, z: 0}
+    - {x: 28.10008, y: 7.082969, z: 0}
+    - {x: 27.89992, y: 6.917031, z: 0}
+    - {x: 28, y: 7, z: 0}
+    - {x: 28.10008, y: 7.082969, z: 0}
+    - {x: 28.06109, y: 7.13, z: 0}
+    - {x: 28, y: 7.13, z: 0}
+    - {x: -10, y: 7, z: 0}
+    - {x: -10, y: 7.13, z: 0}
+    - {x: -10.13, y: 7.13, z: 0}
+    - {x: -10.13, y: 7, z: 0}
+    - {x: 28, y: 7.13, z: 0}
+    - {x: 28, y: 6.87, z: 0}
+    - {x: -10, y: 7.13, z: 0}
+    - {x: -10, y: 6.87, z: 0}
+    - {x: 20.87, y: -1, z: 0}
+    - {x: 21.13, y: -1, z: 0}
+    - {x: 20.87, y: -4, z: 0}
+    - {x: 21.13, y: -4, z: 0}
+    - {x: 21, y: -4, z: 0}
+    - {x: 20.87, y: -4, z: 0}
+    - {x: 20.87, y: -4.1299996, z: 0}
+    - {x: 21, y: -4.13, z: 0}
+    - {x: 21, y: -4.13, z: 0}
+    - {x: 21, y: -3.87, z: 0}
+    - {x: 23, y: -4.13, z: 0}
+    - {x: 23, y: -3.87, z: 0}
+    - {x: 23, y: -4, z: 0}
+    - {x: 23, y: -3.87, z: 0}
+    - {x: 23.13, y: -3.8700004, z: 0}
+    - {x: 23.13, y: -4, z: 0}
+    - {x: 22.87, y: -4, z: 0}
+    - {x: 23.13, y: -4, z: 0}
+    - {x: 22.87, y: -5, z: 0}
+    - {x: 23.13, y: -5, z: 0}
+    - {x: 23, y: -5, z: 0}
+    - {x: 23.13, y: -5, z: 0}
+    - {x: 23.13, y: -5.1299996, z: 0}
+    - {x: 23, y: -5.13, z: 0}
+    - {x: 23, y: -4.87, z: 0}
+    - {x: 23, y: -5.13, z: 0}
+    - {x: 21, y: -4.87, z: 0}
+    - {x: 21, y: -5.13, z: 0}
+    - {x: 21, y: -5, z: 0}
+    - {x: 21, y: -4.87, z: 0}
+    - {x: 20.87, y: -4.8700004, z: 0}
+    - {x: 20.87, y: -5, z: 0}
+    - {x: 20.87, y: -5, z: 0}
+    - {x: 21.13, y: -5, z: 0}
+    - {x: 20.87, y: -8, z: 0}
+    - {x: 21.13, y: -8, z: 0}
+    - {x: 21, y: -8, z: 0}
+    - {x: 20.87, y: -8, z: 0}
+    - {x: 20.87, y: -8.129999, z: 0}
+    - {x: 21, y: -8.13, z: 0}
+    - {x: 21, y: -8.13, z: 0}
+    - {x: 21, y: -7.87, z: 0}
+    - {x: 39, y: -8.13, z: 0}
+    - {x: 39, y: -7.87, z: 0}
+    - {x: 39, y: -8, z: 0}
+    - {x: 39, y: -7.87, z: 0}
+    - {x: 39.13, y: -7.8699994, z: 0}
+    - {x: 39.13, y: -8, z: 0}
+    - {x: 38.87, y: -8, z: 0}
+    - {x: 39.13, y: -8, z: 0}
+    - {x: 38.87, y: -10, z: 0}
+    - {x: 39.13, y: -10, z: 0}
+    - {x: 39, y: -10, z: 0}
+    - {x: 38.87, y: -10, z: 0}
+    - {x: 38.87, y: -10.130001, z: 0}
+    - {x: 39, y: -10.13, z: 0}
+    - {x: 39, y: -10.13, z: 0}
+    - {x: 39, y: -9.87, z: 0}
+    - {x: 44, y: -10.13, z: 0}
+    - {x: 44, y: -9.87, z: 0}
+    - {x: 46, y: -10.13, z: 0}
+    - {x: 46, y: -9.87, z: 0}
+    - {x: 54, y: -10.13, z: 0}
+    - {x: 54, y: -9.87, z: 0}
+    - {x: 56, y: -4.87, z: 0}
+    - {x: 56, y: -5.13, z: 0}
+    - {x: 44, y: -4.87, z: 0}
+    - {x: 44, y: -5.13, z: 0}
+    - {x: 44, y: -5, z: 0}
+    - {x: 44, y: -5.13, z: 0}
+    - {x: 43.87, y: -5.1300006, z: 0}
+    - {x: 43.87, y: -5, z: 0}
+    - {x: 44.13, y: -5, z: 0}
+    - {x: 43.87, y: -5, z: 0}
+    - {x: 44.13, y: -1, z: 0}
+    - {x: 43.87, y: -1, z: 0}
+    - {x: 44, y: -1, z: 0}
+    - {x: 44.13, y: -1, z: 0}
+    - {x: 44.13, y: -0.86999947, z: 0}
+    - {x: 44, y: -0.87, z: 0}
+    - {x: 44, y: -0.87, z: 0}
+    - {x: 44, y: -1.13, z: 0}
+    - {x: 28, y: -0.87, z: 0}
+    - {x: 28, y: -1.13, z: 0}
+    - {x: 53.87, y: -10, z: 0}
+    - {x: 54.13, y: -10, z: 0}
+    - {x: 53.87, y: -14, z: 0}
+    - {x: 54.13, y: -14, z: 0}
+    - {x: 54, y: -14, z: 0}
+    - {x: 53.87, y: -14, z: 0}
+    - {x: 53.87, y: -14.130001, z: 0}
+    - {x: 54, y: -14.13, z: 0}
+    - {x: 54, y: -14.13, z: 0}
+    - {x: 54, y: -13.87, z: 0}
+    - {x: 56, y: -14.13, z: 0}
+    - {x: 56, y: -13.87, z: 0}
+    - {x: 56, y: -14, z: 0}
+    - {x: 56, y: -13.87, z: 0}
+    - {x: 56.13, y: -13.869999, z: 0}
+    - {x: 56.13, y: -14, z: 0}
+    - {x: 55.87, y: -14, z: 0}
+    - {x: 56.13, y: -14, z: 0}
+    - {x: 55.87, y: -15, z: 0}
+    - {x: 56.13, y: -15, z: 0}
+    - {x: 56, y: -15, z: 0}
+    - {x: 56.13, y: -15, z: 0}
+    - {x: 56.13, y: -15.130001, z: 0}
+    - {x: 56, y: -15.13, z: 0}
+    - {x: 56, y: -14.87, z: 0}
+    - {x: 56, y: -15.13, z: 0}
+    - {x: 54, y: -14.87, z: 0}
+    - {x: 54, y: -15.13, z: 0}
+    - {x: 54, y: -15, z: 0}
+    - {x: 54, y: -14.87, z: 0}
+    - {x: 53.87, y: -14.869999, z: 0}
+    - {x: 53.87, y: -15, z: 0}
+    - {x: 53.87, y: -15, z: 0}
+    - {x: 54.13, y: -15, z: 0}
+    - {x: 53.87, y: -19, z: 0}
+    - {x: 54.13, y: -19, z: 0}
+    - {x: 54, y: -19, z: 0}
+    - {x: 53.87, y: -19, z: 0}
+    - {x: 53.87, y: -19.130001, z: 0}
+    - {x: 54, y: -19.13, z: 0}
+    - {x: 54, y: -19.13, z: 0}
+    - {x: 54, y: -18.87, z: 0}
+    - {x: 64, y: -19.13, z: 0}
+    - {x: 64, y: -18.87, z: 0}
+    - {x: 64, y: -19, z: 0}
+    - {x: 64, y: -19.13, z: 0}
+    - {x: 64.13, y: -19.130001, z: 0}
+    - {x: 64.13, y: -19, z: 0}
+    - {x: 64.13, y: -19, z: 0}
+    - {x: 63.87, y: -19, z: 0}
+    - {x: 64.13, y: -11.75, z: 0}
+    - {x: 63.87, y: -11.75, z: 0}
+    - {x: 64, y: -11.75, z: 0}
+    - {x: 64.13, y: -11.75, z: 0}
+    - {x: 64.13, y: -11.619999, z: 0}
+    - {x: 64, y: -11.62, z: 0}
+    - {x: 64, y: -11.62, z: 0}
+    - {x: 64, y: -11.88, z: 0}
+    - {x: 56, y: -11.62, z: 0}
+    - {x: 56, y: -11.88, z: 0}
+    - {x: 56, y: -11.75, z: 0}
+    - {x: 56, y: -11.88, z: 0}
+    - {x: 55.87, y: -11.880001, z: 0}
+    - {x: 55.87, y: -11.75, z: 0}
+    - {x: 56.13, y: -11.75, z: 0}
+    - {x: 55.87, y: -11.75, z: 0}
+    - {x: 56.13, y: -10, z: 0}
+    - {x: 55.87, y: -10, z: 0}
+    - {x: 55.87, y: -1, z: 0}
+    - {x: 56.13, y: -1, z: 0}
+    - {x: 55.87, y: -5, z: 0}
+    - {x: 56.13, y: -5, z: 0}
+    - {x: 56, y: -10.13, z: 0}
+    - {x: 56, y: -9.87, z: 0}
+    - {x: 98, y: -10.13, z: 0}
+    - {x: 98, y: -9.87, z: 0}
+    - {x: 98.13, y: -8, z: 0}
+    - {x: 97.87, y: -8, z: 0}
+    - {x: 98.13, y: -2.75, z: 0}
+    - {x: 97.87, y: -2.75, z: 0}
+    - {x: 98, y: -2.75, z: 0}
+    - {x: 98.13, y: -2.75, z: 0}
+    - {x: 98.13, y: -2.6200013, z: 0}
+    - {x: 98, y: -2.62, z: 0}
+    - {x: 98, y: -2.62, z: 0}
+    - {x: 98, y: -2.88, z: 0}
+    - {x: 76, y: -2.62, z: 0}
+    - {x: 76, y: -2.88, z: 0}
+    - {x: 76, y: -2.75, z: 0}
+    - {x: 76, y: -2.88, z: 0}
+    - {x: 75.87, y: -2.8799987, z: 0}
+    - {x: 75.87, y: -2.75, z: 0}
+    - {x: 76.13, y: -2.75, z: 0}
+    - {x: 75.87, y: -2.75, z: 0}
+    - {x: 76.13, y: -1, z: 0}
+    - {x: 75.87, y: -1, z: 0}
+    - {x: 76, y: -1, z: 0}
+    - {x: 76.13, y: -1, z: 0}
+    - {x: 76.13, y: -0.95155543, z: 0}
+    - {x: 76.0983, y: -0.91492456, z: 0}
+    - {x: 56, y: -1, z: 0}
+    - {x: 55.93121, y: -0.8896916, z: 0}
+    - {x: 55.87, y: -0.92786247, z: 0}
+    - {x: 55.87, y: -1, z: 0}
+    - {x: 76.0983, y: -0.9149239, z: 0}
+    - {x: 75.9017, y: -1.0850761, z: 0}
+    - {x: 75.83691, y: -0.61673194, z: 0}
+    - {x: 75.67727, y: -0.8219529, z: 0}
+    - {x: 75.40923, y: -0.33265597, z: 0}
+    - {x: 75.28965, y: -0.56352574, z: 0}
+    - {x: 74.838295, y: -0.06790758, z: 0}
+    - {x: 74.7452, y: -0.3106702, z: 0}
+    - {x: 74.13586, y: 0.17858672, z: 0}
+    - {x: 74.06147, y: -0.07054704, z: 0}
+    - {x: 73.31494, y: 0.40526327, z: 0}
+    - {x: 73.254776, y: 0.15232047, z: 0}
+    - {x: 72.389366, y: 0.6096883, z: 0}
+    - {x: 72.34072, y: 0.3542788, z: 0}
+    - {x: 71.37323, y: 0.78909934, z: 0}
+    - {x: 71.33447, y: 0.5320035, z: 0}
+    - {x: 70.28088, y: 0.94059336, z: 0}
+    - {x: 70.25105, y: 0.68231046, z: 0}
+    - {x: 69.12679, y: 1.0611992, z: 0}
+    - {x: 69.10537, y: 0.8020835, z: 0}
+    - {x: 67.925446, y: 1.147909, z: 0}
+    - {x: 67.91226, y: 0.8882436, z: 0}
+    - {x: 66.691376, y: 1.1976906, z: 0}
+    - {x: 66.68654, y: 0.93773544, z: 0}
+    - {x: 65.43913, y: 1.2074937, z: 0}
+    - {x: 65.44304, y: 0.947523, z: 0}
+    - {x: 64.18324, y: 1.1742481, z: 0}
+    - {x: 64.19655, y: 0.9145886, z: 0}
+    - {x: 62.93824, y: 1.0948607, z: 0}
+    - {x: 62.96189, y: 0.83593863, z: 0}
+    - {x: 61.718616, y: 0.96620405, z: 0}
+    - {x: 61.753925, y: 0.70861304, z: 0}
+    - {x: 60.538822, y: 0.78509957, z: 0}
+    - {x: 60.587536, y: 0.52970403, z: 0}
+    - {x: 59.413284, y: 0.54828477, z: 0}
+    - {x: 59.477684, y: 0.29638624, z: 0}
+    - {x: 58.356335, y: 0.2523621, z: 0}
+    - {x: 58.43935, y: 0.005970396, z: 0}
+    - {x: 57.38229, y: -0.10628545, z: 0}
+    - {x: 57.487576, y: -0.34401357, z: 0}
+    - {x: 56.507587, y: -0.5304137, z: 0}
+    - {x: 56.63528, y: -0.75689715, z: 0}
+    - {x: 55.93121, y: -0.88969076, z: 0}
+    - {x: 56.06879, y: -1.1103092, z: 0}
+    - {x: 112.37884, y: -13.452882, z: 0}
+    - {x: 112.62116, y: -13.547118, z: 0}
+    - {x: 112.008995, y: -14.403907, z: 0}
+    - {x: 112.25132, y: -14.498143, z: 0}
+    - {x: 111.63915, y: -15.354932, z: 0}
+    - {x: 111.88148, y: -15.449168, z: 0}
+    - {x: 111.26931, y: -16.305958, z: 0}
+    - {x: 111.511635, y: -16.400192, z: 0}
+    - {x: 110.89947, y: -17.256983, z: 0}
+    - {x: 111.14179, y: -17.351217, z: 0}
+    - {x: 110.529625, y: -18.208008, z: 0}
+    - {x: 110.77195, y: -18.302242, z: 0}
+    - {x: 110.15978, y: -19.15903, z: 0}
+    - {x: 110.40211, y: -19.25327, z: 0}
+    - {x: 109.78993, y: -20.110056, z: 0}
+    - {x: 110.03226, y: -20.204294, z: 0}
+    - {x: 109.42009, y: -21.061083, z: 0}
+    - {x: 109.662415, y: -21.155317, z: 0}
+    - {x: 109.05025, y: -22.012108, z: 0}
+    - {x: 109.29257, y: -22.106342, z: 0}
+    - {x: 108.87884, y: -22.452883, z: 0}
+    - {x: 109.12116, y: -22.547117, z: 0}
+    - {x: 109, y: -22.5, z: 0}
+    - {x: 108.87884, y: -22.452883, z: 0}
+    - {x: 108.870255, y: -22.49191, z: 0}
+    - {x: 108.873924, y: -22.531704, z: 0}
+    - {x: 108.88951, y: -22.568499, z: 0}
+    - {x: 108.915535, y: -22.598824, z: 0}
+    - {x: 108.94955, y: -22.61981, z: 0}
+    - {x: 108.98832, y: -22.629475, z: 0}
+    - {x: 108.98832, y: -22.629475, z: 0}
+    - {x: 109.01168, y: -22.370525, z: 0}
+    - {x: 109.1713, y: -22.645939, z: 0}
+    - {x: 109.18801, y: -22.386475, z: 0}
+    - {x: 109.6725, y: -22.675802, z: 0}
+    - {x: 109.680176, y: -22.415915, z: 0}
+    - {x: 110.42872, y: -22.690498, z: 0}
+    - {x: 110.42448, y: -22.430534, z: 0}
+    - {x: 111.37668, y: -22.661364, z: 0}
+    - {x: 111.35727, y: -22.40209, z: 0}
+    - {x: 112.45348, y: -22.559595, z: 0}
+    - {x: 112.41465, y: -22.302511, z: 0}
+    - {x: 113.59639, y: -22.356052, z: 0}
+    - {x: 113.532425, y: -22.104042, z: 0}
+    - {x: 114.742775, y: -22.020977, z: 0}
+    - {x: 114.64631, y: -21.779537, z: 0}
+    - {x: 115.82972, y: -21.52363, z: 0}
+    - {x: 115.692375, y: -21.302866, z: 0}
+    - {x: 116.79255, y: -20.83232, z: 0}
+    - {x: 116.60836, y: -20.648813, z: 0}
+    - {x: 117.56314, y: -19.916664, z: 0}
+    - {x: 117.33559, y: -19.790882, z: 0}
+    - {x: 118.06564, y: -18.771044, z: 0}
+    - {x: 117.82294, y: -18.677797, z: 0}
+    - {x: 118.12617, y: -18.53132, z: 0}
+    - {x: 117.87383, y: -18.46868, z: 0}
+  zoneList:
+  - name: Area1
+    sceneName: MapExampleArea1
+    thickness: 0.26
+    resolution: 0.49
+    outline:
+      serializedVersion: 2
+      rgba: 4294807296
+    background:
+      serializedVersion: 2
+      rgba: 4279637526
+    roomList:
+    - playerIcon: {x: 9, y: 3}
+      offset: {x: 0, y: 0}
+      visible: 1
+      thickness: 0
+      useRoundEnds: 1
+      opacity: 0
+      roomMesh:
+        shapeOffset: 12
+        triangles: 0b00000001000b00010002000b00020003000b00030004000b00040005000b00050006000b00060007000b00070008000b000800090009000a000b00
+        colors:
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        vertices:
+        - {x: 28, y: 7, z: 0}
+        - {x: 28.698618, y: 6.1572976, z: 0}
+        - {x: 29.234707, y: 5.1047745, z: 0}
+        - {x: 29.514595, y: 4.011498, z: 0}
+        - {x: 29.577332, y: 2.9203963, z: 0}
+        - {x: 29.461952, y: 1.874398, z: 0}
+        - {x: 29.207487, y: 0.91643095, z: 0}
+        - {x: 28.852978, y: 0.089423455, z: 0}
+        - {x: 28.437471, y: -0.5636962, z: 0}
+        - {x: 28, y: -1, z: 0}
+        - {x: -10, y: -1, z: 0}
+        - {x: -10, y: 7, z: 0}
+      outlineMesh:
+        shapeOffset: 64
+        triangles: 000001000300000003000200040005000400040006000500040007000600080009000b0008000b000a000c000d000c000c000e000d000c000f000e000c0010000f000c00110010000c00120011000c00130012000c00140013000c001500140016001700160016001800170016001900180016001a00190016001b001a0016001c001b0016001d001c0016001e001d0016001f001e00200021002300200023002200220023002500220025002400240025002700240027002600260027002900260029002800280029002b0028002b002a002a002b002d002a002d002c002c002d002f002c002f002e002e002f0031002e003100300030003100330030003300320034003500340034003600350034003700360038003900380038003a00390038003b003a003c003d003f003c003f003e00
+        colors:
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        vertices:
+        - {x: -10.13, y: 7, z: 0}
+        - {x: -9.87, y: 7, z: 0}
+        - {x: -10.13, y: -1, z: 0}
+        - {x: -9.87, y: -1, z: 0}
+        - {x: -10, y: -1, z: 0}
+        - {x: -10.13, y: -1, z: 0}
+        - {x: -10.13, y: -1.1300001, z: 0}
+        - {x: -10, y: -1.13, z: 0}
+        - {x: -10, y: -1.13, z: 0}
+        - {x: -10, y: -0.87, z: 0}
+        - {x: 21, y: -1.13, z: 0}
+        - {x: 21, y: -0.87, z: 0}
+        - {x: 21, y: -1, z: 0}
+        - {x: 21, y: -1.13, z: 0}
+        - {x: 21.04975, y: -1.1201043, z: 0}
+        - {x: 21.091925, y: -1.0919238, z: 0}
+        - {x: 21.120104, y: -1.0497489, z: 0}
+        - {x: 21.13, y: -1, z: 0}
+        - {x: 21.120104, y: -0.95025116, z: 0}
+        - {x: 21.091925, y: -0.9080761, z: 0}
+        - {x: 21.04975, y: -0.8798957, z: 0}
+        - {x: 21, y: -0.87, z: 0}
+        - {x: 28, y: -1, z: 0}
+        - {x: 27.9082, y: -0.90795326, z: 0}
+        - {x: 27.879963, y: -0.9500905, z: 0}
+        - {x: 27.87, y: -0.99982613, z: 0}
+        - {x: 27.87983, y: -1.0495881, z: 0}
+        - {x: 27.907953, y: -1.0918008, z: 0}
+        - {x: 27.95009, y: -1.1200377, z: 0}
+        - {x: 27.999826, y: -1.1299999, z: 0}
+        - {x: 28.049587, y: -1.1201707, z: 0}
+        - {x: 28.0918, y: -1.0920467, z: 0}
+        - {x: 28.0918, y: -1.0920466, z: 0}
+        - {x: 27.9082, y: -0.9079534, z: 0}
+        - {x: 28.542574, y: -0.6402051, z: 0}
+        - {x: 28.332369, y: -0.48718736, z: 0}
+        - {x: 28.969835, y: 0.032465477, z: 0}
+        - {x: 28.73612, y: 0.14638144, z: 0}
+        - {x: 29.331488, y: 0.87739706, z: 0}
+        - {x: 29.083487, y: 0.95546484, z: 0}
+        - {x: 29.590338, y: 1.8539729, z: 0}
+        - {x: 29.333567, y: 1.8948231, z: 0}
+        - {x: 29.70733, y: 2.9208028, z: 0}
+        - {x: 29.447332, y: 2.9199898, z: 0}
+        - {x: 29.642311, y: 4.0357547, z: 0}
+        - {x: 29.386879, y: 3.9872413, z: 0}
+        - {x: 29.354446, y: 5.1553936, z: 0}
+        - {x: 29.114967, y: 5.0541553, z: 0}
+        - {x: 28.804811, y: 6.2322836, z: 0}
+        - {x: 28.592424, y: 6.0823116, z: 0}
+        - {x: 28.10008, y: 7.082969, z: 0}
+        - {x: 27.89992, y: 6.917031, z: 0}
+        - {x: 28, y: 7, z: 0}
+        - {x: 28.10008, y: 7.082969, z: 0}
+        - {x: 28.06109, y: 7.13, z: 0}
+        - {x: 28, y: 7.13, z: 0}
+        - {x: -10, y: 7, z: 0}
+        - {x: -10, y: 7.13, z: 0}
+        - {x: -10.13, y: 7.13, z: 0}
+        - {x: -10.13, y: 7, z: 0}
+        - {x: 28, y: 7.13, z: 0}
+        - {x: 28, y: 6.87, z: 0}
+        - {x: -10, y: 7.13, z: 0}
+        - {x: -10, y: 6.87, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: -10, y: 7}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: -10, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 21, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 28, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 1.2864456, y: 0.9264466}
+        invisible: 0
+      - position: {x: 28, y: 7}
+        offsetEnd: {x: 2.7964458, y: -2.7464466}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      lineIndex: 0
+      pointIndex: 3
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 37.56987, y: -5.482533}
+      offset: {x: -0.069869995, y: -0.017467022}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 13
+        triangles: 0c0000000100020003000400020004000500010002000500010005000600010006000700070008000900010007000900010009000a0001000a000b0001000b000c00
+        colors:
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        vertices:
+        - {x: 28, y: -1, z: 0}
+        - {x: 44, y: -1, z: 0}
+        - {x: 44, y: -5, z: 0}
+        - {x: 56, y: -5, z: 0}
+        - {x: 56, y: -10, z: 0}
+        - {x: 39, y: -10, z: 0}
+        - {x: 39, y: -8, z: 0}
+        - {x: 21, y: -8, z: 0}
+        - {x: 21, y: -5, z: 0}
+        - {x: 23, y: -5, z: 0}
+        - {x: 23, y: -4, z: 0}
+        - {x: 21, y: -4, z: 0}
+        - {x: 21, y: -1, z: 0}
+      outlineMesh:
+        shapeOffset: 84
+        triangles: 000001000300000003000200040005000400040006000500040007000600080009000b0008000b000a000c000c000d000c000d000e000c000e000f00100011001300100013001200140014001500140015001600140016001700180019001b0018001b001a001c001d001c001c001e001d001c001f001e00200021002300200023002200240025002400240026002500240027002600280029002b0028002b002a002c002c002d002c002d002e002c002e002f00300031003300300033003200340035003400340036003500340037003600380039003b0038003b003a003c003d003f003c003f003e00400041004300400043004200440044004500440045004600440046004700480049004b0048004b004a004c004d004c004c004e004d004c004f004e00500051005300500053005200
+        colors:
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        vertices:
+        - {x: 20.87, y: -1, z: 0}
+        - {x: 21.13, y: -1, z: 0}
+        - {x: 20.87, y: -4, z: 0}
+        - {x: 21.13, y: -4, z: 0}
+        - {x: 21, y: -4, z: 0}
+        - {x: 20.87, y: -4, z: 0}
+        - {x: 20.87, y: -4.1299996, z: 0}
+        - {x: 21, y: -4.13, z: 0}
+        - {x: 21, y: -4.13, z: 0}
+        - {x: 21, y: -3.87, z: 0}
+        - {x: 23, y: -4.13, z: 0}
+        - {x: 23, y: -3.87, z: 0}
+        - {x: 23, y: -4, z: 0}
+        - {x: 23, y: -3.87, z: 0}
+        - {x: 23.13, y: -3.8700004, z: 0}
+        - {x: 23.13, y: -4, z: 0}
+        - {x: 22.87, y: -4, z: 0}
+        - {x: 23.13, y: -4, z: 0}
+        - {x: 22.87, y: -5, z: 0}
+        - {x: 23.13, y: -5, z: 0}
+        - {x: 23, y: -5, z: 0}
+        - {x: 23.13, y: -5, z: 0}
+        - {x: 23.13, y: -5.1299996, z: 0}
+        - {x: 23, y: -5.13, z: 0}
+        - {x: 23, y: -4.87, z: 0}
+        - {x: 23, y: -5.13, z: 0}
+        - {x: 21, y: -4.87, z: 0}
+        - {x: 21, y: -5.13, z: 0}
+        - {x: 21, y: -5, z: 0}
+        - {x: 21, y: -4.87, z: 0}
+        - {x: 20.87, y: -4.8700004, z: 0}
+        - {x: 20.87, y: -5, z: 0}
+        - {x: 20.87, y: -5, z: 0}
+        - {x: 21.13, y: -5, z: 0}
+        - {x: 20.87, y: -8, z: 0}
+        - {x: 21.13, y: -8, z: 0}
+        - {x: 21, y: -8, z: 0}
+        - {x: 20.87, y: -8, z: 0}
+        - {x: 20.87, y: -8.129999, z: 0}
+        - {x: 21, y: -8.13, z: 0}
+        - {x: 21, y: -8.13, z: 0}
+        - {x: 21, y: -7.87, z: 0}
+        - {x: 39, y: -8.13, z: 0}
+        - {x: 39, y: -7.87, z: 0}
+        - {x: 39, y: -8, z: 0}
+        - {x: 39, y: -7.87, z: 0}
+        - {x: 39.13, y: -7.8699994, z: 0}
+        - {x: 39.13, y: -8, z: 0}
+        - {x: 38.87, y: -8, z: 0}
+        - {x: 39.13, y: -8, z: 0}
+        - {x: 38.87, y: -10, z: 0}
+        - {x: 39.13, y: -10, z: 0}
+        - {x: 39, y: -10, z: 0}
+        - {x: 38.87, y: -10, z: 0}
+        - {x: 38.87, y: -10.130001, z: 0}
+        - {x: 39, y: -10.13, z: 0}
+        - {x: 39, y: -10.13, z: 0}
+        - {x: 39, y: -9.87, z: 0}
+        - {x: 44, y: -10.13, z: 0}
+        - {x: 44, y: -9.87, z: 0}
+        - {x: 46, y: -10.13, z: 0}
+        - {x: 46, y: -9.87, z: 0}
+        - {x: 54, y: -10.13, z: 0}
+        - {x: 54, y: -9.87, z: 0}
+        - {x: 56, y: -4.87, z: 0}
+        - {x: 56, y: -5.13, z: 0}
+        - {x: 44, y: -4.87, z: 0}
+        - {x: 44, y: -5.13, z: 0}
+        - {x: 44, y: -5, z: 0}
+        - {x: 44, y: -5.13, z: 0}
+        - {x: 43.87, y: -5.1300006, z: 0}
+        - {x: 43.87, y: -5, z: 0}
+        - {x: 44.13, y: -5, z: 0}
+        - {x: 43.87, y: -5, z: 0}
+        - {x: 44.13, y: -1, z: 0}
+        - {x: 43.87, y: -1, z: 0}
+        - {x: 44, y: -1, z: 0}
+        - {x: 44.13, y: -1, z: 0}
+        - {x: 44.13, y: -0.86999947, z: 0}
+        - {x: 44, y: -0.87, z: 0}
+        - {x: 44, y: -0.87, z: 0}
+        - {x: 44, y: -1.13, z: 0}
+        - {x: 28, y: -0.87, z: 0}
+        - {x: 28, y: -1.13, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 21, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 21, y: -4}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 23, y: -4}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 23, y: -5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 21, y: -5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 21, y: -8}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 39, y: -8}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 39, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 46, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 54, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 56, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 56, y: -5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: -5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 28, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      lineIndex: 0
+      pointIndex: 15
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 40.48955, y: -15.301858}
+      offset: {x: 0, y: 0}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 1
+      roomMesh:
+        shapeOffset: 10
+        triangles: 090000000100030004000500030005000600020003000600020006000700010002000700010007000800010008000900
+        colors:
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        vertices:
+        - {x: 46, y: -10, z: 0}
+        - {x: 46, y: -14, z: 0}
+        - {x: 44, y: -14, z: 0}
+        - {x: 44, y: -15, z: 0}
+        - {x: 46, y: -15, z: 0}
+        - {x: 46, y: -19, z: 0}
+        - {x: 34.75, y: -19, z: 0}
+        - {x: 34.75, y: -12, z: 0}
+        - {x: 44, y: -12, z: 0}
+        - {x: 44, y: -10, z: 0}
+      outlineMesh:
+        shapeOffset: 68
+        triangles: 000001000300000003000200040004000500040005000600040006000700080009000b0008000b000a000c000d000c000c000e000d000c000f000e00100011001300100013001200140015001400140016001500140017001600180019001b0018001b001a001c001d001c001c001e001d001c001f001e00200021002300200023002200240025002400240026002500240027002600280029002b0028002b002a002c002c002d002c002d002e002c002e002f00300031003300300033003200340034003500340035003600340036003700380039003b0038003b003a003c003d003c003c003e003d003c003f003e00400041004300400043004200
+        colors:
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        vertices:
+        - {x: 43.87, y: -10, z: 0}
+        - {x: 44.13, y: -10, z: 0}
+        - {x: 43.87, y: -12, z: 0}
+        - {x: 44.13, y: -12, z: 0}
+        - {x: 44, y: -12, z: 0}
+        - {x: 44.13, y: -12, z: 0}
+        - {x: 44.13, y: -12.130001, z: 0}
+        - {x: 44, y: -12.13, z: 0}
+        - {x: 44, y: -11.87, z: 0}
+        - {x: 44, y: -12.13, z: 0}
+        - {x: 34.75, y: -11.87, z: 0}
+        - {x: 34.75, y: -12.13, z: 0}
+        - {x: 34.75, y: -12, z: 0}
+        - {x: 34.75, y: -11.87, z: 0}
+        - {x: 34.62, y: -11.869999, z: 0}
+        - {x: 34.62, y: -12, z: 0}
+        - {x: 34.62, y: -12, z: 0}
+        - {x: 34.88, y: -12, z: 0}
+        - {x: 34.62, y: -19, z: 0}
+        - {x: 34.88, y: -19, z: 0}
+        - {x: 34.75, y: -19, z: 0}
+        - {x: 34.62, y: -19, z: 0}
+        - {x: 34.62, y: -19.130001, z: 0}
+        - {x: 34.75, y: -19.13, z: 0}
+        - {x: 34.75, y: -19.13, z: 0}
+        - {x: 34.75, y: -18.87, z: 0}
+        - {x: 46, y: -19.13, z: 0}
+        - {x: 46, y: -18.87, z: 0}
+        - {x: 46, y: -19, z: 0}
+        - {x: 46, y: -19.13, z: 0}
+        - {x: 46.13, y: -19.130001, z: 0}
+        - {x: 46.13, y: -19, z: 0}
+        - {x: 46.13, y: -19, z: 0}
+        - {x: 45.87, y: -19, z: 0}
+        - {x: 46.13, y: -15, z: 0}
+        - {x: 45.87, y: -15, z: 0}
+        - {x: 46, y: -15, z: 0}
+        - {x: 46.13, y: -15, z: 0}
+        - {x: 46.13, y: -14.869999, z: 0}
+        - {x: 46, y: -14.87, z: 0}
+        - {x: 46, y: -14.87, z: 0}
+        - {x: 46, y: -15.13, z: 0}
+        - {x: 44, y: -14.87, z: 0}
+        - {x: 44, y: -15.13, z: 0}
+        - {x: 44, y: -15, z: 0}
+        - {x: 44, y: -15.13, z: 0}
+        - {x: 43.87, y: -15.130001, z: 0}
+        - {x: 43.87, y: -15, z: 0}
+        - {x: 44.13, y: -15, z: 0}
+        - {x: 43.87, y: -15, z: 0}
+        - {x: 44.13, y: -14, z: 0}
+        - {x: 43.87, y: -14, z: 0}
+        - {x: 44, y: -14, z: 0}
+        - {x: 43.87, y: -14, z: 0}
+        - {x: 43.87, y: -13.869999, z: 0}
+        - {x: 44, y: -13.87, z: 0}
+        - {x: 44, y: -14.13, z: 0}
+        - {x: 44, y: -13.87, z: 0}
+        - {x: 46, y: -14.13, z: 0}
+        - {x: 46, y: -13.87, z: 0}
+        - {x: 46, y: -14, z: 0}
+        - {x: 46, y: -14.13, z: 0}
+        - {x: 46.13, y: -14.130001, z: 0}
+        - {x: 46.13, y: -14, z: 0}
+        - {x: 46.13, y: -14, z: 0}
+        - {x: 45.87, y: -14, z: 0}
+        - {x: 46.13, y: -10, z: 0}
+        - {x: 45.87, y: -10, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 44, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: -12}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 34.75, y: -12}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 34.75, y: -19}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 46, y: -19}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 46, y: -15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: -15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: -14}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 46, y: -14}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 46, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      lineIndex: 0
+      pointIndex: 9
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 58.91892, y: -15.185811}
+      offset: {x: 0, y: 0}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 10
+        triangles: 090000000100010002000300090001000300030004000500030005000600030006000700090003000700070008000900
+        colors:
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        vertices:
+        - {x: 56, y: -10, z: 0}
+        - {x: 56, y: -11.75, z: 0}
+        - {x: 64, y: -11.75, z: 0}
+        - {x: 64, y: -19, z: 0}
+        - {x: 54, y: -19, z: 0}
+        - {x: 54, y: -15, z: 0}
+        - {x: 56, y: -15, z: 0}
+        - {x: 56, y: -14, z: 0}
+        - {x: 54, y: -14, z: 0}
+        - {x: 54, y: -10, z: 0}
+      outlineMesh:
+        shapeOffset: 68
+        triangles: 000001000300000003000200040005000400040006000500040007000600080009000b0008000b000a000c000c000d000c000d000e000c000e000f00100011001300100013001200140014001500140015001600140016001700180019001b0018001b001a001c001d001c001c001e001d001c001f001e00200021002300200023002200240025002400240026002500240027002600280029002b0028002b002a002c002d002c002c002e002d002c002f002e00300031003300300033003200340035003400340036003500340037003600380039003b0038003b003a003c003c003d003c003d003e003c003e003f00400041004300400043004200
+        colors:
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        vertices:
+        - {x: 53.87, y: -10, z: 0}
+        - {x: 54.13, y: -10, z: 0}
+        - {x: 53.87, y: -14, z: 0}
+        - {x: 54.13, y: -14, z: 0}
+        - {x: 54, y: -14, z: 0}
+        - {x: 53.87, y: -14, z: 0}
+        - {x: 53.87, y: -14.130001, z: 0}
+        - {x: 54, y: -14.13, z: 0}
+        - {x: 54, y: -14.13, z: 0}
+        - {x: 54, y: -13.87, z: 0}
+        - {x: 56, y: -14.13, z: 0}
+        - {x: 56, y: -13.87, z: 0}
+        - {x: 56, y: -14, z: 0}
+        - {x: 56, y: -13.87, z: 0}
+        - {x: 56.13, y: -13.869999, z: 0}
+        - {x: 56.13, y: -14, z: 0}
+        - {x: 55.87, y: -14, z: 0}
+        - {x: 56.13, y: -14, z: 0}
+        - {x: 55.87, y: -15, z: 0}
+        - {x: 56.13, y: -15, z: 0}
+        - {x: 56, y: -15, z: 0}
+        - {x: 56.13, y: -15, z: 0}
+        - {x: 56.13, y: -15.130001, z: 0}
+        - {x: 56, y: -15.13, z: 0}
+        - {x: 56, y: -14.87, z: 0}
+        - {x: 56, y: -15.13, z: 0}
+        - {x: 54, y: -14.87, z: 0}
+        - {x: 54, y: -15.13, z: 0}
+        - {x: 54, y: -15, z: 0}
+        - {x: 54, y: -14.87, z: 0}
+        - {x: 53.87, y: -14.869999, z: 0}
+        - {x: 53.87, y: -15, z: 0}
+        - {x: 53.87, y: -15, z: 0}
+        - {x: 54.13, y: -15, z: 0}
+        - {x: 53.87, y: -19, z: 0}
+        - {x: 54.13, y: -19, z: 0}
+        - {x: 54, y: -19, z: 0}
+        - {x: 53.87, y: -19, z: 0}
+        - {x: 53.87, y: -19.130001, z: 0}
+        - {x: 54, y: -19.13, z: 0}
+        - {x: 54, y: -19.13, z: 0}
+        - {x: 54, y: -18.87, z: 0}
+        - {x: 64, y: -19.13, z: 0}
+        - {x: 64, y: -18.87, z: 0}
+        - {x: 64, y: -19, z: 0}
+        - {x: 64, y: -19.13, z: 0}
+        - {x: 64.13, y: -19.130001, z: 0}
+        - {x: 64.13, y: -19, z: 0}
+        - {x: 64.13, y: -19, z: 0}
+        - {x: 63.87, y: -19, z: 0}
+        - {x: 64.13, y: -11.75, z: 0}
+        - {x: 63.87, y: -11.75, z: 0}
+        - {x: 64, y: -11.75, z: 0}
+        - {x: 64.13, y: -11.75, z: 0}
+        - {x: 64.13, y: -11.619999, z: 0}
+        - {x: 64, y: -11.62, z: 0}
+        - {x: 64, y: -11.62, z: 0}
+        - {x: 64, y: -11.88, z: 0}
+        - {x: 56, y: -11.62, z: 0}
+        - {x: 56, y: -11.88, z: 0}
+        - {x: 56, y: -11.75, z: 0}
+        - {x: 56, y: -11.88, z: 0}
+        - {x: 55.87, y: -11.880001, z: 0}
+        - {x: 55.87, y: -11.75, z: 0}
+        - {x: 56.13, y: -11.75, z: 0}
+        - {x: 55.87, y: -11.75, z: 0}
+        - {x: 56.13, y: -10, z: 0}
+        - {x: 55.87, y: -10, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 54, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 54, y: -14}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: -14}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: -15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 54, y: -15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 54, y: -19}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 64, y: -19}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 64, y: -11.75}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: -11.75}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      lineIndex: 0
+      pointIndex: 7
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 75.86598, y: -5.9110823}
+      offset: {x: 0, y: 0}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 26
+        triangles: 190000000100190001000200190002000300190003000400190004000500190005000600190006000700190007000800190008000900190009000a0019000a000b0019000b000c0019000c000d0019000d000e0019000e000f0019000f001000190010001100190011001200190012001300190013001400190014001500150016001700190015001700170018001900
+        colors:
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        vertices:
+        - {x: 56.571434, y: -0.6436554, z: 0}
+        - {x: 57.434933, y: -0.22514951, z: 0}
+        - {x: 58.397842, y: 0.12916625, z: 0}
+        - {x: 59.445484, y: 0.4223355, z: 0}
+        - {x: 60.56318, y: 0.6574018, z: 0}
+        - {x: 61.73627, y: 0.83740854, z: 0}
+        - {x: 62.950066, y: 0.9653996, z: 0}
+        - {x: 64.189896, y: 1.0444183, z: 0}
+        - {x: 65.441086, y: 1.0775083, z: 0}
+        - {x: 66.68896, y: 1.067713, z: 0}
+        - {x: 67.91885, y: 1.0180763, z: 0}
+        - {x: 69.11608, y: 0.93164134, z: 0}
+        - {x: 70.26597, y: 0.8114519, z: 0}
+        - {x: 71.35385, y: 0.6605514, z: 0}
+        - {x: 72.36504, y: 0.48198354, z: 0}
+        - {x: 73.28486, y: 0.27879187, z: 0}
+        - {x: 74.09866, y: 0.05401984, z: 0}
+        - {x: 74.79175, y: -0.18928888, z: 0}
+        - {x: 75.34944, y: -0.44809085, z: 0}
+        - {x: 75.75709, y: -0.7193424, z: 0}
+        - {x: 76, y: -1, z: 0}
+        - {x: 76, y: -2.75, z: 0}
+        - {x: 98, y: -2.75, z: 0}
+        - {x: 98, y: -10, z: 0}
+        - {x: 56, y: -10, z: 0}
+        - {x: 56, y: -1, z: 0}
+      outlineMesh:
+        shapeOffset: 80
+        triangles: 000001000300000003000200040005000700040007000600080009000b0008000b000a000c000d000c000c000e000d000c000f000e00100011001300100013001200140014001500140015001600140016001700180019001b0018001b001a001c001d001c001c001e001d001c001f001e00200021002000200022002100200023002200240025002700240027002600260027002900260029002800280029002b0028002b002a002a002b002d002a002d002c002c002d002f002c002f002e002e002f0031002e0031003000300031003300300033003200320033003500320035003400340035003700340037003600360037003900360039003800380039003b0038003b003a003a003b003d003a003d003c003c003d003f003c003f003e003e003f0041003e0041004000400041004300400043004200420043004500420045004400440045004700440047004600460047004900460049004800480049004b0048004b004a004a004b004d004a004d004c004c004d004f004c004f004e00
+        colors:
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        vertices:
+        - {x: 55.87, y: -1, z: 0}
+        - {x: 56.13, y: -1, z: 0}
+        - {x: 55.87, y: -5, z: 0}
+        - {x: 56.13, y: -5, z: 0}
+        - {x: 56, y: -10.13, z: 0}
+        - {x: 56, y: -9.87, z: 0}
+        - {x: 98, y: -10.13, z: 0}
+        - {x: 98, y: -9.87, z: 0}
+        - {x: 98.13, y: -8, z: 0}
+        - {x: 97.87, y: -8, z: 0}
+        - {x: 98.13, y: -2.75, z: 0}
+        - {x: 97.87, y: -2.75, z: 0}
+        - {x: 98, y: -2.75, z: 0}
+        - {x: 98.13, y: -2.75, z: 0}
+        - {x: 98.13, y: -2.6200013, z: 0}
+        - {x: 98, y: -2.62, z: 0}
+        - {x: 98, y: -2.62, z: 0}
+        - {x: 98, y: -2.88, z: 0}
+        - {x: 76, y: -2.62, z: 0}
+        - {x: 76, y: -2.88, z: 0}
+        - {x: 76, y: -2.75, z: 0}
+        - {x: 76, y: -2.88, z: 0}
+        - {x: 75.87, y: -2.8799987, z: 0}
+        - {x: 75.87, y: -2.75, z: 0}
+        - {x: 76.13, y: -2.75, z: 0}
+        - {x: 75.87, y: -2.75, z: 0}
+        - {x: 76.13, y: -1, z: 0}
+        - {x: 75.87, y: -1, z: 0}
+        - {x: 76, y: -1, z: 0}
+        - {x: 76.13, y: -1, z: 0}
+        - {x: 76.13, y: -0.95155543, z: 0}
+        - {x: 76.0983, y: -0.91492456, z: 0}
+        - {x: 56, y: -1, z: 0}
+        - {x: 55.93121, y: -0.8896916, z: 0}
+        - {x: 55.87, y: -0.92786247, z: 0}
+        - {x: 55.87, y: -1, z: 0}
+        - {x: 76.0983, y: -0.9149239, z: 0}
+        - {x: 75.9017, y: -1.0850761, z: 0}
+        - {x: 75.83691, y: -0.61673194, z: 0}
+        - {x: 75.67727, y: -0.8219529, z: 0}
+        - {x: 75.40923, y: -0.33265597, z: 0}
+        - {x: 75.28965, y: -0.56352574, z: 0}
+        - {x: 74.838295, y: -0.06790758, z: 0}
+        - {x: 74.7452, y: -0.3106702, z: 0}
+        - {x: 74.13586, y: 0.17858672, z: 0}
+        - {x: 74.06147, y: -0.07054704, z: 0}
+        - {x: 73.31494, y: 0.40526327, z: 0}
+        - {x: 73.254776, y: 0.15232047, z: 0}
+        - {x: 72.389366, y: 0.6096883, z: 0}
+        - {x: 72.34072, y: 0.3542788, z: 0}
+        - {x: 71.37323, y: 0.78909934, z: 0}
+        - {x: 71.33447, y: 0.5320035, z: 0}
+        - {x: 70.28088, y: 0.94059336, z: 0}
+        - {x: 70.25105, y: 0.68231046, z: 0}
+        - {x: 69.12679, y: 1.0611992, z: 0}
+        - {x: 69.10537, y: 0.8020835, z: 0}
+        - {x: 67.925446, y: 1.147909, z: 0}
+        - {x: 67.91226, y: 0.8882436, z: 0}
+        - {x: 66.691376, y: 1.1976906, z: 0}
+        - {x: 66.68654, y: 0.93773544, z: 0}
+        - {x: 65.43913, y: 1.2074937, z: 0}
+        - {x: 65.44304, y: 0.947523, z: 0}
+        - {x: 64.18324, y: 1.1742481, z: 0}
+        - {x: 64.19655, y: 0.9145886, z: 0}
+        - {x: 62.93824, y: 1.0948607, z: 0}
+        - {x: 62.96189, y: 0.83593863, z: 0}
+        - {x: 61.718616, y: 0.96620405, z: 0}
+        - {x: 61.753925, y: 0.70861304, z: 0}
+        - {x: 60.538822, y: 0.78509957, z: 0}
+        - {x: 60.587536, y: 0.52970403, z: 0}
+        - {x: 59.413284, y: 0.54828477, z: 0}
+        - {x: 59.477684, y: 0.29638624, z: 0}
+        - {x: 58.356335, y: 0.2523621, z: 0}
+        - {x: 58.43935, y: 0.005970396, z: 0}
+        - {x: 57.38229, y: -0.10628545, z: 0}
+        - {x: 57.487576, y: -0.34401357, z: 0}
+        - {x: 56.507587, y: -0.5304137, z: 0}
+        - {x: 56.63528, y: -0.75689715, z: 0}
+        - {x: 55.93121, y: -0.88969076, z: 0}
+        - {x: 56.06879, y: -1.1103092, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 56, y: -1}
+        offsetEnd: {x: 4.9764442, y: 3.4764466}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: -5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 56, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 98, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 98, y: -8}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 98, y: -2.75}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 76, y: -2.75}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 76, y: -1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: -1.0764465, y: 1.9664465}
+        invisible: 0
+      lineIndex: 0
+      pointIndex: 3
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 113.166664, y: -18.166666}
+      offset: {x: 0, y: 0}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 16
+        triangles: 0f00000001000f00010002000f00020003000f00030004000f00040005000f00050006000f00060007000f00070008000f00080009000f0009000a000f000a000b000f000b000c000c000d000e000c000e000f00
+        colors:
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        - serializedVersion: 2
+          rgba: 4279637526
+        vertices:
+        - {x: 112.714714, y: -13.695194, z: 0}
+        - {x: 118, y: -18.5, z: 0}
+        - {x: 117.94429, y: -18.72442, z: 0}
+        - {x: 117.44936, y: -19.853773, z: 0}
+        - {x: 116.700455, y: -20.740566, z: 0}
+        - {x: 115.76105, y: -21.413248, z: 0}
+        - {x: 114.69454, y: -21.900257, z: 0}
+        - {x: 113.56441, y: -22.230047, z: 0}
+        - {x: 112.43407, y: -22.431053, z: 0}
+        - {x: 111.366974, y: -22.531727, z: 0}
+        - {x: 110.4266, y: -22.560516, z: 0}
+        - {x: 109.67634, y: -22.545858, z: 0}
+        - {x: 109.17966, y: -22.516207, z: 0}
+        - {x: 109, y: -22.5, z: 0}
+        - {x: 110.280945, y: -19.20615, z: 0}
+        - {x: 112.5, y: -13.5, z: 0}
+      outlineMesh:
+        shapeOffset: 56
+        triangles: 000001000300000003000200020003000500020005000400040005000700040007000600060007000900060009000800080009000b0008000b000a000a000b000d000a000d000c000c000d000f000c000f000e000e000f0011000e001100100010001100130010001300120012001300150012001500140016001700160016001800170016001900180016001a00190016001b001a0016001c001b0016001d001c001e001f0021001e0021002000200021002300200023002200220023002500220025002400240025002700240027002600260027002900260029002800280029002b0028002b002a002a002b002d002a002d002c002c002d002f002c002f002e002e002f0031002e0031003000300031003300300033003200320033003500320035003400340035003700340037003600
+        colors:
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        - serializedVersion: 2
+          rgba: 4294807296
+        vertices:
+        - {x: 112.37884, y: -13.452882, z: 0}
+        - {x: 112.62116, y: -13.547118, z: 0}
+        - {x: 112.008995, y: -14.403907, z: 0}
+        - {x: 112.25132, y: -14.498143, z: 0}
+        - {x: 111.63915, y: -15.354932, z: 0}
+        - {x: 111.88148, y: -15.449168, z: 0}
+        - {x: 111.26931, y: -16.305958, z: 0}
+        - {x: 111.511635, y: -16.400192, z: 0}
+        - {x: 110.89947, y: -17.256983, z: 0}
+        - {x: 111.14179, y: -17.351217, z: 0}
+        - {x: 110.529625, y: -18.208008, z: 0}
+        - {x: 110.77195, y: -18.302242, z: 0}
+        - {x: 110.15978, y: -19.15903, z: 0}
+        - {x: 110.40211, y: -19.25327, z: 0}
+        - {x: 109.78993, y: -20.110056, z: 0}
+        - {x: 110.03226, y: -20.204294, z: 0}
+        - {x: 109.42009, y: -21.061083, z: 0}
+        - {x: 109.662415, y: -21.155317, z: 0}
+        - {x: 109.05025, y: -22.012108, z: 0}
+        - {x: 109.29257, y: -22.106342, z: 0}
+        - {x: 108.87884, y: -22.452883, z: 0}
+        - {x: 109.12116, y: -22.547117, z: 0}
+        - {x: 109, y: -22.5, z: 0}
+        - {x: 108.87884, y: -22.452883, z: 0}
+        - {x: 108.870255, y: -22.49191, z: 0}
+        - {x: 108.873924, y: -22.531704, z: 0}
+        - {x: 108.88951, y: -22.568499, z: 0}
+        - {x: 108.915535, y: -22.598824, z: 0}
+        - {x: 108.94955, y: -22.61981, z: 0}
+        - {x: 108.98832, y: -22.629475, z: 0}
+        - {x: 108.98832, y: -22.629475, z: 0}
+        - {x: 109.01168, y: -22.370525, z: 0}
+        - {x: 109.1713, y: -22.645939, z: 0}
+        - {x: 109.18801, y: -22.386475, z: 0}
+        - {x: 109.6725, y: -22.675802, z: 0}
+        - {x: 109.680176, y: -22.415915, z: 0}
+        - {x: 110.42872, y: -22.690498, z: 0}
+        - {x: 110.42448, y: -22.430534, z: 0}
+        - {x: 111.37668, y: -22.661364, z: 0}
+        - {x: 111.35727, y: -22.40209, z: 0}
+        - {x: 112.45348, y: -22.559595, z: 0}
+        - {x: 112.41465, y: -22.302511, z: 0}
+        - {x: 113.59639, y: -22.356052, z: 0}
+        - {x: 113.532425, y: -22.104042, z: 0}
+        - {x: 114.742775, y: -22.020977, z: 0}
+        - {x: 114.64631, y: -21.779537, z: 0}
+        - {x: 115.82972, y: -21.52363, z: 0}
+        - {x: 115.692375, y: -21.302866, z: 0}
+        - {x: 116.79255, y: -20.83232, z: 0}
+        - {x: 116.60836, y: -20.648813, z: 0}
+        - {x: 117.56314, y: -19.916664, z: 0}
+        - {x: 117.33559, y: -19.790882, z: 0}
+        - {x: 118.06564, y: -18.771044, z: 0}
+        - {x: 117.82294, y: -18.677797, z: 0}
+        - {x: 118.12617, y: -18.53132, z: 0}
+        - {x: 117.87383, y: -18.46868, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 112.5, y: -13.5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 109, y: -22.5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 118, y: -18.5}
+        offsetEnd: {x: -1.0815353, y: -4.8719044}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      lineIndex: 0
+      pointIndex: 2
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    foldOut: 0
+    deleteAsk: 0
+    delete: 0
+    roomIndex: 4
+    roomSaveList: 010000000000
+  - name: Area2
+    sceneName: MapExampleArea2
+    thickness: 0.2
+    resolution: 0.01
+    outline:
+      serializedVersion: 2
+      rgba: 4286054380
+    background:
+      serializedVersion: 2
+      rgba: 4285756275
+    roomList:
+    - playerIcon: {x: 5.190563, y: 2.7059639}
+      offset: {x: 111.25, y: -8.75}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 10
+        triangles: 000001000200000002000300090000000300090003000400090004000500050006000700090005000700070008000900
+        colors:
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        vertices:
+        - {x: 18, y: 6, z: 0}
+        - {x: 18, y: 10, z: 0}
+        - {x: 22, y: 10.1, z: 0}
+        - {x: 22, y: 4, z: 0}
+        - {x: 20, y: 4, z: 0}
+        - {x: 20, y: 3, z: 0}
+        - {x: 22, y: 3, z: 0}
+        - {x: 22, y: -1.25, z: 0}
+        - {x: -13.25, y: -1.25, z: 0}
+        - {x: -13.25, y: 6, z: 0}
+      outlineMesh:
+        shapeOffset: 60
+        triangles: 000001000300000003000200040005000700040007000600080009000b0008000b000a000c000d000c000c000e000d000c000f000e00100011001300100013001200140014001500140015001600140016001700180019001b0018001b001a001c001c001d001c001d001e001c001e001f00200021002300200023002200240025002400240026002500240027002600280029002b0028002b002a002c002d002f002c002f002e00300030003100300031003200300032003300340035003400340036003500340037003600380039003b0038003b003a00
+        colors:
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        vertices:
+        - {x: -13.35, y: 6, z: 0}
+        - {x: -13.15, y: 6, z: 0}
+        - {x: -13.35, y: 0.75, z: 0}
+        - {x: -13.15, y: 0.75, z: 0}
+        - {x: -13.25, y: -1.35, z: 0}
+        - {x: -13.25, y: -1.15, z: 0}
+        - {x: 18, y: -1.35, z: 0}
+        - {x: 18, y: -1.15, z: 0}
+        - {x: 22.1, y: 0, z: 0}
+        - {x: 21.9, y: 0, z: 0}
+        - {x: 22.1, y: 3, z: 0}
+        - {x: 21.9, y: 3, z: 0}
+        - {x: 22, y: 3, z: 0}
+        - {x: 22.1, y: 3, z: 0}
+        - {x: 22.1, y: 3.1000001, z: 0}
+        - {x: 22, y: 3.1, z: 0}
+        - {x: 22, y: 3.1, z: 0}
+        - {x: 22, y: 2.9, z: 0}
+        - {x: 20, y: 3.1, z: 0}
+        - {x: 20, y: 2.9, z: 0}
+        - {x: 20, y: 3, z: 0}
+        - {x: 20, y: 2.9, z: 0}
+        - {x: 19.9, y: 2.8999999, z: 0}
+        - {x: 19.9, y: 3, z: 0}
+        - {x: 20.1, y: 3, z: 0}
+        - {x: 19.9, y: 3, z: 0}
+        - {x: 20.1, y: 4, z: 0}
+        - {x: 19.9, y: 4, z: 0}
+        - {x: 20, y: 4, z: 0}
+        - {x: 19.9, y: 4, z: 0}
+        - {x: 19.9, y: 4.1000004, z: 0}
+        - {x: 20, y: 4.1, z: 0}
+        - {x: 20, y: 3.9, z: 0}
+        - {x: 20, y: 4.1, z: 0}
+        - {x: 22, y: 3.9, z: 0}
+        - {x: 22, y: 4.1, z: 0}
+        - {x: 22, y: 4, z: 0}
+        - {x: 22, y: 3.9, z: 0}
+        - {x: 22.1, y: 3.8999999, z: 0}
+        - {x: 22.1, y: 4, z: 0}
+        - {x: 22.1, y: 4, z: 0}
+        - {x: 21.9, y: 4, z: 0}
+        - {x: 22.1, y: 10.1, z: 0}
+        - {x: 21.9, y: 10.1, z: 0}
+        - {x: 17.9, y: 10, z: 0}
+        - {x: 18.1, y: 10, z: 0}
+        - {x: 17.9, y: 6, z: 0}
+        - {x: 18.1, y: 6, z: 0}
+        - {x: 18, y: 6, z: 0}
+        - {x: 18.1, y: 6, z: 0}
+        - {x: 18.1, y: 5.8999996, z: 0}
+        - {x: 18, y: 5.9, z: 0}
+        - {x: -13.25, y: 6, z: 0}
+        - {x: -13.25, y: 6.1, z: 0}
+        - {x: -13.35, y: 6.1000004, z: 0}
+        - {x: -13.35, y: 6, z: 0}
+        - {x: 18, y: 6.1, z: 0}
+        - {x: 18, y: 5.9, z: 0}
+        - {x: -13.25, y: 6.1, z: 0}
+        - {x: -13.25, y: 5.9, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: -13.25, y: 6}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: -13.25, y: 0.75}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: -13.25, y: -1.25}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 18, y: -1.25}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 22, y: -1.25}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 22, y: -0}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 22, y: 3}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 20, y: 3}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 20, y: 4}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 22, y: 4}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 22, y: 10.1}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 18, y: 10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 18, y: 6}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      lineIndex: 0
+      pointIndex: 0
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 23.499998, y: -5}
+      offset: {x: 111.256004, y: -8.749887}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 5
+        triangles: 040000000100040001000200020003000400
+        colors:
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        vertices:
+        - {x: 18, y: 0, z: 0}
+        - {x: 29, y: 0, z: 0}
+        - {x: 29, y: -10, z: 0}
+        - {x: 18, y: -10, z: 0}
+        - {x: 18, y: -1.15, z: 0}
+      outlineMesh:
+        shapeOffset: 28
+        triangles: 000001000300000003000200040005000400040006000500040007000600080009000b0008000b000a000c000d000c000c000e000d000c000f000e00100011001300100013001200140015001400140016001500140017001600180019001b0018001b001a00
+        colors:
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        vertices:
+        - {x: 17.9, y: -1.15, z: 0}
+        - {x: 18.1, y: -1.15, z: 0}
+        - {x: 17.9, y: -10, z: 0}
+        - {x: 18.1, y: -10, z: 0}
+        - {x: 18, y: -10, z: 0}
+        - {x: 17.9, y: -10, z: 0}
+        - {x: 17.9, y: -10.1, z: 0}
+        - {x: 18, y: -10.1, z: 0}
+        - {x: 18, y: -10.1, z: 0}
+        - {x: 18, y: -9.9, z: 0}
+        - {x: 29, y: -10.1, z: 0}
+        - {x: 29, y: -9.9, z: 0}
+        - {x: 29, y: -10, z: 0}
+        - {x: 29, y: -10.1, z: 0}
+        - {x: 29.1, y: -10.1, z: 0}
+        - {x: 29.1, y: -10, z: 0}
+        - {x: 29.1, y: -10, z: 0}
+        - {x: 28.9, y: -10, z: 0}
+        - {x: 29.1, y: 0, z: 0}
+        - {x: 28.9, y: 0, z: 0}
+        - {x: 29, y: 0, z: 0}
+        - {x: 29.1, y: 0, z: 0}
+        - {x: 29.1, y: 0.10000018, z: 0}
+        - {x: 29, y: 0.1, z: 0}
+        - {x: 29, y: 0.1, z: 0}
+        - {x: 29, y: -0.1, z: 0}
+        - {x: 21.9, y: 0.1, z: 0}
+        - {x: 21.9, y: -0.1, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 18, y: -1.15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 18, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 29, y: -10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 29, y: -0}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 21.9, y: 0}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 18, y: -0}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      lineIndex: 0
+      pointIndex: 3
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 37.321705, y: 12.563953}
+      offset: {x: 111.256004, y: -8.749887}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 9
+        triangles: 080000000100030004000500030005000600020003000600020006000700010002000700010007000800
+        colors:
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        vertices:
+        - {x: 44.100002, y: 15, z: 0}
+        - {x: 50, y: 15, z: 0}
+        - {x: 50, y: 13.5, z: 0}
+        - {x: 51, y: 13.5, z: 0}
+        - {x: 51, y: 16, z: 0}
+        - {x: 56, y: 16, z: 0}
+        - {x: 56, y: 10, z: 0}
+        - {x: 18, y: 10, z: 0}
+        - {x: 18, y: 15, z: 0}
+      outlineMesh:
+        shapeOffset: 56
+        triangles: 00000100030000000300020004000500070004000700060008000900080008000a00090008000b000a000c000d000f000c000f000e0010001100100010001200110010001300120014001500170014001700160018001900180018001a00190018001b001a001c001d001f001c001f001e00200020002100200021002200200022002300240025002700240027002600280028002900280029002a0028002a002b002c002d002f002c002f002e00300031003000300032003100300033003200340035003700340037003600
+        colors:
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        vertices:
+        - {x: 17.9, y: 15, z: 0}
+        - {x: 18.1, y: 15, z: 0}
+        - {x: 17.9, y: 10, z: 0}
+        - {x: 18.1, y: 10, z: 0}
+        - {x: 22, y: 9.9, z: 0}
+        - {x: 22, y: 10.1, z: 0}
+        - {x: 56, y: 9.9, z: 0}
+        - {x: 56, y: 10.1, z: 0}
+        - {x: 56, y: 10, z: 0}
+        - {x: 56, y: 9.9, z: 0}
+        - {x: 56.1, y: 9.900001, z: 0}
+        - {x: 56.1, y: 10, z: 0}
+        - {x: 56.1, y: 10, z: 0}
+        - {x: 55.9, y: 10, z: 0}
+        - {x: 56.1, y: 16, z: 0}
+        - {x: 55.9, y: 16, z: 0}
+        - {x: 56, y: 16, z: 0}
+        - {x: 56.1, y: 16, z: 0}
+        - {x: 56.1, y: 16.099998, z: 0}
+        - {x: 56, y: 16.1, z: 0}
+        - {x: 56, y: 16.1, z: 0}
+        - {x: 56, y: 15.9, z: 0}
+        - {x: 51, y: 16.1, z: 0}
+        - {x: 51, y: 15.9, z: 0}
+        - {x: 51, y: 16, z: 0}
+        - {x: 51, y: 16.1, z: 0}
+        - {x: 50.9, y: 16.099998, z: 0}
+        - {x: 50.9, y: 16, z: 0}
+        - {x: 50.9, y: 16, z: 0}
+        - {x: 51.1, y: 16, z: 0}
+        - {x: 50.9, y: 13.5, z: 0}
+        - {x: 51.1, y: 13.5, z: 0}
+        - {x: 51, y: 13.5, z: 0}
+        - {x: 51.1, y: 13.5, z: 0}
+        - {x: 51.1, y: 13.400001, z: 0}
+        - {x: 51, y: 13.4, z: 0}
+        - {x: 51, y: 13.6, z: 0}
+        - {x: 51, y: 13.4, z: 0}
+        - {x: 50, y: 13.6, z: 0}
+        - {x: 50, y: 13.4, z: 0}
+        - {x: 50, y: 13.5, z: 0}
+        - {x: 50, y: 13.4, z: 0}
+        - {x: 49.9, y: 13.400001, z: 0}
+        - {x: 49.9, y: 13.5, z: 0}
+        - {x: 50.1, y: 13.5, z: 0}
+        - {x: 49.9, y: 13.5, z: 0}
+        - {x: 50.1, y: 15, z: 0}
+        - {x: 49.9, y: 15, z: 0}
+        - {x: 18, y: 15, z: 0}
+        - {x: 18, y: 15.1, z: 0}
+        - {x: 17.9, y: 15.1, z: 0}
+        - {x: 17.9, y: 15, z: 0}
+        - {x: 44.100002, y: 15.1, z: 0}
+        - {x: 44.100002, y: 14.9, z: 0}
+        - {x: 18, y: 15.1, z: 0}
+        - {x: 18, y: 14.9, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 18, y: 15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 18, y: 10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 22, y: 10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: 10}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 56, y: 16}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 51, y: 16}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 51, y: 13.5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 50, y: 13.5}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 50, y: 15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 44.100002, y: 15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      lineIndex: 0
+      pointIndex: 9
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 49.288746, y: 20.324684}
+      offset: {x: 111.256004, y: -8.749887}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 18
+        triangles: 110000000100020003000400020004000500010002000500110001000500060007000800060008000900050006000900110005000900110009000a000a000b000c000a000c000d000a000d000e000a000e000f0011000a000f000f0010001100
+        colors:
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        vertices:
+        - {x: 43, y: 24, z: 0}
+        - {x: 43, y: 23, z: 0}
+        - {x: 46.75, y: 23, z: 0}
+        - {x: 46.75, y: 24, z: 0}
+        - {x: 53, y: 24, z: 0}
+        - {x: 53, y: 21, z: 0}
+        - {x: 65, y: 21, z: 0}
+        - {x: 65, y: 24, z: 0}
+        - {x: 68, y: 24, z: 0}
+        - {x: 68, y: 18, z: 0}
+        - {x: 50, y: 18, z: 0}
+        - {x: 50, y: 15, z: 0}
+        - {x: 44, y: 15, z: 0}
+        - {x: 44, y: 16, z: 0}
+        - {x: 42, y: 16, z: 0}
+        - {x: 42, y: 20, z: 0}
+        - {x: 32, y: 20, z: 0}
+        - {x: 32, y: 24, z: 0}
+      outlineMesh:
+        shapeOffset: 120
+        triangles: 000001000300000003000200040005000400040006000500040007000600080009000b0008000b000a000c000c000d000c000d000e000c000e000f00100011001300100013001200140015001400140016001500140017001600180019001b0018001b001a001c001c001d001c001d001e001c001e001f00200021002300200023002200240025002700240027002600280028002900280029002a0028002a002b002c002d002f002c002f002e0030003100300030003200310030003300320034003500370034003700360038003900380038003a00390038003b003a003c003d003f003c003f003e00400041004300400043004200440044004500440045004600440046004700480049004b0048004b004a004c004d004c004c004e004d004c004f004e00500051005300500053005200540055005400540056005500540057005600580059005b0058005b005a005c005c005d005c005d005e005c005e005f00600061006300600063006200640064006500640065006600640066006700680069006b0068006b006a006c006d006c006c006e006d006c006f006e00700071007000700072007100700073007200740075007700740077007600
+        colors:
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        vertices:
+        - {x: 31.9, y: 24, z: 0}
+        - {x: 32.1, y: 24, z: 0}
+        - {x: 31.9, y: 20, z: 0}
+        - {x: 32.1, y: 20, z: 0}
+        - {x: 32, y: 20, z: 0}
+        - {x: 31.9, y: 20, z: 0}
+        - {x: 31.900002, y: 19.900002, z: 0}
+        - {x: 32, y: 19.9, z: 0}
+        - {x: 32, y: 19.9, z: 0}
+        - {x: 32, y: 20.1, z: 0}
+        - {x: 42, y: 19.9, z: 0}
+        - {x: 42, y: 20.1, z: 0}
+        - {x: 42, y: 20, z: 0}
+        - {x: 42, y: 20.1, z: 0}
+        - {x: 42.1, y: 20.099998, z: 0}
+        - {x: 42.1, y: 20, z: 0}
+        - {x: 41.9, y: 20, z: 0}
+        - {x: 42.1, y: 20, z: 0}
+        - {x: 41.9, y: 16, z: 0}
+        - {x: 42.1, y: 16, z: 0}
+        - {x: 42, y: 16, z: 0}
+        - {x: 41.9, y: 16, z: 0}
+        - {x: 41.9, y: 15.900001, z: 0}
+        - {x: 42, y: 15.9, z: 0}
+        - {x: 42, y: 15.9, z: 0}
+        - {x: 42, y: 16.1, z: 0}
+        - {x: 44, y: 15.9, z: 0}
+        - {x: 44, y: 16.1, z: 0}
+        - {x: 44, y: 16, z: 0}
+        - {x: 44, y: 16.1, z: 0}
+        - {x: 44.1, y: 16.099998, z: 0}
+        - {x: 44.1, y: 16, z: 0}
+        - {x: 43.9, y: 16, z: 0}
+        - {x: 44.1, y: 16, z: 0}
+        - {x: 43.9, y: 15, z: 0}
+        - {x: 44.1, y: 15, z: 0}
+        - {x: 50.1, y: 15, z: 0}
+        - {x: 49.9, y: 15, z: 0}
+        - {x: 50.1, y: 18, z: 0}
+        - {x: 49.9, y: 18, z: 0}
+        - {x: 50, y: 18, z: 0}
+        - {x: 49.9, y: 18, z: 0}
+        - {x: 49.9, y: 18.099998, z: 0}
+        - {x: 50, y: 18.1, z: 0}
+        - {x: 50, y: 17.9, z: 0}
+        - {x: 50, y: 18.1, z: 0}
+        - {x: 68, y: 17.9, z: 0}
+        - {x: 68, y: 18.1, z: 0}
+        - {x: 68, y: 18, z: 0}
+        - {x: 68, y: 17.9, z: 0}
+        - {x: 68.1, y: 17.900002, z: 0}
+        - {x: 68.1, y: 18, z: 0}
+        - {x: 68.1, y: 18, z: 0}
+        - {x: 67.9, y: 18, z: 0}
+        - {x: 68.1, y: 24, z: 0}
+        - {x: 67.9, y: 24, z: 0}
+        - {x: 68, y: 24, z: 0}
+        - {x: 68.1, y: 24, z: 0}
+        - {x: 68.1, y: 24.099998, z: 0}
+        - {x: 68, y: 24.1, z: 0}
+        - {x: 68, y: 24.1, z: 0}
+        - {x: 68, y: 23.9, z: 0}
+        - {x: 65, y: 24.1, z: 0}
+        - {x: 65, y: 23.9, z: 0}
+        - {x: 61.100002, y: 21.1, z: 0}
+        - {x: 61.100002, y: 20.9, z: 0}
+        - {x: 53, y: 21.1, z: 0}
+        - {x: 53, y: 20.9, z: 0}
+        - {x: 53, y: 21, z: 0}
+        - {x: 53, y: 20.9, z: 0}
+        - {x: 52.9, y: 20.900002, z: 0}
+        - {x: 52.9, y: 21, z: 0}
+        - {x: 53.1, y: 21, z: 0}
+        - {x: 52.9, y: 21, z: 0}
+        - {x: 53.1, y: 24, z: 0}
+        - {x: 52.9, y: 24, z: 0}
+        - {x: 53, y: 24, z: 0}
+        - {x: 53.1, y: 24, z: 0}
+        - {x: 53.1, y: 24.099998, z: 0}
+        - {x: 53, y: 24.1, z: 0}
+        - {x: 53, y: 24.1, z: 0}
+        - {x: 53, y: 23.9, z: 0}
+        - {x: 46.75, y: 24.1, z: 0}
+        - {x: 46.75, y: 23.9, z: 0}
+        - {x: 46.75, y: 24, z: 0}
+        - {x: 46.75, y: 24.1, z: 0}
+        - {x: 46.65, y: 24.099998, z: 0}
+        - {x: 46.65, y: 24, z: 0}
+        - {x: 46.65, y: 24, z: 0}
+        - {x: 46.85, y: 24, z: 0}
+        - {x: 46.65, y: 23, z: 0}
+        - {x: 46.85, y: 23, z: 0}
+        - {x: 46.75, y: 23, z: 0}
+        - {x: 46.85, y: 23, z: 0}
+        - {x: 46.85, y: 22.900002, z: 0}
+        - {x: 46.75, y: 22.9, z: 0}
+        - {x: 46.75, y: 23.1, z: 0}
+        - {x: 46.75, y: 22.9, z: 0}
+        - {x: 43, y: 23.1, z: 0}
+        - {x: 43, y: 22.9, z: 0}
+        - {x: 43, y: 23, z: 0}
+        - {x: 43, y: 22.9, z: 0}
+        - {x: 42.9, y: 22.900002, z: 0}
+        - {x: 42.9, y: 23, z: 0}
+        - {x: 43.1, y: 23, z: 0}
+        - {x: 42.9, y: 23, z: 0}
+        - {x: 43.1, y: 24, z: 0}
+        - {x: 42.9, y: 24, z: 0}
+        - {x: 43, y: 24, z: 0}
+        - {x: 43.1, y: 24, z: 0}
+        - {x: 43.1, y: 24.099998, z: 0}
+        - {x: 43, y: 24.1, z: 0}
+        - {x: 32, y: 24, z: 0}
+        - {x: 32, y: 24.1, z: 0}
+        - {x: 31.900002, y: 24.099998, z: 0}
+        - {x: 31.9, y: 24, z: 0}
+        - {x: 43, y: 24.1, z: 0}
+        - {x: 43, y: 23.9, z: 0}
+        - {x: 32, y: 24.1, z: 0}
+        - {x: 32, y: 23.9, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 32, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 32, y: 20}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 42, y: 20}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 42, y: 16}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: 16}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 44, y: 15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 50, y: 15}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 50, y: 18}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 68, y: 18}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 68, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 65, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 65, y: 21}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 61.100002, y: 21}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 53, y: 21}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 53, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 46.75, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 46.75, y: 23}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 43, y: 23}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 43, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      lineIndex: 0
+      pointIndex: 16
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    - playerIcon: {x: 59.620255, y: 30.132912}
+      offset: {x: 111.256004, y: -8.749887}
+      visible: 0
+      thickness: 0
+      useRoundEnds: 0
+      opacity: 0
+      roomMesh:
+        shapeOffset: 12
+        triangles: 0b00000001000100020003000300040005000100030005000b00010005000500060007000500070008000500080009000b000500090009000a000b00
+        colors:
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        - serializedVersion: 2
+          rgba: 4285756275
+        vertices:
+        - {x: 65, y: 37, z: 0}
+        - {x: 65, y: 21, z: 0}
+        - {x: 61, y: 21, z: 0}
+        - {x: 61, y: 22, z: 0}
+        - {x: 59, y: 22, z: 0}
+        - {x: 59, y: 26, z: 0}
+        - {x: 53, y: 26, z: 0}
+        - {x: 53, y: 29, z: 0}
+        - {x: 55, y: 29, z: 0}
+        - {x: 55, y: 30, z: 0}
+        - {x: 53, y: 30, z: 0}
+        - {x: 53, y: 37, z: 0}
+      outlineMesh:
+        shapeOffset: 84
+        triangles: 000001000300000003000200040005000400040006000500040007000600080009000b0008000b000a000c000c000d000c000d000e000c000e000f00100011001300100013001200140014001500140015001600140016001700180019001b0018001b001a001c001d001c001c001e001d001c001f001e00200021002300200023002200240025002400240026002500240027002600280029002b0028002b002a002c002c002d002c002d002e002c002e002f00300031003300300033003200340035003400340036003500340037003600380039003b0038003b003a003c003c003d003c003d003e003c003e003f0040004100430040004300420044004500470044004700460048004900480048004a00490048004b004a004c004d004c004c004e004d004c004f004e00500051005300500053005200
+        colors:
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        - serializedVersion: 2
+          rgba: 4286054380
+        vertices:
+        - {x: 52.9, y: 37, z: 0}
+        - {x: 53.1, y: 37, z: 0}
+        - {x: 52.9, y: 30, z: 0}
+        - {x: 53.1, y: 30, z: 0}
+        - {x: 53, y: 30, z: 0}
+        - {x: 52.9, y: 30, z: 0}
+        - {x: 52.9, y: 29.900002, z: 0}
+        - {x: 53, y: 29.9, z: 0}
+        - {x: 53, y: 29.9, z: 0}
+        - {x: 53, y: 30.1, z: 0}
+        - {x: 55, y: 29.9, z: 0}
+        - {x: 55, y: 30.1, z: 0}
+        - {x: 55, y: 30, z: 0}
+        - {x: 55, y: 30.1, z: 0}
+        - {x: 55.1, y: 30.099998, z: 0}
+        - {x: 55.1, y: 30, z: 0}
+        - {x: 54.9, y: 30, z: 0}
+        - {x: 55.1, y: 30, z: 0}
+        - {x: 54.9, y: 29, z: 0}
+        - {x: 55.1, y: 29, z: 0}
+        - {x: 55, y: 29, z: 0}
+        - {x: 55.1, y: 29, z: 0}
+        - {x: 55.1, y: 28.900002, z: 0}
+        - {x: 55, y: 28.9, z: 0}
+        - {x: 55, y: 29.1, z: 0}
+        - {x: 55, y: 28.9, z: 0}
+        - {x: 53, y: 29.1, z: 0}
+        - {x: 53, y: 28.9, z: 0}
+        - {x: 53, y: 29, z: 0}
+        - {x: 53, y: 29.1, z: 0}
+        - {x: 52.9, y: 29.099998, z: 0}
+        - {x: 52.9, y: 29, z: 0}
+        - {x: 52.9, y: 29, z: 0}
+        - {x: 53.1, y: 29, z: 0}
+        - {x: 52.9, y: 26, z: 0}
+        - {x: 53.1, y: 26, z: 0}
+        - {x: 53, y: 26, z: 0}
+        - {x: 52.9, y: 26, z: 0}
+        - {x: 52.9, y: 25.900002, z: 0}
+        - {x: 53, y: 25.9, z: 0}
+        - {x: 53, y: 25.9, z: 0}
+        - {x: 53, y: 26.1, z: 0}
+        - {x: 59, y: 25.9, z: 0}
+        - {x: 59, y: 26.1, z: 0}
+        - {x: 59, y: 26, z: 0}
+        - {x: 59, y: 26.1, z: 0}
+        - {x: 59.1, y: 26.099998, z: 0}
+        - {x: 59.1, y: 26, z: 0}
+        - {x: 58.9, y: 26, z: 0}
+        - {x: 59.1, y: 26, z: 0}
+        - {x: 58.9, y: 22, z: 0}
+        - {x: 59.1, y: 22, z: 0}
+        - {x: 59, y: 22, z: 0}
+        - {x: 58.9, y: 22, z: 0}
+        - {x: 58.9, y: 21.900002, z: 0}
+        - {x: 59, y: 21.9, z: 0}
+        - {x: 59, y: 21.9, z: 0}
+        - {x: 59, y: 22.1, z: 0}
+        - {x: 61, y: 21.9, z: 0}
+        - {x: 61, y: 22.1, z: 0}
+        - {x: 61, y: 22, z: 0}
+        - {x: 61, y: 22.1, z: 0}
+        - {x: 61.1, y: 22.099998, z: 0}
+        - {x: 61.1, y: 22, z: 0}
+        - {x: 60.9, y: 22, z: 0}
+        - {x: 61.1, y: 22, z: 0}
+        - {x: 60.9, y: 21, z: 0}
+        - {x: 61.1, y: 21, z: 0}
+        - {x: 65.1, y: 24, z: 0}
+        - {x: 64.9, y: 24, z: 0}
+        - {x: 65.1, y: 37, z: 0}
+        - {x: 64.9, y: 37, z: 0}
+        - {x: 65, y: 37, z: 0}
+        - {x: 65.1, y: 37, z: 0}
+        - {x: 65.1, y: 37.1, z: 0}
+        - {x: 65, y: 37.1, z: 0}
+        - {x: 53, y: 37, z: 0}
+        - {x: 53, y: 37.1, z: 0}
+        - {x: 52.9, y: 37.1, z: 0}
+        - {x: 52.9, y: 37, z: 0}
+        - {x: 65, y: 37.1, z: 0}
+        - {x: 65, y: 36.9, z: 0}
+        - {x: 53, y: 37.1, z: 0}
+        - {x: 53, y: 36.9, z: 0}
+      lineList: []
+      pointList:
+      - position: {x: 53, y: 37}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 53, y: 30}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 55, y: 30}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 55, y: 29}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 53, y: 29}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 53, y: 26}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 59, y: 26}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 59, y: 22}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 61, y: 22}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 61, y: 21}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 65, y: 21}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 1
+      - position: {x: 65, y: 24}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      - position: {x: 65, y: 37}
+        offsetEnd: {x: 0, y: 0}
+        offsetStart: {x: 0, y: 0}
+        invisible: 0
+      lineIndex: 0
+      pointIndex: 3
+      foldOut: 0
+      deleteAsk: 0
+      delete: 0
+      arrowFoldOut: 0
+    foldOut: 0
+    deleteAsk: 0
+    delete: 0
+    roomIndex: 0
+    roomSaveList: 0000000000
+  - name: New Zone
+    sceneName: 
+    thickness: 0.2
+    resolution: 0
+    outline:
+      serializedVersion: 2
+      rgba: 4294696374
+    background:
+      serializedVersion: 2
+      rgba: 4282595631
+    roomList: []
+    foldOut: 0
+    deleteAsk: 0
+    delete: 0
+    roomIndex: 0
+    roomSaveList: 
+  saveZones:
+    list:
+    - name: Area1
+      list: 0101010001
+    - name: Area2
+      list: 0000000000
+  editMode: 0
+  playerOffsetY: 2.5
+  trackPlayerRealTime: 0
+  snapSize: 0.25
+  gizmoSize: 0.5
+  zoneIndex: 0

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8ddbcb0b3bb3c3143b73f2de5fa0cdf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - tree: {instanceID: 0}
+  - lineMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - editor: {instanceID: 0}
+  - isParentNode: {instanceID: 0}
+  - isChildNode: {instanceID: 0}
+  - nodeToDelete: {instanceID: 0}
+  - nodeTexture: {instanceID: 0}
+  - trashTexture: {instanceID: 0}
+  - circleEmpty: {instanceID: 0}
+  - circle: {instanceID: 0}
+  - triangleUp: {instanceID: 0}
+  - triangleDown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

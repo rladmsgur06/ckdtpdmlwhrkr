@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe889e7ac54e30240817952f35c162eb, type: 3}
+  m_Name: Destroy Bots
+  m_EditorClassIdentifier: 
+  icon: {fileID: 982111207384942013, guid: 44678ada8eeac0944a27bd6bb0e578fc, type: 3}
+  title: Destroy Bots
+  goal: 4
+  extraInfo: 
+  description: 'Destroy four bots for 50 gold coins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    rewards
+    a major treasure chest.'
+  rewards:
+  - icon: {fileID: 21300000, guid: 45882180370af084385b9712cf98c2a4, type: 3}
+    reward: 50
+    name: 50 Gold Coins
+    description: 
+    worldFloat: {fileID: 11400000, guid: 1913d64dc45af764094f1a7ebea6b9c1, type: 2}
+    inventorySO: {fileID: 0}
+    itemSO: {fileID: 0}
+    descriptionFoldOut: 0
+  saveQuest:
+    progress: 0
+    isActive: 1
+    isComplete: 0
+  add: 0
+  foldOut: 0
+  remove: 0
+  delete: 0
+  deleteAsk: 0
+  deleteData: 0
+  descriptionFoldOut: 0
+  extraInfoFoldOut: 0

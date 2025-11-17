@@ -1,0 +1,5983 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 107 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 108 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 40.01575 787.0394 0 ] /Rect [ 40.01575 755.8394 174.6302 766.0394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 40.01575 787.0394 0 ] /Rect [ 550.5338 756.4769 555.2598 766.6769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 40.01575 747.0394 0 ] /Rect [ 60.01575 739.6394 104.4282 749.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 40.01575 747.0394 0 ] /Rect [ 550.5338 740.2769 555.2598 750.4769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 40.01575 156.2474 0 ] /Rect [ 80.01575 723.4394 150.8802 733.6394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 64 0 R /XYZ 40.01575 156.2474 0 ] /Rect [ 550.5338 724.0769 555.2598 734.2769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 40.01575 669.0394 0 ] /Rect [ 60.01575 707.2394 84.57225 717.4394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 40.01575 669.0394 0 ] /Rect [ 550.5338 707.8769 555.2598 718.0769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 40.01575 139.8394 0 ] /Rect [ 60.01575 691.0394 108.6782 701.2394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 65 0 R /XYZ 40.01575 139.8394 0 ] /Rect [ 550.5338 691.6769 555.2598 701.8769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 40.01575 699.0394 0 ] /Rect [ 60.01575 674.8394 105.3802 685.0394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 40.01575 699.0394 0 ] /Rect [ 550.5338 675.4769 555.2598 685.6769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 40.01575 449.8394 0 ] /Rect [ 60.01575 658.6394 86.93525 668.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 66 0 R /XYZ 40.01575 449.8394 0 ] /Rect [ 550.5338 659.2769 555.2598 669.4769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 40.01575 150.1891 0 ] /Rect [ 80.01575 642.4394 140.4762 652.6394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 69 0 R /XYZ 40.01575 150.1891 0 ] /Rect [ 550.5338 643.0769 555.2598 653.2769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 70 0 R /XYZ 40.01575 681.0394 0 ] /Rect [ 60.01575 626.2394 102.0482 636.4394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 70 0 R /XYZ 40.01575 681.0394 0 ] /Rect [ 550.5338 626.8769 555.2598 637.0769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 70 0 R /XYZ 40.01575 237.8394 0 ] /Rect [ 80.01575 610.0394 116.3957 620.2394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 70 0 R /XYZ 40.01575 237.8394 0 ] /Rect [ 550.5338 610.6769 555.2598 620.8769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 70 0 R /XYZ 40.01575 163.0394 0 ] /Rect [ 60.01575 593.8394 78.90275 604.0394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 70 0 R /XYZ 40.01575 163.0394 0 ] /Rect [ 550.5338 594.4769 555.2598 604.6769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 71 0 R /XYZ 40.01575 639.0394 0 ] /Rect [ 60.01575 577.6394 88.36325 587.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 71 0 R /XYZ 40.01575 639.0394 0 ] /Rect [ 550.5338 578.2769 555.2598 588.4769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 40.01575 753.0394 0 ] /Rect [ 60.01575 561.4394 90.71775 571.6394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 40.01575 753.0394 0 ] /Rect [ 550.5338 562.0769 555.2598 572.2769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 40.01575 324.2394 0 ] /Rect [ 60.01575 545.2394 79.38725 555.4394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 72 0 R /XYZ 40.01575 324.2394 0 ] /Rect [ 550.5338 545.8769 555.2598 556.0769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 73 0 R /XYZ 40.01575 723.0394 0 ] /Rect [ 60.01575 529.0394 111.9677 539.2394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 73 0 R /XYZ 40.01575 723.0394 0 ] /Rect [ 550.5338 529.6769 555.2598 539.8769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 73 0 R /XYZ 40.01575 545.8394 0 ] /Rect [ 60.01575 512.8394 120.0087 523.0394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 73 0 R /XYZ 40.01575 545.8394 0 ] /Rect [ 550.5338 513.4769 555.2598 523.6769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 73 0 R /XYZ 40.01575 232.6394 0 ] /Rect [ 60.01575 496.6394 111.0242 506.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 73 0 R /XYZ 40.01575 232.6394 0 ] /Rect [ 550.5338 497.2769 555.2598 507.4769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 74 0 R /XYZ 40.01575 677.0394 0 ] /Rect [ 60.01575 480.4394 135.5892 490.6394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 74 0 R /XYZ 40.01575 677.0394 0 ] /Rect [ 550.5338 481.0769 555.2598 491.2769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 74 0 R /XYZ 40.01575 441.8394 0 ] /Rect [ 60.01575 464.2394 110.0807 474.4394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 74 0 R /XYZ 40.01575 441.8394 0 ] /Rect [ 550.5338 464.8769 555.2598 475.0769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 74 0 R /XYZ 40.01575 300.6394 0 ] /Rect [ 60.01575 448.0394 91.19375 458.2394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 74 0 R /XYZ 40.01575 300.6394 0 ] /Rect [ 550.5338 448.6769 555.2598 458.8769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 787.0394 0 ] /Rect [ 60.01575 431.8394 109.1287 442.0394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 787.0394 0 ] /Rect [ 545.8078 432.4769 555.2598 442.6769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 585.8394 0 ] /Rect [ 60.01575 415.6394 77.95925 425.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 585.8394 0 ] /Rect [ 545.8078 416.2769 555.2598 426.4769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 450.2929 0 ] /Rect [ 80.01575 399.4394 95.13725 409.6394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 450.2929 0 ] /Rect [ 545.8078 400.0769 555.2598 410.2769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 317.1465 0 ] /Rect [ 80.01575 383.2394 101.7417 393.4394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 317.1465 0 ] /Rect [ 545.8078 383.8769 555.2598 394.0769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 226 0 ] /Rect [ 80.01575 367.0394 105.0567 377.2394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 75 0 R /XYZ 40.01575 226 0 ] /Rect [ 545.8078 367.6769 555.2598 377.8769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 76 0 R /XYZ 40.01575 681.0394 0 ] /Rect [ 60.01575 350.8394 107.7262 361.0394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 76 0 R /XYZ 40.01575 681.0394 0 ] /Rect [ 545.8078 351.4769 555.2598 361.6769 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 
+  16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 
+  26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 
+  36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 
+  46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 
+  56 0 R 57 0 R ] /Contents 109 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+59 0 obj
+<<
+/Contents 110 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://twobitmachines.github.io/Safire2DCameraDocs/)
+>> /Border [ 0 0 0 ] /Rect [ 250.7057 709.8394 503.4363 721.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:TwoBitMachinesDev@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 401.8857 697.8394 548.7257 709.8394 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 401 /Length 32134 /SMask 63 0 R 
+  /Subtype /Image /Type /XObject /Width 587
+>>
+stream
+Gb",kq-2>#qu6UfRSO:h!Z-b=90qW*5XZS(&[<N0j#.<aF;RDf:m#``6psF2#:aHl7)Z)2V3Flh*6NYmDR=+QRZt*<pZi&;Cm&k2o:4pff%tCdzzzzzzzzzzzzzzzzzzzzz!!')B'uQuY3X2f/;)'VV`Wf3M0#c%h'b8$FTLpZFfQP`eNSc70qh@(o?e]mJNOJE`'%`.PZAr;*Z*s0lj3\;(@B-^"S,EH*4R_`co&sEWT9j[*1H"05;kpJkhqnM?UNr9;='+4r2K*t-d+MNhUCfm4<]F1We"3_S2m/aU0$]7`2!E;_[[WDhEO@jJ)`+h`_SGp!3Bsj6*>JnQ'_-rbWQGW#"KG`t)LU;nlAH8hf,h1I'ND6.DNS0.oB]XLUATsK]-iF6[]3;lb^9Y'GEpb:m+"nV/b(&qFiA7o2E(>SA#33NUIK_X_UC%qm!4)1?Vf:egXhq?T.%rV%.0C7,HWV*Go:qVYb)AbmblXY6bZ:n=%_Rds6OHfSJ8"njoeO:9]L^35LsppnAEi]45j)M9'hk3M;b&7ZR'=%)ur&A7XNZNrq3Sfq.>b-===.Fb4Y3Am^WQm!WuboG&c0F)RRoQh\]UcOOY*3VnT%6e.@m<h#H-E\)=QDp9u"</f&-=,7WP"/<"`%o=Hfhc"#8Z!g&JFqn)unIW=!P*.WD0hI/9!7@l>1#LX=,'Xga3[ZQ%lUo5!Y*k<d8<3Dm3a^"i22Kr0$j_%gnpFQ!.oId1"o'M"Q3H]hgl4t<WX3U/9(\:eo)?Yt\9QO=`mcAAjDcUKS`d2+mOFJ=]kIZ`Y(Ds?&[_*Ml?B*b,s4o-1PE\fR-,\7,BiaVrBtJWKDVJ-7rBA%X-3-+:EIeL%"N\NRH2]*m?.h+(%\=*PrOR7D_nme_AG[PMGr:e,I`NL2_H+e,m*rtl(R':7UD;7nft_<8jMKaE")%B+T:CUIeN%m*'8A!um%>qPMQ_E@;]9]M)HO-?HY9m-WJaC,!k$58$3c\FW*;<L`,J`"aNlgZ\U2Dq[R*H$^3LHpl2FEZ]<)_3pW86uUY4TD)K)%<V+;7K4F\S$dk'?*@dH5:l^o"%*1-UgY0.k/asMq-@I!Y>s/I68DQ@ZQff1]E0g3/0bPNdbp:+]nD@;)fNOZd/-1/^;O==fa4Ib\!@W0FXkS,<fQdSiAKc0>Zk@q>NpQsJipT9u6XuaUlp[V6\Q#V8olLrQ[msXm)hU=n?\YSK_]RLF'/H^.[WpiQmL$'28*l%XIHV7bdYC+$3E*(DgU;+:rRf-FV2X)=]jhH<:`sM5"QZT7b)hcs$1%E09AFfQ9IYO"0Io5$%^1[[#8'$[iLpbFi$3c\No'7(5AIpld)Hq?BA\9iNd'+^8G5H1UaiV"Aojk6T&A)eRUH6T1:90QOe_YR-n[-TRVTWb.FIG@JjlRAEl`Tja%8trrkp4U#nc_d+c^0m>lm/D@7*..EVtct2R6]RmH;EquSRet(qs2s+B$I)P$Yd)1!SB,_$QOAQk+-d8lb(nl9';eXs,2)*;V_=;Yub#h9to:P-<fuXQ^lAfG=_<(pu"@[?R9V01OW3I5=rDB(jncI8j>DI2RUU*gacO;.fK;2^sXJfDeBE[J+=[K`gcRQZD+>d=n#CtC*1#lhn(:MO!$ll/t:+nl:jp$X[hj!n,:>/>u"Hh>Iek3Zs:`ZLmE$`7EW_2Z^89<ndcM*^-UgoV34<h4tND=a5UIrad=_knc^YQ%XC2j[@?.^U26X(dOpOSX'Tq_W"V;>dj.gd%fk6ZLei4hh157>^O'sBj<O1i5jqE>[d<F+IVu98qr]'Y<Skm-NjA/\pu!HR/R(;BjNmY4WSKW"hpZEL>ram-:(PtYJnVZW,IrE3ja[:9X@uP9<s'$MReVbq^.SWY7E`1tib`e18jS>8abSLE-1:oKr;-=DeYW\DZH>+(i']@RVariD%_b6E0@3;5neE%r@>VR.!RV2.YLkU];a*J]Ng-?G0*BPoge7*R<b1-j'(GK93o*dR^Q3\*>[8D\Fmn)-g8&@:)rL4Ugl'KrhZ(1H>DJeLX/UgCW/j(sYH<UtKlP6-6\4JjoTsb.:)B>rCOoKG?Tf#I$>2+5hY>8tFbQ,-^!Nk:V/ah'*b(O(s3@Z?I7$JsR'hgnjR)*-hM/*mh_o(&Rj`4_/)NmK'@"%G,%]jtq-;:fGk\sHHI?7GE;gf[A\.#TDm$n)Vu&u4]"2GSVgO(E*%=SL<J)gcC$;SG1tI/SZ)2c4kc6]Dlq#&reUk3*BAhCj]q.#apFLfX182_Z5AjbB4E9-USBgf-5)EG[s%qfFcYVNgs&/lr`8L5cIX]9E_b)rh:Z*g"1>96.,q/]G6XAZbI0KMk:,G'QpRc\OEia3#$G"J-[Eu-(m9`nA+`K/]DTqr00NRSEc_pTjPdQCZ;sERW&%kV>,nno$R@o:N[(n,k>e\"U'"c]"L=u@2IiVUTn_ftoQ4HbPenG*6dhZ*^%N-.m5$cg^:tc2s_h>,&mGE]R:IOdiAS<+M't>Y=LshE[9!3R2Pls[K5EhDTJ[SMQM7>t\IKDo=<VGpq=oZXn?^p/hQ,HHaFj\I[/)FQ)9"]ZE>=@m'\kW432u`gRs-djida,#.)"*uB<0\0<Q3P:t?hZm2<S1cV3A\0'J%\cFdbA]@`:WUu^>KHMWJ;IE8\[keJ*/+70'1k]hm9.ZgH]%b=GjV)S4X3C^1+`T&tep]`$Pe\ZHD8:S,i:mcZ'PJMjSL@SR$k\20/<5*f)L*PVtkM@B3qte'!)4a0^CF;HkGd;,!'"7LGW[lhk,s(HMK5p1n#`*c>/5SW;p6)Lo'=GDG'mmB+t7<[RemV=rn5]\'b2*`m(,*gWm$[hlAj10-g?Vn85lR6"Od&4]M2@IlFWIdMK,jBY\b"G(VI:%eH.ne=CT+\-G.?&"X/^P]^>P5C%7*H(U\hoWg@'Y.PB:M0EEGTTc-hQP"7cu5)_.B?^q'qEN2\&Rd4%f]TO'kKLj^raeZZiA&.[7cjaiKl/h)^0Kog\+(^J(]0ffO.rgkhW\hN_8aDjd$4Cnd,rj87@YhF=l<pUK+76X3SgF\[QtffVXJ,WiFR,_u=e6s10cYbPaHi:!0WIDZ6N]WcRrE)RIK]1sS2W,CD:lPq5Z@h)_+qdu:\iI!f?iouY(LZC9VT[bD&P&d<u1bNnK.^>U_'hlSZCA["?cm*0nR4eU$=[t/0E?\eXShG!5Tq!>cJFITnC&qh_)Hm++A^[Ea3o97o""29\T%2UumQ,i_=>f;SVlo`aDWNm_`Ohu30DSB,_"&#o__^EE_OF<Lni.&Y&JN'9]hJYVpQ,#gC6)#Et?J)X%R\g=.AqRftmP[5,^]QU$UCj!`9O@>#?b6$A!<V_+\]ruL#*?sm"\d9QJ5sY*BoSc>[qVf.d_uUWIm%"?;c/^A*4l'P7ihfIlK#_Z$UPkYh9PmqMYLt5lJe:KDc4pS</47Sl3a9>-29ccE87c1NX0!_nZKC%N6<I&jhe\fFKa<j6K,olS<D#Rjs:[tN(Xs95Mp;Q]tbSUCF:"*o+`/>@0tI[!Xd!*Fltq\4SplVE99Y65E-:_qqV3W$18_t6tdV,I`Y"R"GqGl#,=eiH5(V]g%0/Y?;^gVSqp*b[e,UKrCHp*')*!%q7h,>G;+C\C^I!Er24o&NTVlQ"\VU"9s=S$8#p0pAT-eu+$gEHUqVJS9$odZ#>-^oPRDtELpho6;U2s\Q<nJm2'3OfGkG??W7&s$/pZ>nGCH,?'$AA%+Ta$tndTo'P+H[8,*h4nF8YR^\">8NVpf>&EU3ks7.6S[9jGm)5#NKknUIq2#e?$(^;f0QBP8FPruR]i#nkKR&P6iPY(,h#NpiICjWtXlm>9J;='%QYcRn&(>'g:q1Xf_0b0LZBob7A[FC_\bJ5Nc9,aA?-D'e[?eq%mXDm$)62?`F_XZ@h5p4`M^eCsbkGP/ZLb(/6U[4ns[g'X!BgV;gaf/EN-+m=)QAc8C3V8N1GIc2d^=2;qUhA!*'=&r@'_c@8hg(e]ue<Ot)f*#b)QRl$3^=B'h^')17m5>D2mSEC49p8e&j5odtMI`,^9T\'[DMY24C)pT,44H0-g@K[?)41$qZT.^-Wsa7U?e<J<)I9t*H_q2L\m>dJ:@SHa3`;?hg*`'tO"M-C"BV)bbIt*1LO\):X2Hej!4G+$dlh^<4.uMtNpu'n^?Y7*g<$JkLF:`3^g.ZKO2&k@KhIG@f;UrtrtgGkM0]$`m?XeS><<'R"b's*eMZ/[*r+tln\R.RmXJU@>pk%faH'_+<Y/!uPJGkVpPni'6>lelY?6^c*-%F_/+.jE:Z1;5Y2CT>VeLH$PRii#m&"-OMe?:pn!3"(^JEDqnl(d=l-[?1"%2OiDaJE;kP59NH&[nZZi@6YUWF;LP(hZ_\Cu;;VFoD3"YM3)*T)Vo>ef!7og[QsX=GuH^YUOYgdmEY^aYfsMFNIQV4qJJ,LELZ-):HRBA9%[R]]u35@h.'eS)UD&GcTS2BqIMkD#f$,M,0C;`sq'A<n5*STOm0i4Wn?F=5Q3<?6eVe>f=m5MoR2Ikfe9H"[!"kH-o?TG=WP3<*_BYi%,Be-3OP+MNHGYKcpZ)s_8bT6V#nH,0#5<2(m5S@\(T[ud6JgdH^W;0gYu'CZuL\<8F`5q\UGM8!&YDuN*uiU9,\Z1lj5]/dY!kV?-.)BkM\dF*kcUnoVfm5Eh('4")t+8"`c^GOMBQ6[0mQjB5!$)2+/Y^,oTe&uX6@_H?b(Z53p,&0%>^^`\)i7;43??HaJVEX*Kq]uTa&4UZgLs<#;IQD@iXp4p)JpVe*c%AZcW?DqH?8u/rp?Da(1"g\#n>J`s"^qb,L-C%ZnnG&%5d7=DRHOGoI@I,]*p?M?=,r@Yg=KAcOHMLqi$)7:OTHnrE>>gX^=T!caVV\s4Yp!)Dnh]5qOtp3GI.#$omN)V)2C<"(PU\>Uc1Uqc+[(Wh8HR/Ssam`pupk:8o<4lcD6^_FrO-#&?/f<=Yd_*I6(`Z;C4j7k=N):$)2[?,\0t7Fm6Xn$-jbrahl*tenQchh>i?D9N"o278;UK?gH%h<gOWh:;G1(!"UPR7R?k?g9^JFFXO4"j_pt)-^0p#FQCC)F6Cm$T@Hr,jeltT/+ac?6.clg8Hm_I?dJaumdu>\7@AuE:;d,4zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!%O:G`W*9<[;&UgP?:iGrF-I;;JBWB:YYCJ-5M;P@\.%[8tD3JM,D/:l_4&eV!_hOBrQrY&>Cph4D6V^F_Z)KISOYU<lY6VAtmR7FRk[a87(<07gZ)bfc5WW1u\Jf@,bsogKjha8<M[VFoa>n/`SJXgk-iVOJU4Ge+upC4gqlm%D*jW9LL?YI/&@=dAPFKXZkSTRh0(&9F&fhTh6eQHZ((G@4,Tgldu[bUB%BfKO^':mT'#05[AEg1X2=RQcm-EL\te;nZR2#CK`7k@M3lr,faMng<;Yc@5;um]m%f`cn?l%HZ88T(^p!J)a9rdoVlqV7hMK"Q'(YN%5AhZRtE3hiip>ol9':<aekl3m%hu/=;UKB%q_/_T+<SXqbJO65Q'sU>R]<.Yh5+^UMK/7IelA`g`o8i-TZVX]544W$!S9-0E2?Gr+ctKmrusJCd.t#7UiD#gfCZ@J'T[\^6jELeZu$\`daILJ\\O%Xi%?G<EHR;J%$$1m$kF.]5g[FD(mu+I<MFZ:uJ^Pc)SK<prR>"`'-CGcuLBpYi`/M]"=^n2WqC1j0P%5HDc83Mm'd10\ii'4u-LQr\n6K4YIQ^RoONV`+X9*kJHDued>d#RY(BkDndq;2mLVeoeon<&Y7]^oQnCW?)gLl;q?,,e`gr\J$T_rS'g-a5E(^>QMbjPO05Kr*gg9p&ihc'>+VHt$C_7?VrsUgLM;'DI&&WI)&(cBUE60^\j(e)P,qnFJ"ji9hP\ek"F*7\gOAtdk`9:AXO@8Q9"fWq3](l1XXl+@b6ql$MIi+-kb(3dg*>U4KoJWQZGe2GXO/GkYF'`t"66"JG.5Y2S<u!P<[UA8Z_aDocf#shqe0IT,BpYLbl\$F!4K8pRq&f[PMO^W`bBmLgp]<p&30YT$!E]9]m%%Y>Q!6KR@(^:*;QYH+Lg^k>FXrr+5X]j95]3!/<8Sc0$)0aY.Ho4[uE<.H"Idqcnb$nNH^mDaNcBLcopbu-,(*IUgEb&a#DVjf'n4BU:*Yjlp*q+2D`+Roo6r]Z9CXp/a:k7?&SQF,C?cg8ueBKFds,[9,2K0&?.+hrgd(0VU:FX@VoHIe^rpu97O'7]HUe+:R?=$Hq.C8L@,F\\_=?$r=YN3frI^o4BC57_F/".?`hjY(5+?F@XISrGM<qRpnDfPrq$sP=h4Ih6gmsQ9qn3=->*5$R_nF(MO"h^q=1[E0mj+KLW2Md.oTBa>>6,n@[RsLF6K8/m1HUU6q/I%0n!NP)ND+4(=N!^Q*lU"hhcWWjg=GDa_jSZ:?Rs>',,fGRi5&_1GX_9fM!E,nmP2F^Gs:6j@2(lgH=URFnndiPmQ4iRC]Yq5<W&D>SngKI8^nG>F<)U'/%a$D\:M_$Y9*GOmh!j;q5_3?eS.Trg^67L<Mf^8FULg3'H2=.1s&mXsfXqW_^@]o$/,.rpoJ:p1TeLb]Hi38%?5Y'KF43<!7@_CX-Mh#rIgA5+P/<=L-CEBpAX2?QPX%VY;_7ULX9_Pi&5-#80q!GibZFU^S?%5*abGhDrMn<?"L%(LlX.NfTq@S6.9Fs/1oFZ-:Wo.1eK/*XU#Tk_Q#>,\o57LRE[S>Ef`bFE>$Y-T4Sq_\Hu;&3/>sqeo.g5C8/H;qNusB(,boju4\&\:?sme\?.8?IX7d3C\AgK583Eo4NNq"L7]n9(:H%g%^T;?I^FDWR<DY&>Hq0m[Npd%qXf-*'_c*CO34k_b9aYH1LW'.9Fmq-G>fYbLGj\lfZGIBs1!]$(OsnNeZp8(RJ5gj<B=/3HE!"SM"*@6B>17q0gc#cs>a)cha6L"VjJ*>jMYJAb\ggWDn(3kSu5*kI=K4lYBbT!_4>fU?S>I;CHLY4VEM%Lm/09c=j!a1LX&_$!a8ea`qklhdd0tYdm$WjML8!SKu-12DiK21c@j)Ai^ImP9AEX=27gHlT=?t)-'/D)a]94VQ./@7S1s$.`DHjE.*nZN3=;Z%rh!K0#u_ZjSZ#ND3'F2[M@Q;p2\R4f[h]oR^7WAr[L91=Rsp0CXcr%S9X->"k/3e7%[(oGD+93V>>fueVXKi3Y")7i8VUCUdRJbOspH&*G30GK*@:,K^dT>+E6'G#b4SU]KaGBApn=`<A2U@\MMI5\+u6\(^jSRo%?>+g<Cu5NN1ZYLUiidC3m#CF5VL=n;<Q/a4G[h[u-GpcA:;N9W9+SE2WB^'!KD'Phl:1XA>i@7N[?"Go$4Pr_p[<PglpJV+][m)^B<B1?r^;FneN#.=G,SJlM=Lo?oG@h-dL]+m0UeI2m-^_"mM[8BHBmNCMTL'mtp;DOnYA6K#9W&3+rS6e($tkc%l%0)gkpRJs7Sje%Ml>sn;ApV'#o'8ES;TM!W)EN<HuM%!_>p0JXm];F=UeXe@jSls//mcn(O*0XRW3big7cg]K*\8XY3<NPn1cn>si'=ctN<,#tL/EC#RSMm)>@17#'\LK32BMVj]Gk"T7?\:E2CqkhNFI#@S?FIYOR"lRePF+<fUSdoMn\8TY,:pCiP'(m9EpC4(AEp>GW7]$VdJL2c4fCeH/!i>FV#"&"PBc9#XeRJE.9rnIk^$j^HuBI:B^?CJV;VCGEOas/-Scn+UaChtd3u?)63U,%ST9>OPa?RkNo':'pHj66@8h]lab%WNI-Y&&Y79'b6sZFM9XPTjN:s^m/$U`G=pqlpB^J#.jiBR);l(MJq:85qD8B[/2IldK6N>3LA=`-Cg>1%#Mq'q0s2NM*VglZY37'^pjOmr>nt`O=eDV(NOQb\'];t?:('qCAFdY4$L9F[SX16L0hon+:`4!0h-cBi2F*tHu[j^>E*;M<DDR/#u2OAc9qGD)V,;1Sokn7]pnE>tqPf`f>fL!+(D,u(;G_ZOmOi9kmb`p7;9;<">aZc!D,gn[g]:n]XB8b<GjB>]TkcFJ2]cogRT4f8KXeq,rN>=LY&aA+:Ri&G#,AieSHRn`8E:W:Y'*S=_>BFA4nDEl)rr!uO,9Uq[JPF<<0%-UNiW"`UF_Y6&Bh:T[fZsr2.GEb`qm2I&.c<7ME]"5#%YXq_\c3a"b"YM7.Y118fN3+_?r:fV/5IjG;a*RT/&.me-mq##A3"'IW(Paj9N"ngBi/1TrO2tUmh'^(iDBDNEYGRNP/9o/W1aZ[YZ?LfRQ:p;)!Zo^B0]>e<=G),%JtaY`-)&i!!jpGMFGQd2[aGK@eCC9!!#7b!XH.<#TNhPK7UghX[/5BRBK=XJA)$a2@9^0!!%PA&dTHW!.^[S#i+RI=jG?_JR$67`STBSkjg95H`aXio$S2`[e`Yf=2-%6nsdd*Ws!8ULIok2Ds3;:WUAh33tSoE_sAkU5'^8rs#M':bcIkd:\(W*WmnncPD?HoZ#bBN(<CM)O2@B5lWg%G[b"A9N6=ghm+N@+M>tnf\]A\'CjO4&L6`d.[5D;R^<cE$Ol08oZs=[EYt&Eh`_O4<kYD,L!!9WIpn'`jc#ifrr5k8]q7>Rop=B#iPiQm=mIOVKlC[FF6!8rB;-B6'Q-1tsJ"gV1]^u?9Fe+iO5p^B9amMX6A=i)_CpVG+#'tS"hL;dC@n0[RTN)Robbe&sR=2V#f'"4`TOK[5kKTWH^[08G#(q?G\hrf^c1(X]X^gEi\dAMJc.NGT$R0b[fftV71"lj1P(!6tWUG:l3cfd:RS%S#2LF^\od-]e[g`m.RAfg9N]Knk]+^X%?M!6k:;'C%)fKVn9#!4B0])@>ALV\LQ>;M^.;e@"Dk+;IgadQsGgF?\"L5Z$3uc5a0jLpoamunNG'TBf-8+2^>:Nj!gM9q%j%:<"Kl-e'#ZfrVrU/3\_Vop>a2WEYG^eY=ah?3u^?=+L5Y5DC8kB%8'6LF#qA-(Q]MoofQIhl,.K4+OR!XjK73?8r&Cbn&^R<,\]UW/E&@+E6G]]o5.HK8^Q$fCp[@t@?:h5SW>Co@!)jf$?U6b?Aq$&_m#b5/ph[t(HD;:oGVr[$OY,]p>T?Y%s\2hK.4IB?!?HYFSLcRbI]ssn4X(@YC1RZ"JWVrYI4(D(cnQTMHN].E8@Zr(3ZS?r+9HD#<[`J*M?<`BLR>EHbm$>e[>ha$dB.7iQ(:KKb?mX*fj#H5is2(mnWa1r]XNPeA5TTmbQ-!YDQd(SCmXL"G.j]-IR@nf,e$m]P,#q-hjg>BlM'I!L?VCjN@S!POgE*7F])L*^A@PW<OHWnCCMl;!([Q+VACnRM/U_:a&]mNG95rid&k4FM01?<.l*Z,&"p-.kmm;(hX\->jZLn!@Woc^QH2=]gQH<lfkOA9gME3un5<U((Zs'%]Z4A;FMSWlh3\#<P'@GL#NO<8@n.r%7[RcWhJWjXlY2$@QQ7[Bjf<ih$jKKZ]ed/aff])TX:/@tueNKeW7usR_o$;^:6_-#VDRc[?'0+*-LjH1%\&`R-%]^hmnli-F7GJ':Xfj)L(I+l#k:pF"hDu3/rdB.SQF;f*c1R\@4oL:P#qd&eC;KF\q_E8_7'0jlJ\]B^J'WdPJ@(cFa/4p""UsjJB]Bk3If,Z02b`3Z5F8O=D-AOa_s@]`lK3kSULTKd;auu,/Md:AMA,keF`jc+_h5DEc*ce5atOKi_R#_t/QoO6[*DS3YV"ENda)Mb?*dY*kqq1a5;dldnEE-[];@-FlQ,uVs-^AF"\rYVHsZ+II>`b'[R;,ZQId=*bfuLOFn,^]'8M"/<mY)IAJ5/!AmF48*#3[uP&1LH1ipS":b6Q`[=XAB![f)h4VLKWaTHCD-N9#;2iM['1&'03[7o49Dj\I7#b4$+C9#(KdSBJ'>Ve%9*\Yg^cK7l"`Qg-SMPCG^C`UEG"\uohS/u601NCC*h=PO*ZG!,XQ8454Z*m74S1<pcYamk`cb-><pZW<3Y.S-*e"tXf>"i3:_(KPt8Jh@r:o'7JGV<oJ>Gu7u>DIHu;gs/VoLWgH<.X)i#f#Nn55r:l^ZQrqpTEPU@Wfi%kDl[[8JmSBN<TG3+9$82A"r#7Yk=UrSjs!RPC8bCGAdsn]l0:V8PBdd[aX28a6WS<AE''P0a<+7\.4(JZ"&%J66t/==a]>+RY`Qfm&"ERDL3tU@9er4[TJJ#hQGn)mSEQ8`q-n8gnbt-*kqAsqTafg.GI[I8oR@AEO#aCFs_gReu;k%BouU)"X^j$eEM5LHe9hse6A0/3"/jkEVQ)md]0mm'@ZP/HUO#Jf:G($![gtufOuCH$K-[$GItu(0R:>c0Uj)[\U!'O-?0[I7$6lD8Bhk[9uQt22OueHY3PrGFP@#b`9qWd&\-ISL'N'HbOnO=H3Pb;9O+Q02a(AegM8eZj4*]lfe`rS(s,BT?.idEO*r^.*kq1%Y$Chu@D_G^gEGW<PWTb-ktHn[X])^Ur88menA!U(OeJSGpV49jDd!\?p:R-$X_qi7S&^8l._+m&3/h.nr:j9)PZ8KsKNs*TQJ_N)[#R!(L".L$Sm.5j8bHZY2MkVR7K\3?!e2i2l8Eifq$&[*X)@%VTZ7HRdmT412>nC4Rs3i1XNU"<>*c8=4hk?LAoauD'*]UMi*u!h*pV!%a58p+9"AQn$9c!iZfS6T@XB]M@@WW)[eSuA=`sQnlm6sGBULH*]/[(!XtG'.TCcArrp09l=W&$eaG1VQLW1rVh"V3ipKFJ5Tqk+,g]"'C)d15ES[ndWj<VnaZdhY6hd3^TVl2pc(%N-:-]S]Qio7Pc6*-7j<@OVK5trbB*O@D[>q67DM3)Ar/P"_%I2TVk^abm=hZ3G>=I8W#I!Ybm^F_@-\7^l`Rtib.M4%k`d$n7=\[G0fEFm+DAP:[=0\^B2%c_$_dF::d/rs6Q].G?tM,Cc.Z<cN[`spj??.+EiNfk1"D#5HA2R6qY1CHfIMt;.,<'eQ$>87sH[^Y>5rb0NC@V3q<eX'_![`TI.!!(RP>C+=Ls7GAIH7t<XI-g%m2')_t!:)pLo'<]pI66_r!=0YF!.^[S]%8uJfDtsPz!!!"B2A.XgZMh$eR@Rke]NtH`2pCS-!!'GZ&h_N$r382O*Fr*]IJhMPb3L#I!4FNn5Mr9l+*3VO2G;mT0B/qQ'cs`1hXC@;XC)&/+;-b5i.BW10B/qQ'cmL/!s!i\Ja03diUSP?!*Y+Y\!5^QLrjZ_F6KjF^%U.o04MMXG!tA002[!7M]F)*QVPkYBFZ8B9FZs7QXXRiSuYVS0&Zd1YglQtM^;W"jV^>,nEQn*%?$Z+7l#i0/)9m:OPsNaP#g:7`o4`K7-/D>Efd5,H5nLE_DKI,3i<30d?e<;6MnV&Nb4%U!!(c2+Q$W7QY5CacnqqDWnfAJA3#6%FElbq)h4Q*"X@,`9,NEl>8ELEZ.LX#TjKiD9L593Gb*:cPNkeD![l"u)ZTlH$8LFI$(#;X#1/LG\eQ0<7l#js(*75@.*kLibd9Xf`i)"[-(i#U3A44G'Zd*jT*8t;P'ncLi$@Zn!<?McU%fBr\3.qjJ<o<IXk5$aOuYA,E.Jh1/1YT!![lIW=K]GrLFK([1kDE*5"kRF/:jR"\cVrJ<^ZI1Q86:B@fS+(X'<,3GQ`)$C>kkT,0rkcZ,"KS30l"4nr1Lu3TX*?PNkdqZh(D*P]G$o!<?NVU%oHsQs`R'MHk$)b)O7_QpXd[(O-P8ZI5$`E)Cm#$Vch!![l/^>aE0&"-`"C0sbq^^dWDQQSQ,V!.`=GlD[K:_3WdhU"n"CPT,<H0ScM@0(^TYA#1bIi1fg&('I!K5F5e(0$ijR*gf?&MO9r]">6uQ\?sX@!!$gV<)7A2$+AolaQ:QT>t3d]KR4<OVYI)PNYNC=a"@b,_!$2<1HUZ]&g#Ha)?9a;zzzzzzzzzzzzzzzzzzzzzzzzz!$"!Z3L.`II/*36?+[O+FoVLBJBGih(I'E?YLajXG&43h#64`(7*o\V[C*EgT0N?W3EE3Rrr)_a`o/rg!!'fXj4q1dhnOYJ?=&XYi7r3/VfCL7gu6/+\%3R[!!#7i^]!kqe*5rCC1UsfFEFlW*hAjm+$Y5Hb1u1+T.;EB\%3R[!!#7i!J0;1D/=#fb9J_rOjc8q)uothD+.2pcGb\X><KQEonj<tknNkFpNMN@'bqGl_f-o@)TQ.(6/V_C!,N`:D5sbASt;O6ih7<8e](n,E>f(5!rr>*h;Es#E,]c9EA7fOqtT\+Vf>4e*.bm+!!(Yh"OtTQE1"m^P<>pIX5!%8*n\oh!eCFR!3k8b#i*%9mk.t]>UPU0p[</A#CusW!3g;H#i+I\O42P*A0/^(*-WD.JHGlPY\es,!<<,p.=o9O,V!q7ZA&\c4K5]mX/G?0L<(^\#g6,N//ou-\!"6hNmOT!-aB["@pIp=0o&?I`5a(p;*`=;$t;51[MIT$P`83=dYD_!=Ei,".tGF;)bo0B\l1q;jk9i[eROM1hlo1Y@;#.8`a/#C#=i5W@m\@23;(MX(d+Q*rZ+>d\AG;'YC1;4rGs,.\ffUKFDOerHXq;W[=0psVIa'<YoGT)$$B@m7C3.CL2JPEGL0`UJAA9'-F<]n`$EC$D\h>UbT$Am-U2\m92H`!=emT]9]E46j;>!u_.@?+%(]]XM&?/7#gpTPQ`0+Y6-dkOVQRW,m[5$u(FW-#,2)g[,7JO>FiSOL6l/*Fq%c:;Q?&ZEEC7(=m\%B3!J-.HCrHJiq/j:m0`<qO.J9rPJYTO@!lpV6)dQB$p+'6.UGue*HUSe0(6"&O&llZ"Cm;^a6H,l\aVfF9So">*ThIp(&@e:Rq??<_oB5;^SU:>32$?ZJi'ppmIgf"(&n7INDCtT7nSD@/hXEdsb5Y79;#g%PpEefG[^i["k));FB;(n[n'r]THSYI:#KFc0051/"R+t>_msBN.@Y2d$+E3K`q<H8Qh&W&k3L<G^T=*J%44ba8c)S<;@^N_&F5c^uCIPheMFTa3;qfb$hDfFp\QA-pnXbXB$!^sIRg-p2kFHLGBmO69UpZ-rh_,8?6hnHsD[q4OgUUq@:Ca`O&W&&PI8hL7BmX^\D_+SDBTr5S>c*6_\*A(EL;2CIZ-DKN#p51a"\?tPN0K'=[&<n=<>EbE-$f1s*DTM[;VRafr5QpZ"U?3oZ\Cu:9$0Qm9hVsn^6XZI5DOa@mA#YD_2T$896uZH[YT-8nBe!Y-Vfq+I(B-llnV^LrHFMXc:h"PSt++?jBBq$U*Q!HB^q>7#-:o`47iqo#I8f0>@(X-T:`UIm1;5hJTKQ^`k!gfjlVm-WF$h_/UIS(]Q9;d]KYR`e@-FNS"3VYh/oj\>j)V><CXm)F70#\giB.CFa:p:Cpsl'-#jlecOMRs+'#=.:M=;I>Zb6)E*T!s'XWf\CuZN`$aOis/p'lN<f'VHfV5fGqs6R8R5Qk9ZLs3ro!1GH3+M2C1RZ"JWVrYI4(D(cnQTMHN].E8N%1[n=DdX;':F8t[8p@3_!`\[?Z9IB%Z)jLq8om$HDA%o/#ToFrhS@.g*g4>f(-djf=s!kI:t4[8@46I3EM)L`F0\PW%HT_Q!\rV?Es.SL9+Tg!E(^,-`%t,c.>am-3IV<[]J.\&t`G!iC&`-XC>!$7FsabQ416;$?C/[FNpq#p?i9'%R&WqIEjL<-78Sl2`7,H&*\\-@7`+=Z>bp9$m*!EjD]EIh.(JRlaqC<S!@@Rf6btGB4[I]KXEq'%1ScW=0quY(<t^,s/+-Q@Jp6DJC?LG3pu:`X*Ju9)]J<+79&3de;aEuCC;K$l+P:<kZD5NGHG>8G+$EF=(O/SS;o1=s5Gk?jjpC6DK_%(H9D/6P<4,'%s?1M?_?LVkG&^#Ydi3!EUi^fFj?)ZLD@PPd"KjM%c9-G6<1MJjb_%l?[:gn6[sBj+DU2h_([lN$nbK1;=DI?rVfm>I_iFF*hoY%=Wl0PMu:mG\N%]tp(G2=^,G,>[Z2raoq1b,6K2i[;*Xg;E3)'d#m<S\qK0SZMqt*AbIj@0L'\i$P-;"%P5%D`LD)OKd>EAJ+N@Uj6?<ss*/ScaK\Z7ZO0GsK35H0&((m80YRV?SS60gke47.5ai$'/i$Qtb\XZ%[ae@[M[lc'PlAu8qAAF'kj.1'qj,'JFEM&a_GE-6;Q0LSZ"YT`^::99Z;:e-YQ#KCor[,=H&BiShY3Y8o1ZQB1j`JaVIAYJt7=S$+h`cG!cgn4fMp6'ckP3]@O,8cmi54Id#b3C3dKh#mbNZaD>^M@Jltr.5Y3EbtT,D&2gNiA_:2*6.oV;3dBrd^F%ZZQD:/)U#G.2t0LC"r3^Yk'+*5^cXJ_Borq/9h">`OX+Q#HouX>^dp04nJH*un#Gm4-s>QM,UVK:kVMYp>&S_UgFdT>@X@?;=*]"AW'^-e"g-M&*4<`P-`P#AOEP-_rb#l1X1_]NIqcJqkYcLkp`m3\Xgs`0/%)^G//hr\!qUL!a6*5cfA]6eb.Gq-)/;+[I'Oo]ZQ<T(NKHRl>8umQ$8dNVWDG)]J+P-9?_<@$:,^0"!h\2VM2J+5=sP6]4s@>o^:o-a/r)p#\GD@a:85$[oV9RU1oOX$SBh.s:u\d4e26g-o))^_L+H,VJ,XL\Co+]<9<`NL>+".d^3-aYi\LlLElHltl)8ga+Rlo_j@t*\)+4Xcp]SG;=V!Lc9tq?VCpDRW4>Dr82RZl[.6'mm]p=(u".]P+altkTkn`g*d,"7S75!>b("sU.$S=YqI3-^)FiP<iEg]dN)Y$#f-R4mBMJ$$T_+U^r8#G2%QT91\q>nXmLP#<pTXKim9'b[$Cq'*+_[f#:p!q.gZL:P:'0"m+EW4iKUrP$\""SWuJ<,Lg&a7,a@-`8utgg"bWG:;P3<nNTYZO\P"l94ac_qoUQBW;mrCrPd%H&-?*r228*&]3H1$-kSc"KI`Oh32e>WF7\CeCYNrLumLo'QjV39@mh_Ma;#NpK4(o.&):*0JfmALnDc(,B<HW^;VWVUcn@R0'6uB!_'P/Aq*\[2YP&lOZ/G!m[.U1j/":Z_n[$'f7>S2?)g)Prkb7lpm+sIgEg4Aet/h[.=p$lu#Zo;=iZao&e_$gpD&T;qkd$0dB#:p!q.gZL:o^qdnLCZK-nbVqE^fr)r3$2!(*362U]QhLRe'sduqb:UuZV:.m8R:"\166i;H60f>-(fOpo^ThP?2.lbp\*M/!N0_35"YNnBR+V$:6fkbR>$%WY27.90r\`dUK4kmP"_-aB#$aIp"!j;q;3UJ<h6;>$:C[3buQq`&bE?_F=*$mW9X<AFP@#b4?!j8GGS!h<>lUAQl&WV08RtB\4UmlB(E@q6j=H&_VRpQB%M-OWGj:hCOK[fS^1's84+FkD%j=ZHmpT.Tn^E05/<WTmmQr6M+E0Hbf`SW/:jQ)-Yg$:m5B,fo;P]%PZ8KGhYRUnN^UIT">4q$dYj2eGYeXf]RnW3n\Jef[pM6rGImKYjaesW=G5Zc%gnbg1AZNtGP^hkHGf@3$[;A)pU<(fmi/Hg[o,2FS"H<kCi%nl7ViU0&NJ>/WqJAm:,fF00%pUd)t"^'*I\pQSM]&%=-pV(:O;Hcr9O'j=XgG+dJc%5-2'bpCLP<A+ik9UY,n_R4\!'<\R_t6-gol:3ofkiF6'(0@osl/-L3F,bR@j^8.SoQBLfCS(LG=sgeOn]aZA8Lqite@L[RX%anor-6F\df<dd?$>')u;,pA$tgmW6Tk$'Vb[KVS[fSocq$`1%6'8fu6m)rnjMW1UPU3uBS&G0IAggmlsD(bSRoV:,6OmB34!2VG(,Gd-uN]*CQU(sXenG*:sEH1s?+P+Yp.Z_H#2M[`=.=hjIQLl5^<VT`&b.E7(V&X=<)B(J\(`SquR[qCh\m\suadG]CK7[\`I751/Zqb7lDG1Z:dQlWspjo'0Q+FQ<gUD+Ic-8[#E85Tk\T?s5e'HiZ!gB"VYN4WXU>47#SBJ0OH,W5+'LqkAFG6Q)M\#1#8eNR=c'<^M-oW`/?97K;q"4IdV+!Dd*a).kZR>7f+-Vph<*GNQ(*?u"+9[JhJYhKDQ^/=r,V!^jX\IcHqsT__G3,(c6PLn15fM8(6Y&/FMO%:_I+mG?"8fK?$#>A.CJGT.((Nu`&aSZ(E)as5ihGe85[+jnDbh%hDkD`m>S+8Ub2`u`+LiU'Z4d2$Drba^AS#F+?G-'7S1@[Di!2fhJ!-AqRj:'Gg5U\9lhG'6CFeqs:4i1E^FABI#iI'V,pe8o\4YlDjlQG2^C^JFlg-1EfNHU>(eegqmha^c=gj^B(B,[eN%^Y2iE&GJ!$DDEEb9dAXh/GpcAHdT;5[sn.k3"$T:`Zj5?nWtzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz2B7u/2*Hdrak2_efiZk.:.j(k0eW+]+K;`QX/G?0`_Ob'(3Jk;(eHg"9>Q)g<I.NM:01B*-SSqr?,bSH-\FV9!Q<SR\%DXMO<VA>_Pq0+a5@h0/8J9f4gqlm%D-2-l[KBk^Lc3^SpPE%f&map_iO5LLUI+)T[#`C;HK!QjQes/C15Z76eU`Vl.-k0P."ec!^J-l<53kSh\G2="25Ajj>E!\J,^f>QdVUqBhYD,^%^r_SBVg>^VEErX>r*#ElD5?NqY)BqdjKb?kRZp,]BTgO==k6FNnonH"1;VmsJD\>C1.56R)?]9Da*<V0Z(O<B+''a@P$.>m^QHeaD>e::&(/R^e[PR:rU+QU^?(q6^`t_3VGI>uN]U6f@s5W#2oh3FhNoPDt&LPf5K*Yp00lO2\*5SBgkqC<u@Dp*K%QFF/jW`F]X(Huk6OijWbk[gM:*7M5\UL-MB>^Zg&TFM)D5jC_XomIS<]7pU&(1Okbg:=IjslC3Eub]Z>>o908.8(,(,;H$ElnEorri[2+EZ/4W#4\T;5i:urWe*Sh`:Q1@AQ:[\1Z":&TYHLr-[1.Vp&]a7-[NiD):Ao#`3J`*,V"IQ)?pF28q(4V<];%/?kHa@4Z^*\!VdJBA.rQ@8[k$Ke%K,+6U%c4oLerY4ZYFB=(p,FM>kgG6>!Zq)KTfE^Z8C:0qdX#[Oc+3k\@(*BZ^T=>rqFEXS'/KS2i[Q:/4e];Ja)U92r*#]qA(eTH_L2O5M&N,d7=faW4,Wla)AV\>&Y%Y4DT1`WJJ=b-=4'g"0*i>Kn2`-N%1h%Eqb@BA[8oDmj_J1R@Z5t3M4?2Fm'8Fpu\mD2b#1G)#pM1P[4##:tf!B8G=s$3_eI8Cmpf!oAmS[]hSN2L5N`OIqci0]]B_eC:>Za-TqgA\KY'cPl23.5<&0$^OLI:g7M;Uce33Rn?mm`V1l*qBls.U?kZrZhj\c$4C?W!@s`Vf9uVrVQg+D)<PK#)D1*cp&eSJko93[(oL<sh<_dYjrCOV<Zn[X#B'AnZf:p"@aPQ9rP3Sok*TqHB.>>fWRpVQ(m.79c]#k*=b:.<i>KG7Jke5G6g>^uoc,B8Aj2bTX"hA3rhV)3Vrp]>EWL]*_TOlne)t,ahOI]U!TmPLu8pg[V,%LOB\a*b+\$Y'FCf/r_I<M9W9UhGWg%r]tH!/HFE[&bcYaFq'P2!])epX5C2n/-Lr=YN3fun;A14M;_qb(@@`h*+g\&O^SD]6,A#U]Fun!pg&B=o`2PM,`^BmEmG-lS(U[3C1m_%^2TkZBUqW[Z$2/^ZGbT#kIk%J=joeR[S?f9S:@"(u;HOUO^E>hrn1II"Li:n*_Wp"+Q><+fd"Y7BGY$+%8)K^KOM?1Wt7Z8crtbJsCuJF^GF^m9,g38ZX^iC(0MYKq8q<M_W=RsRqMV]T`oK=RiA[>C(&8kY1H3[HO.10;DoN2'B%27H!JB=(_KcG_tQU::-o$ieiqTBVLQ(EV)&dH)I#bp-QHDmT//8?R1sBC2ls@S:VY:#/gk<KA`WiJ[V$3)+PA!h$c*j?#<L<-=\PQhD&X4kaHk1L69fTp%eA/P:Jd&8k:X?rb@'@7&g0AatO1HWqh%VMF$n.(+Dg.5LY%,/Ll;iUhZ<V*s5S\>!5_X1g%)Q?UV6oTsdB;48f;*LqR9]m#kd*>@eWjBOFL9O1.k?IO?FF^"Z<-1T7:I;-W;l/hP31`FJN70DY0+i[^k=M\Y/%9<3+pZ9sJ\=.SoF:O=Sc',q+mA0S%QZK)h3DSqDS%>iW@%/5tlZn1uI:GNf?[54,41NKn<L&#YAEid_<6^8+oCQBY/<eWVc8"2B4b'2K.lB=rl'.2qlkZG%auERi&iVQpqg0%&r:md7?DO*:Z*_T56D]A@F_S5Y#@Omrk.'8.Hg`Z3XWlp'mcsa&j-K[CM4Dk>F\];_$Pnr`1-t:*VgLPB?ZWk)Y#jED'u.LTD^NCXot'Jcq=75J%7,[L(KgQtl<h),0BtZR0\WQL>k;6m5H2&kdOpLjid6n&(]"P8Nkk08-uhrlG'8,pIQL?>hC4GZ1eV^JpkLo5L$gG:Q3;&Io>ADlZ,rsoUWMrtabOV,K:Z#L':Lm\CAj62J_)jNBVar/$.Mn4I@rLnfb^KY/1#6mm0Lg9R/Jt@aNWQ'Jc6nF^69IDEqkl`ZqW*t51T$uL$)5$(f9'j^(LcV-_6!m>#!OWe&U#@7[;Bj`l>.G]TS^GDjUet>O,=9El8HLN^N@Tgfb$V*i(WR[_G>k9FiY`4=-TcZZ%;!abgH:M)*6O"0bo^qcZ3F5ID4]ECm("=_@MWh_)Y>2,2'N233)k2<,JTikJ^>_(Q"G$t&Y^JnL8<X"LeC)E-;MC`hETq<]mP3,7j9?_`:U]iCe/i!QV_&sr.=_tsK&?.\1_P7lTN6j;s[>7";DVts)iR28qc([#@BQaVqMYE-1_>h7Zm];md1FTY\9P7re[BHm2B+TJ$BCje1W.h/>KN.eu8&Iak#o5Mi-UOUYAg>4c&[D$Q.:'aKf>iMI3TC(OJWWMptf/EnupQZ9g4VLKWaTHCDVFS:jYpHlnR!WS*=siUm2b\mu"UQ/+3?'>be/kFX"a,<U_Td1gZeT-H]_2*bAEALQ]/6Pc"0bA$jnF3`8,;<[Wg'iB[M?8mo_2&YM=ebqf@!THV+a'7BIDU"Y&DC.mL8ZQI)2X)Phl:1XA:t5@k)F1[3sJr>05sCNN6H<9;pl^m&X"@aua7SDGd:\%lq`.VJM)SIEecmd#PN!0OE@D$f&/MY;u^d(T5u8EHld&_26W:/`rX>miA1Ed7=hi^S_pdQ&oIR7FMAlWaOfs>Ta">:OD-P5FWTe+3[Q:f:bf#HJ`E9deQNK,m<=>+?ThXl8T[Nn!Q-^3c5C2s1.(`/rYOsT_X!0k()"VL']Fn;T[TGJQ(>Go_j&hEu8h^=5<[]*N2VkVJs\iSr3(L'_-*8g$7.)0)RKk*'DE:GcB-:oLp2/)a'0(ps36`]O%O7FF@cl[Hg3bY:=lP%@LMNmA9)-<a4$tnW7B0;eM]h2j'M'^-L!R,nkKJU1+cL-1>!X>23f!o38^t:@c*1H5@78UmAEK>2B/c3q]aq1\prMZ.cNM^HdT^i"Acq3*eoE8`&S>=NIu.3c."Z4"/g_F&cECd9_((b+qs,=UEc=LF-JZ<h%CQYo-Q4T:BegDb8o+%%i#d1JN;+bkq$l(6&Hkq=bY7m&K3sV9UKi/5B&>Ml$iOnmJskqr<=PXDbjuVXAQnaiX]g)SpQX.]rR;N:U9*akR:8]6>RAYBLD2op%T*p`7',q<s"LhVdf!DE!t!-Ee3i:-]er\U"2o-M22P-V(__$0MYt"Ju&?Z+jB!?N9V6d6AH_GBV=h30F.!29OPRJVtHG8X@ir\16jXMuDc:XD?fkO4^G[No#/!-H*?#YnNV3s)Off^C$rTIl$80'AMN@SIi-dcLK_^,FQ4%L+U?SA@5S5%8q>l>21O6HY^bbh.*h(SP'a!H/eg_V__*J*Qs*<X^b"q%G!1.)V[b&IXu"9^Pu?PIF6Ea/SnZ*mMH]F\"@f23+doK=/;n8RO-uG9!OYCc+EISf&_'Y/PF[ZT&6_61H>kF"-*/"BR/.qJ)]qm-p/EI>&!fqMtpa(0!=RO@\)lDD[2.WPSUe/)H0Ker"1@_)nUho%3NU0-B)Oa0thJW(]9dV?MA8]2/&GhB0$R.lPfr#IDluXQm1spJNE&Q[,J1q\bpYQq&^V!m.e$[0Ccec,13OBj<thSd(,;c;$*R!l+KC=T3""X\nW0D'=^i>Yjf&A(?KT@6j!R0'2YUh'pk4#A0_?i@4!^=?cg-:7CfB@-Z2UU<`*R.?<Z\:3fDS7_kq+*&+%V7$Cb/qL=.8_9%Y"-S!I."I3)M2\GmTub"YM7.Y6$L.#:[F5>YOJPO*QL0QGF1j9YX@73_gbd.ju],mX-Zdh76J.YU;A3^T+5/M>1@$IkA<H@)+!qU_7Ua$=kV\.1.49&/VHqin!W*!LCPBpI]TX*3%.Zs'&l8sZf)A7@K!!"B2R!*]b6f(%!KelLdW?T^W$Y29rc@R&KlW&0nW/]/p)Tt(//ZgEUOY!M:PL__>H^A!P&Ke-HPArDW[S+1(]Ta3lP"u[@-Uj^s.1VRV)KG2-r!!3D@2F<st]s"B1A:K%TIYr>R_Bu*)TkANW&3'Xi!<3WRB)ho3IS(`%4.OqB)ZT0t_\(WNfR_GGV1u[@l=C(!c2dpM!s5s,f`4D"TA=rU@f&K9i.(6&4Mr+HFUeD-,nRR,`MOIjs6THs&_e,7"$OO@i<0MgLa<VB*Q?#8)K1*ul)b$h#JeUg!Z):[[q(OcEN;iYC\SkK`MOOOXgKN>arR41a>Gf?mk?>2.36085:g7m*SFJ@XaYPmk/(m_0j!g/Y$*<truD#H[uWFZ1"$N,)1f-1p<',WK^@X=nD!Z[G=R-6'4RLR\5MU-Tg7NM)gVSd2AujkEi>#Or:??lLM=,j[TK##IeC*o`R8,Z&KKmBdG`/(2"l/Bb:js6=\8p)Z\V^U8%'/YAL*Ea_pMT9e_?E@kEesX'7JK%)G]A67qs0k#X#VFU="X![!=E#bkdedL"U_d/L)&%j'eeIf7cR4L(nqr!rt4[#b5AfNnGJ#iN_NMhpkk$]9+Z;kqpdI6rT1WB^E"DQ=2gJZ]l69.At6b\q62<OtoPf+BNKRe8PKSrG>mZ%2:`&%rS"a1gpHpAj!umrsQ+(<:`>,(bBV?YB']ZQ3)V9MM,3>5T17qboh`k3K/!6BGtpXYk[*oQX`'MZ]kq53/*[H8(CL/P2U(*mcs2))ZOa-bApSu1BJ)H?Sn3*JICnpF'P>`"[,E7W*\WeJF*D+9b%eRab%K.F*>pp3VcbE&5>O#^r\;OVH?FuQZT'idN3t7--<KcPbTtheN9R5H*5:67c7_B$]dbLi&lGa_/hmY/8u5.k5^$L!<c.5FLPe31]9LTO^IB<V2<28RY"dqP@lp-DCHT2Ai,h%]YGsN2%OgdVRq/0AlkS)ZA9)PmCgRu06.AMo*G*=1]Fh(a=YR-\VgOi2BE-o/Ei,Ir*m0F*bm)si[q-F]"\p99.#N:U/_nkAN>Lb*eBMb3_ZfC?7Rfm9Bi3dM'PN31o@m2LJ!P"=64BGn;q:%U0cp>0:>p4>=qi(JG/2QB#o@<NTY%7aQf9.%BUEI!1OK%:*qg<CsQ%S*u!Z]]?P)3\X039eRn['knQ6IZc+l$af=s)$Yb3m6Of"m\qdR2dp[5hl*W:c/>ZnbS,uW1_,ZPpX1),S4',_jj2?nlK*5FA)POrLm"W6PT.O;5Y*Gi?c>*C0>d2bhBJ_KHZ2jr5Rj$dWlrt>`1qW<Or2.seLWHq)f$lgi/rs8o,I43[o5BI(\'@l4ZD2E,X#K^BbOrJ8bOelumES?31IHYV;IFVg*mNhLAHMqJL(h0@c=0H8)!@N_9TDD8e1+iT%0-An-F"4D:!'TjlLo(rf"b0%!!%OC<6:R(g9cO(U_0hq"onW'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!!!#O\Z""LaVlN(o;'gSY+E)^)'YQE7p)^IA_B&*^NTmheGV4?a;F]uo$\*c!4E/-hClH=6?M>C"Ei7)MbDs3>9uC`a_r&@\`Y"RM5BEh(7K4-RE[I27O.hXLHnSi:W%pGJc@2as)8!HMdS=+T1hq!I/7FuDTBDPs*O<(a0>d?nX`1lZss_mAL,<BBaZOmF(We\nqgQ>hqJhl;qKlQpIpVI**a\157JPe#'LEl*adO85JqGC=$co>E7g$Q-M$DI6"#@`jg<cN!lpV6)dQB$pA[f:(6Cl8j6Jc$B,E8e8dJ6c5s^'.YQ'q!\!>]\X2E^fL^W!OMscXWks[r*1W-?V.GcMpQF5ue%s4fKs"joP&)VhC,&UkZ)s_@DfHYiCmlBH89eq2(Z`e@VComA_QEQ1f^!uejkLV73\57k\`uR5=qHA#Ag[KD+EQl.240gC"eDCIoK@jg,=q;qV(Ci@(qW?]`Z^kmVr8^,dO`VpFQ)_IjhJh@R/JjH@6LT\ZY*H;ah.pnh(p,FM>kgG6>*1F$GF?=F_=?c8VqYXKSerP`/RtVT-b!%cijiVVO5G1B[GW0<H.MKK;GiU7<i@r1<>Ed+LI'0\89]n+(U;/_h&4d/9kdQ+HfMc`j^,3]`d9<R,Ui&)C3j&5b5WI\@CM:UmO]*U6roA,N@ifgM[c"<11Uo^n?g/9hDQ3g=2oS;0)4=SU%c4o&kgSncg2&<5eLRr&LEkWYQ=+H]D$u6`l?#tW@8.)j0j"*G^&;1g?QJ_!MTYY[P*S^?RX+B/c/J]6mc+2#.Ad&317YLPHI?&bE9KkGpV!8pH$SsmSTo<)Fg9=pOD.V^1u9]&aQaY2GfaYD+HiP\86UnW=D(N<@2\?Tbapj2gXq7Ogb%o5r16Dq`+.JF[9ou[C8'GLHffB0u]L7r8^s"]hr'sPuCq3J'r3RD9QLWm/Ob?g0U<>XsctUj'/GCBh]e<O.s'Sqs6R8R5Qk9ZLs3ro!1GHlkEZh;L#:Oq1X[L5/1:%X"<0TKUt68V=LmIk#Pc0rM*lEE3#iY-auLqgj1<.V&&@<Mq)@r_pF],7hl4[59\i/>$U,@([k%["u;U]S>lI`0KWc?rpa3&bDnLjR>e5-QY\4&[.DJ=M2At49arK@s,U'7S/rIg>;?^)*A2==qai>U+Z"m:f^[5ZZ#sCrEC!<3_EJO3Qo^t[g&s<c.p&nOn1['kmrUT:"HM6ZmGm#j4)1euhZelD*1=CChfCiuA2h2GR3*FWD"0,qm*RF!RH^_FN]<ifiq>$#_c:T6:8mS8NBVYNrO%hNdpio2cIcKrk:Qng-ZFW-<@J`=$$kEmjgeFEgG7_C4fmR#BW?CpaRm_$s&6Y3DDV+:?G\Ic^Q1FXrMTFe=1.qRLu$M&lWXG"h;sLF'7G/hN'i)?2m%'DpRFWM-XNftnjIQB(I3qg%^:Q26ppX%iG3J@@8QM.gg--E,'LL6@LW_P-g-B'Aa2>!$M,h&nWJn)kR&\iiCXe^M(#&\:)dEC%Mg-=JRlh@KVE1E'Y)Me$U,-(3)3pNi>1MZPFnIsl-cEeiF/p=/M&G8J,[*5%_%_Xa1F-O'R)*0_H&U)99FZ-VqUb>W,&*=9"60rJ!8__Lh5jofCeasRITq?\OFeQIAYJt7=S$+h`cG!cgn4fMp6'ckO?d.FUDC3d%pM>0%Z"B:F(nml3Gpgf28s=[D*#Wmm#pKn&/Li]HaR\ouUIf)YDgbI6nUF9!'2@/U5ibIYB&Ml+p-PGj0Z=:VP[7V<(J;Th8/H.&BfW6BU&L$Et&j"t,$EC2C`ubti<3e,U\8\HlXRj@IWu2a89%*LiRf17IQIDH0][l?LFjH<0A%k.i0:WC2u4*iG&N)$a+:8\/QrV+k.OJt"Cf5eLPuUfF.+!jRGX.#5_!G.YGVp$q(__hSaYFL\I.52Mj@UUXgE'"5@`>=ru=a2'%a=']Qf1i0P$fKQa1-W8)gV-P(LF/QF6QhBK)?"2*EpBuD\e='^%WN/?;/9CssY+Tp#f_SA>-!6G[n:m%`MlHWHQhC(JmOCqOh14&Rj94?AVVq:rE>`+H]H?(gF^5J/GB*j^]N"a%+O$sc!*`f)n;.92e/3l_QCe_>UBM4.bJbANdQggdWBQM]k/Gm2`Hg.iV6+5[705trChS-nPsk%[lI_idf8qS'Z3R(*g*-i.aD3AZ.4n^X,uP$(`j0gWhCD[1E*$ISFgKii:S0g6F66.c7Y\iYgfA;7DGP/"YJtQ.E97"AT>sAPE./GBmX?J5-e5S(JX\Nhm)+hGHfqs2G_SA/n,)aJ$ggm$U&("X6=VZfr0&3a0jN9*g;fM%cB-_+LHTjjG$c4qSpbS;oM^[YVqP?P9)Xj(]PkrY2.>SRS?c%F#isQ8JDj*k!RsGG'o#h>K$1#,(ST$k&8>ObY0TQaY2t#LKY'9C,]GNf6a&nBclSMj>EKGn$_2ft&fVX,$$H0i3U7?go$/,`!_9@0!k7uq3-!ruO!!4o0i"i7J,W\O;^:m9DGP/"YJtR$j`%&5BXHN\W!&.2ehg\qPi9.Sb<4Nt+u>e^=/aW6>pf0q#G^HR9O./!QV/Db9\:^rp4go(K[U#uf2-mYn8Cq8EWf.&U?aV!Y?`M2\B5KY?5bT2VV=bW9:.4-r+hd9lEb'Y^OC6:oOe@ZjBHPnQ7GP'd8lg=dSa<3\OU5jY&REW@Ucu<lBIM_RTj\2`ia'j($^a`b2O*M[Et:o6-2oAg%=:"]3M_Cn-5mC*h%o\=`$25a(A:nIWE#:"*M_k3aT+sU$p*"/!86>;I_6:_%Hes^RrHa7@a3V\!_XCX&pC_UmAFR(C6-RE3tMeCP&cb+BAUQ*-XikBi\hXVT`P\4h:O%UEFMQ$(PaS<Vr7GVjl<S([ZmC%<mj$Q8jTYc3s$?X39@Dkre]_rcNQpZP-B[BR^u+')SDs[4pZ[EF]@q5AQ>:Htt(I[U??RS$E!6@Gn.^Q1jOjnuCIBq"WQs,1j=dL'?R[/m4Nt@qPL^76:*A)CFp^@12&fZs!&2=U[H9nk5h@Q7q0KKt*F"<X5m)G#WH3)5Y\^KL*dWk__n_:9r%lFbM]7c+EISf&_'Y/PF[ZT&6_61HDtg-".?AJYP[Ng'$q<W2!MBit>iPik]_f;pnHNj!*GIlduhoXMnrQnt`O=e0.oO6n9&@(-8/m$'AmaOAA/.6"=E"a^h\Z/<c9]B?m"RhYR9OhuD/?[0<7CT5^D-n&?Be*Qs_`Q,AlAn&Hl08^,ggEq!I6DJDk[rkbPo'c1R_(uaB<7%KcJ>Zt$eOXRCe2-9C#U>3,/Lq>H7=[f/UH"h<E?=fHqbADX\hNA!<[:oq5X.B/bUH`5:M@43-I!YdCd\<7BcT@;HHhKjVD`<R;PZ8@Ij%@>BL("l\EP\McMbCUk'@kl;fV;'m"D"4Xl_gVWS5/8=kKaY\4tLsH<`E&Jh;,1DL&6Q#4ErgQ..13?"Ki`I1iAr1D$0h=!$EQV]s`r]%Ye+JcettR3#-4CBpkN_'mp+Dqh4j:gDYG[`uW?g&D1VGRK<Hh!3AI"33?6)?)_gIk&S!8!lo`+IEl]kp'L'rJHGlPYcXQ)SC6;hKYRTg!8(=;huE`Wr00J)@_m50BAQ;qDj;Y,4c.-2_u]qI'bIklYl3@F2qc,2^@o+np!3g,YA4+<^_Qp$M[;];bhL"&2gUP6W5A9:*3S6#!8@dJ^u6lfB\=09.2T\5727uh%KN^BTa;^Q#H%^>47iK/>8>W3U*G"6#G=&+MjH%-31?nQ^r*[X9Qp3dk;g,cUGFgkZK^DUQ90C?":bF9c+l!#_ufrlbVA)%]TQmS&P]V7:n5:7V2+npLmnd-HPl5-,qF@=R0>2&%bl6Kab&m7Z4#L;N`?.3!s!-jn6;-^+S[<`6gsP:\fjR#d9]2qq3u,$*%Z%cF('(SB,T[Kq><qK*`i%U.MGPf3,f$+!8)b99jldR"]!b\=iM!I#7ttUVAg9U#oq2pQt$"F,CKL"nLok5U;-'p@<Obc!s!.5i!6`/kQ3-X%9\G$`JHR(dg_4f"cd%E/FHpt-[_!8ngFgU-OG>+!,PHhke1lt[j^@K+j1NY5CRfkM:.#p;:9V#oe;[LIR6c4Q$g;KjL`)3JHGmgB.dK$jD[)k)TVC<j2]&m%l8=;XkZ+sS[kN*A%<5\\e/.8YZ_@7MIj=A7i"'=GA7H%ia<F<g.n@``\PG5V4;jD+lBo4G;1/Fj&)l3HU4Q%4+9\<GlE'K[e\31!!)*CkAq!L?%mP]CLLZ1q=EbiFL\I.52Mj@UUXgE'"5@`>=GKY[_SnFL)Y/$JYP8U;b@QUnRcIs_VuWVU#FI]A[5)*)!rBNA+RY;)c(+:*e@gZDG1Z:dQeh%eH>lVc+%fUaq#$SoCG_T;rX-;\?4OMhOV3P[Q<pF7CZ?;/A.FNcJP@m$Ve9J+c(AIb71(&4$Kl5.k0OXY24c37,4jH!,OUfmbN6,6XsWdeC9_9^i<ShICqZA-_J!O!!(Z6./b_izzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz5;+L/;R2&1fYWeD)nUFMNb=/IUXGs8-aB]8X(4&$WJRm;5K67$>6aBBm/6dOeG'jc'uIQ2^H'5MODa7?U4CK*)Z]4=1jQk":'o=5CD52tO"Du4_sWmCEO<TMr0D>hHg\]^2Z/s;g?3Y258R4lXn$^4m,F'`;XKc>PuQW6hEm%9:<6\l1!N0Uk@'qGh]-)a8@S82OiaJ[%01PW9P46eM+N_'h^l_5QoFSc:O_LeQGCc?`RkJ:[4iqI=%9LZ1@JRYUC89&pmFf]HgfcH3=P$LZ%UtO8Q=pjLE3g)kIF5M2C1LTGlb3RBDOOk@?8?EODa[K,)=D^)e!Q*dfG7)>OfKs5$]fI%+.c^3'*N^E,8+Xd5?&V5=>8H2Lroa2W=L][qt)+YAG_-_B.B.J_P([Ab3o2(gGg<!$WO<E2,"r56du$$*heb\!@774#X/%p5%,],0kngK<5mQ&]Zc:0Xe&_Dg7pJop*b`kjFJVfUU-^O3_"tkacK>Cii[kD81IBoZ&^1f'.`9V9.Sgi[\pd%(@b#:FVZ_rs]fkcf_Nd9nVKTo1ld41d*QWdTTrsqL@t>_.H^)*;j?UF)@;:*,%@l$\N66nEXji(!Rr5U80lLh3rrlLMsp\&N?u>NV,22m%LLWbeD)Jn]rPogLW9<9Gfgk'Bp*c[ZR9&)Mj9>IVLBHm2#.D9kdQ+HfMc`j^,3]`d9<R,Qnk3;GmGVn.3-ZZnY4TGF?>;*f8\qV%4Bi*".CU@^oB=[1.Vp&]a7-[NiD):Ao#`3J`*,V"IQiA>#03`5[O2Va[\X&psCe($cY9[Mbe@kI*%&F^HQ?bq8fk^I0DPp3Lp7C7DTV%Q'Da1\3,$hcME_lSB`Tpkfj,`!K2/fn,O[s52\ds#"e4@Jm<>e*qC/L)0kF,4\%8W3eu$&HdW2Md#bIf;h_"<m/Gi,#q%-W(<\<(F^PCYVCeB'6_1JCc6k2m[Vs%856&Gqif*5kF@qro42L#I0.-^lUNEsGOBAgQj\9ei>"9--Ad*I8n2FH=l%%E*jX.:-oC=t>":u#UfG,t@GH)*NVK5hpD9^LDjrCBE05A=c8XJf<TN6jJ!RsmW4DJG@**lN>-WKGFj#a^^X%A;/=_ELG[1e.4nJX\;16E@:<qTjfek!,NF2Tq=(tfs[A3KmEG2+;0NB*-5!/D&\481n[2lF'Aq2,#k%I9f@[57MG<[;[D;GK:GSs,fDJfBaZF$R?]]&/:LVRiq-0mk!]_[&&HDmm>rGXd)!sFg27)6C.7\D[_oQ$Z!n`J#+q%%i@d4051pEOS8HLp.<O4K2Zq_(,*M%fo$`<jPZW=A!_l*V#?:8q:J\0+>"5nu@7H[/ENqj=(aj14Bfq5s;Xbk_@LkVsYjL5iT(cG93hSZNptajSY&!b^<Gj!9-HeV1cgB-+`.#[]pFRq*l\C=7+Y*<&W+pFG5@Zq?ZAi8UrHkEKNu>U4AlWl!XiZ[tK*=5>aR8:'7P7/%EP3]V-=_1!2?p)hH==r3FX:iJfrJ^_Oe*sHgP1CHq6l$VN&fQ#1[](upU,:?Y&0!8bH(Zr(V8nqX/,@I&[//PgW2d%bRe:OZ:N0*3CTo2shY)Cc'X,kp;n7anl.!\u$)ZcrR[j[@QLOB\.-pD,W(C06SjCplt\WNKL1':>0PLnD;lrcb?R7cCjr)6As)*_C<Si[lMJUf*#$)qgBA02m.__X;JJMWMqU[SdQK`rTD20/C.&KdUcL&6`X\r8cmj).1GZ]Fsp^8iho5MrSF`#')k"\p(Rkau8WF8#.DYVO3Kdql_E2e&DLR@Tmmq:EK(,VQ`-(\I?ZI1Is1Y36J%c4#pFX,dom/ib:#MW08Sd'+J5k9n4BrN%srVi="#FBW<66EaE(3$cK%(V#@*)'[?jm(9MtDjO2]q'dqI.r)PWW(jNFJYP0G:.Vd%AK;^m+VUPfkj]!b7HY*L%3:9R:b^b`#T5^l-YuQ9Uf6HBf:Vouk1I=beb>fM(;>9m&i_;6\-*<.Ia0L=":c8%+hqa4,s!-<Dl>9=/[][qMU;LGo8!X\^el=aSJ`gleu0sn>[eF-pp:>A34P)-9sn_78!&sf>N!q'-Un3S0=Rd_'JkfcV.DRAp6(d.q]\lfm&$8:VsNt[S$_0f[Rc>VZ1-a[gZ.AMU<GbYinrD-P.1)?omUK-j:to6RJVJ_9t\5Ce%s?Z(GRln0Lnst(u<N)7F\OCj-=$lnr`00ngucaWo,ND\C`;9//PgW'2pM<$68*5M%_j<,>j,pQ'+1[U`0.4-fhbnpQ.>C>Kdu5q_$+ca6Uur%o.*NS7$*ClQL0OXG)Bc6f.f;]6>iS71jI%CL6m,Moh&m/@H!KanshPU#e?6gAs6Yq."PnW0QmA6GeY1BP5=B:nK$NZa2GE578gmOINoN5?oH_aKAI:DK2i6U<Xr`JMW`6c^m6q'KSt1Z!eGgp+Vd\jW_^##g*_p34Siq*`c[]N-0P$ikF/P&0-h,qOZSGepR3rE]#4RTH58\Y%"ONY[$*M:/&4:.WDJ6&ghR*,Eur>N=1?6)#OFOr+TC629-nD>?UZK+9CY-='^C&b/>TF_0N?bkhs*<G[?H_4alA]*Tp%*KoN-)O5D[6kG?5b=Vb)*VgGM-oeUZ-kN$Z^(%821c?@qEOi?3SpALA6"P`Eka4n)(I[6_L5Bu:hRh4JOa%q*S_l##ko_M1`6\:/;s7XLU)Y#C2q$D%&Xu.o)JC?&Y:df8_TYRhD?S@?$]L/#ro^O]&[68a^Y,qgs`&fo&k1j6D+F'<I4qS1QLqj&<,%-t/;(c5uX33k54pJ`AM,iKlGS2ED:a<>^V03#oCiRnpbGt;;mEEmMn@""tA?Oe$B6t-MZuIrPSZeor7.lj3l$k9bB'nn*$p!(C/6-9W)8OSHbPoYa/N"83$%-Zb+hME3c+\U+47hJ.)^6CK0Lln;mZ0L`g3@0CPjc"ZmDo`B11qC>o0#5TKm#jnN.;5J>eiNu9"FkRVr_UqW7G(j"[N\&5nF/b&-P91"@3S%5nF/b&1$qiaN3RF@^5.0rW5@s"@5qXm-O('Q*ds,,s/%>A971eT,Pef)9u]LGZ,iV,bY_?$"7Vo/7cp8]QWW+lFM-(Q:g'^-74?E?X6s.li9t@pt_b[M"ISB,91VG#;)G`=_nC_C1NMRe:CqcU"FDHaFVd!2p<+2p*p#oqPd36/87`/RPqB-<9</L1dn(BYjbGUNfK-1#FJ[_\P"<nRb)5`p4gfk,ep[R&Hq,IJjGIa:N,(b[l$-?iPZ@Dd&TW^[3p6?C-uC7O8UOt]pTdJ1G_[m'!($Or(NLBiR>@kUZNqX7hT5d2)XK=],:\5oD'.;(34G9Or\6DP,t"m.0PYC6kZT;j5=kQC;(BW/0tHPMO;"N0dRH-$BHILL95@Z'GN6.h=DKrEL6ZVB$F!C7FlM`QKPs$r0J!_A2`cK"2bo"8oJ['2`3H;N_m-U'Cm)hlk@;(jg)9prO$XcmC$;I1^U,ZWrE+p=t@X(lqs\*G'3/2Nt@q)r+b:f%^.<>cj8OMdB]U/%&5qZ%D)5DQY'tBS!"!q-u$3hlg/)2O:Ue"2c!H8#h7#DF=YjdHD]t$JV/BqTp^%rd!"IFZ_+?3pM<4eYlVntV1"4A:PupoH+)SmNZ4*):G\BmDGNC/,TXajVs;WB,KX^OO!G<m_t!<ZbLP-C*eAAnS\]rnr:8$A8"F`GhgGr;CL5)M=jIh--f+\:Na[>olhCS"53!"9<7m\/RLr&gFGK)Pb"G\4V3)E[L($`L>[Y;?RiG$%C;4N)f34T?B/SVQ?Z3)*Qdq[WjBhKf2k+82`<M@O*B>h.(s=-R(8FY!dS7t(N^$NL0*9=WX,RiUG1P:uFLIJQl'7qk1O>t_S#S7J%earKB9pA]cEXZ3A<W"8KS$YQrh[4bjd$PH$I2KEY@fB"#HakB2J8YbGj[D#Zfe=-Ea;nDr3l/e'(L:]4OP"i[V\(Fd%:=GBi+/$JEG[6Y/#2.GKO$hWaj_VV#$$?B>O)7VIu-r)_1%_SPaHR`rEL9j@/t:le]5B&uA3NiE*/N[8uHNH"#mI_=Tim*jT?350V]9m`9t4L3f0#4JH<4Ws&:f6%P5g-1b44C9R$TPsK=`djb-YW[Db9T0#0A642nieI]mKeG<QuBt-`Wb9Snjr!QH`+eIIN(NSmq3FcFdb/XkD:-J,oD?oi/B:`iif@AiuAh/piEpRuHjQ%TL[9GJ/F*#/.RS9@F,Bi!%K[%.%hFN)lRRFD_<QB4m:@[3?NScG&WM,:C6=i/FB3DC_MJHar^OB[B:FgAk^M:R9)TjkGSt6c6M<!A$`eQPnd2b70\AqDedBVnX0D5($^kJ6MheuPp4i8Qh$@8W6<iW=<l.)T,-:/%Ur&t^//,RDLa#i(HX(jFI-/=QbS2r+Hep8IG7kGFaNsA\PE)rEhG@K(2.-V]64B8mCW5=D5<Z_'i#_J/0T'l@MA!OK9WiN1Qk=KhHaT<5;d(Gi@i6nRd^N:)<E3M8Y_iC6).`3E50NeXNr]n7`nXk][2$HG,2Ui*-[>+5\)b`oM1;'L:i,N!'#PM%XjhY")>#TK=i1st56]J*7Qp]e64jQ#dcYRm2U(k,tU[*dRQb^]MkNo0*"u!aJHg_tTlPoJXM,8;?h#Dhr4tF,(^=W>,iG@q5?jW?@%j4H<^V>7Sd^DnI,*SQiZ@Jhrk_mY8E"ShgJ*A4Vi)njcqG,B/:nc2AVM:R8n+`<S:-\=GSt.BuRq)jGlt['lR:b)'),(Q"AT=2KK?*Kf*8F3WPQt"YC4:)4R$*5nFduAfb9:ge4\n"::HrsM]l"]<I<`eX#Or8HHcGR^>Y*fTo0:dVoe(L,^97m:V^R79-c\E`qqpA-G<G:ZX1ZKp2%VeMa6isR8IQ(=-;*2)L<oJ2C@j&R>4[?[a?0Mo1]J3\)m5/^m[^=VcW]Gf_86,d>`/p+S!oo\i):U!rH!Ri^>J1ImbD<:T5.RND`:Ur_3O=Llt``GF4EG-?C<#YeN!&aa:F^.RUUoiE=!UEmdZMHBEPq&p_6YJL+0[gm!QQJZC=TBg4-'T,]F&0e0uB7l8dF"0(NVYBtJJKZ.Re)8otS$aa4/<!iIVb=lCDbI^;Gk2gJ$.rEho`;4)3t9Y$"3miM:0ZS+K1_tjRu(G'OJE2Yo":0-FSOUu5bL(KO7S3B)n=eKd]#+W%\"HI6rCTP*09@fEt\#Ab@._i-dS[F#N_8V)h9hiaN!;R=!U]"Gk,]D].s*c9_k%*$9"Maar3[oK<<Z2sYf6aO$[J"p"/5/jMr'%;[>l-4!ZWV`ZP1LD;H5t8P6.m$l>9:!XoL@/):!Gt&nkaEA*[1f<'d2A$lh)TUlQ.%Zo=j-;<>S?:SR_+hLu7g\j!TD3Z*&!h)j\,oWUfqP'om\>ke#_Eq]!f,+*oFQVm2G2E\.%d*<#AH/b4i-A%WY=kDF5W4TJ5X"PLq2XEihbn(*s-)Y;-%[V+p`n(bQ?0[#rSOqF%]FppOM:-d.W3kR3_AJLN_7#p=,0R0+*d&J4efu@)7HJM6o4j0'P,C`e>hEC$!bh-g)".dIir.^`)8rKNXGB'-:g?PgS$;^Tbp"XDAF^P2YSYsVL-p>@-=V1d&@c/nf0*dXA#[&Hr(WTcEa+XlU!^mU\ErlO5mu=TLHVX4X5Q'IO=q)S[nsLZ^QB]G&qhAo-N&daT]Q-@N"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@3S%5nF/b&-P91"@8,$c2RfRpgip~>endstream
+endobj
+63 0 obj
+<<
+/BitsPerComponent 8 /ColorSpace /DeviceGray /Decode [ 0 1 ] /Filter [ /ASCII85Decode /FlateDecode ] /Height 401 /Length 92 
+  /Subtype /Image /Type /XObject /Width 587
+>>
+stream
+Gb"0;0`_7S!5bE.WFlQ&TE"rlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!,`"a`YgN~>endstream
+endobj
+64 0 obj
+<<
+/Annots [ 60 0 R 61 0 R ] /Contents 111 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.7afdb31daf3dfc568252a197f34e1226 62 0 R
+>>
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+65 0 obj
+<<
+/Contents 112 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+66 0 obj
+<<
+/Contents 113 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+67 0 obj
+<<
+/BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 480 /Length 24634 /SMask 68 0 R 
+  /Subtype /Image /Type /XObject /Width 655
+>>
+stream
+Gb"/ll]W=?H(Y+uHq@dGV%6Ulr'@;-'rtL^/dj3KJ-];@/Xd:Y;RD]k[KqDAgBs`I@@*LP-#m)C81[>p"A)ih]+cQKm7L:PjJp-rY"m,r;\^TYG,8H</Q\I,b4auA*h^p0IJQW]TD)$oe,*t[C23h9^AFG0h`fBY?t\WN?XJ*Npi@bm5.0[tcDO1(lrmTIZS_Y$&lV)lLh;T/-XNgq,L9`>kKD2TRq."R\b;mJT0783REqEaDa&[M).-^"kE[L)n(]Yni&?,&R@54AmbFf?[I0)+>9ADb_D1IpIEW>ar=;(?kP!J^\T-kn)c_1YR?p(iq:+]HO]D#+R88<\V.Om7<W&>`gW77[0Y`Uc39te?aPNajSM)Lhn:M4C>3UG3gA1A[@;0+546&OdT#5mKi#ZrMhj%&!l)US3f7rF/50g?Rf$#hJ8EpZ=Yc8XgN6nN?VigW\0mY)1G<^?0jLrZkkfNXOXH@YkZQ<6oCLiF+RpmN+Fs"dD=gpT\OYsF6f#YEO#-r.@JZOuVla%X8,AUhLXIEZAlZOAk)HjO5l]F'17b5Yl.0d(qpOTE.FmH@T=X.]mNNAUY+R=1ma;S3j53n=gZ:<Ed\g[ihDYJ^`O`fur*a'`RI`U5bj7)U%9QhFZou*A!SsVS9[Q]Jb<"LLQ).VQ\[Am=jB6ik>M^I+!=0B9rM35)"?T<,PI/\h4I+`cA4\otP](OY!pMSd#<QGiW>qG00gUG<[DRsuVet'%+b?H'>7D^csD10V@j0n:6k15<uZ2WH]<I*YnQTR""?9C:B[52uiXHS>_`P6,uN@Z[ko%Q]oZ[QhPUeATd?WK_V#<d'AV=X)t\7osI`J&;5*Ut3lcXF67I=/Gm"':6=(fMNf3\[2t3H3Z6>u.YgP@7FQe/Ph^<B'OeThturXCmAEO&sn%c0p+#Vi\sV=>/jN&+5\2oNK]=_3HlZeud8EY,nJ&XEPXk/SEtk;)qlaM]Z)#_(=m!'@3.I*T*<d;f52*(^5-<bO+YWT34AHahmS7S67tgAj0:qgh-N>ms&m=p?f>,h7RajFs2WJ?T1:%i>>Ru%VPD#GAic<qMk5Cb`+8=HbLuAO1sP/B1&8Zr-i=^?^s2grG<hX>a%57__GaJC]AO@o:V=jh"3d4=0hP$V<5#,Y7\nlOL5]0AF91Xf#ToG=W`ZTXH@YT&Ok8C0T`^*"'Hl7fOoUl#-p_L;+D='/&=L%Se#@kXCImqi>BWS=[sK0A?>t:=aN>o26r6jeq[`XCLeH.7$4ki%(3Bio@D0qn(]PViRcAEr6f?snp1!.46;_"eD^R5,AW^rmA)8R\g6SHO#jSV4tNU>j=JB`jbQr=5h8O]OL=6R=X.^Mdg]G)lfJF@M3sC4&e&=<q*<NP>39oof#YGu5uAgQA?>t:=aN>o26rN.h2jM"DLPEHLrh45Yu>:01r(O(M*d.jYG>.5n@WS+aeRb)m)eS^gq7gjh,iIH=i_C<cC5MYrQb:aZ68J%(k,W&G2m0pfACo+`8!=oC/gH'NE*"m;q=lRl;7CPBi_#?ZM#/NmUX#kfP3G"FEq2PXj/5gaH>"_"CsY3(s!Uu,AVkZ%9XqAjp+>3&WlZj?m'5qNN<:Y2e7oLRi`=j7R5OGJUsnb26q+A]'V]GaPqnN3Tff)SfAKZZ3:H<Sg%t%1U;3GJ"[immAti>k5k`g,AUiGk]B2Ca?%=A*:LsDXamM9!WuRMCLl8bF@4X#3lY2?n&S8+J?7o8"'HjaADQHk6e9=>``=)JaA/jfXQKWe=X.]mh<8rJf#Tnl<ZLSL:9B&Jk5k`g,AUiGk]B2Ca?%=A*:LsDXamM9!WuRMCLl8bF@4X#3lY2?n&S8+@*Tm*h/<_:kWegc"]);9rSEgKhRRsm]g@0fj8:QjANc.pn))EBXD;;#IfFglemH0hcGbdP9[&KK-\bVeekTB:]/2!-S#iO%TVs4]7lE$d:V3pmjD$^Jh]gO;MBan%hNPkTE=n_#VA5=4@:<mFpo1SH(9)HM/IfTJL_KlbJ?d^q00F=4P?6UgkOQ+>2SLg)iE+?nI-LJqhR\+kbDk8cClFj$h7@_Vm,RZf7pqHuN*BL.Z5>N=htG!7\W@3&IbVfr3-8V+Q!I1fG[bjVKd5X(/RejRA^AcSr#`C#Knc2;3)ci7lojUSJb<G3k3pbN0BCR`j,$\b+q*r8YgDl+6B5lJE<TEeT3Nu2^m/=g`mfdH%a=+8WAl*^UaHECj!$H%9e.VH!a!sda5G+oIY;35]ujf'AK<bk<COF'k/pk<_"8HE=n`s>=kaHtNNA7"Z>NN*M%PhlmkKp3rBSrT)He<N()<&N!Eo.<"'O@hA<![Q26q*s6&?28Fmh&H[J`AAa;S2+lP:5"(]de6*[=M4kML[a_V=Mnnd?E"9YU;Uq0ZM`I5B%cGAc)up!ht'=X370Vq^WN8).i]?JE(S.XYe8N'>A;rB0C=_fG$,ce9sdQg8jV&'&APnh>Pu"D=KD"XQW'f"K*hf(K2K,AUhLXBSY#@K^5tHOOG%5EIb.7b5Yl70Ou,fQ#uka%h$*V!2%5j.>lO__:?%IcJ'gk;M1'^&H%:CMt!Zq<R3;IW8jA(N6sMjgA;OD=5(:_6)J$c0'KPYH_70Qtoh@em@R[V)N::o'eFgQh/9S0:A1H4,k41;J/?dellWJjTS'taZ@$e\*L#Y*ChJuCt3(RV-uB(AA)Rc$F7rY5h<Wh5h;?<_^cjFA6fp\NNAma+R@lo+R;_/i>%G3ZE=P?7b1EkOEL"HOEIGSn-[5T=]Yc0,O;9FaL_*_ojrR8R::miDuS`H07VsW\O-#)3\&06q:auifC%eg41F+[Fjk``#?`9eWADMhr%.*4Vc9Rt3+Dmd_"t;5jQgja(_a2==cjUMX9Mhr4MEkEnN0fQ4f)=ef(K[-2ta\16r'qN1LF@+?j1)sHOOGUWA_BjZ:<DF6.X+<.L*3H4U/4;<#]-E=X374+DYL.'a%V5*WoPXWXZ.^XH@X*O>X>(MLhjUO+FAgeV7-jf#YEPa;S2O`B`"fa$A4DC;VPECLg]cA<![c@[Nq:bDgCPN.p:Fh9W'0IfA$lT=I)<Iq>_npZZtbV(A%c?i'KNCTkKe53MOW]=0mOfPPH3bEkrim1@gVrna`.ZcN"cI,IT4^[&):2-%\"N"*t`F*&CCUYVN#X?2bk<IYdMN/jgNTVu5-7^\Mb2!_96h&fa$)XKLJbf@Hs-aJcD'i1r^XLC401g-IJbgk\OCSO4dkM:])CKV.\qNB)rDnNdWg7.5G50+XF9:[NDWaoDi/EZC3>T"<Ll<@KDftSS7?HI(<?5P\D\'Bh-52FA-a70s^G+BQ*lo?pOhTr_p:*'.VAF2K'$YS&5EQ["'WJ>2J[c48$OS(NP5h:oE+DYLn#dQqN,$XTe$HRO_@j(),'p(;Y/d,<%CQY`DC5%A<_;hH=RTQB:fs`dHY96^GN(+YBa4KbB<&("pp>nYC#0,8KQnu";LTZZCr;<r[)e80\of(+XHsXGTSgV!bh_&I<dNoQRqbGn,>ISLXrna`.ZcI"PLTtna(U&<Ms$ut@@TB[>/nEkEEQek:gt#Ufdde=bG8gm5,`HV'M/fD[UaLr;f7b(AQK+K>oCic$*Yc>o>gUFbe$FOP@X093^&S#WRCdT:%.hU;Za_hGT:P`'Z:m8>:T`tD1B-X#X5NF+G@MV0ZgZD%<g<?"BcLd[WcI=gT\S^N(=.r^Ys7lSMZ].ea^h7iVE*@fVcM`uHCJD`A_j;:ZNsX`>Zl,Zc'<G0<]mbkZJO^\aLY4PA<!Yu6.X+\A1O6T!Ej>^$tS1m!jY;HKck/A/[?*eXamL^3<ld,;up-;P]c4"0$!F8)(9:P4)F=GmR[&TLVL+RIkT)@/mZR[o5[$Q(P[-TEFcEU6EqK$mKLbefk9JPA7g)^+R?1<Pk8Kj@3Fl*'p(;Y7b5Yl'-lRK4n<2#0M6YsD)'1C^\?gQi0@_ccI5+MB5$]@19H'"g%1h_p71rKc_KC/m)e?Jh^rAXm\5QO>ul57Sl[Y[*?a[LJk<ND\)4m\aWo-'bNI'p^7>5`m\;F[;WZT_W^YM1/o,t'l]5&Z<9`i"UN4K]7+RoI`Qeh3)N65g)He;#A<!ZPhhms>O>RkXO>X=5f#Sb4GJ4eR.j/U]Z63pnNNA7"ZL3)jG#glZ?t;RSa;S2+CLl8s<pZo<XMMu0XH>BG7b5Ylo<$YJ!Ek&;V0p!./gG.BX[q$gc.Vp@)51ZQm"kNR4RW16<sE=+J$DX?R@AAj*p"&&f"4[:Z?U7dNd\+rh)R&*764N8fE]:Ncars*NI@Mhq[0KTJ+3GS`Qeh3)N65g)He;#A<!ZPhhms>O>RkXO>X=5f#Sb4GJ4eR.j/U]Z63pnNNA7"ZL3)jG#ikWlRS#;J'MTi%!^4,SnqU>kO3Y[J+r*'J+(8[Ic-%Xq^`95bMW;c+9(oI*.Q8sVuFZ-HLdoq0,=%nh]/$9g[!aG`tQe"R(db(4Y-.,^]2pI*;n-s*;KKI1>0F-"/YAZ[m.uIrUh-*I-/@$T0jt1q*.on1?<r^Z_(3.iP05um&lJcq)a((Q+p>t:U+L0\,Z8Z=ahiE]2hP1AFbk4rM-"a2]lXg/aK&*=!-SR9%Ln-ZAm@[2GD\GNF2H$2Ob%V43i._Xj@?p)N64iA:<(Ka?$3"NKH.Y2ZmW>n:)VI.=$41McG&ERD7V$k/7"RIj20ff'tJV2&KJ2b1cG$R/>5#\/0M?'csj>F5eKA@a!ICs23d(hgaPEk3^nMp3&V'4,_26jMC+OYj4E-D(>$/GSF<DK<14.XGh\2[jQoOdjq%JAfE:kFQNqAo"7?@gJufdNno]dl,/[iG!."Xr'*%rT+pXSFj1b+B4o.af$:^F;tb^`HVP!nBA:NFZ?Di4c<"(dEn4r=@p-GC]4(Hu23Y_O7se%h]ku3LXgif`AA(,\O>X=5f#Sb4GJ4gDYCN^`-O-kGf#Sb4,O<XaiW^-h=uh!.3>:T1gh0bl)L,`VlrtC^7CA/T+Ar?$3Z.SjK*j>J0'&^aK0r]Fk.Jn.Omi;us2TN2Sse]u]pQ+ia^O-5m5qT8aeR1c(\6nLI*omh^A.QZSer\Rjn`3Mgq%pG.X/NI<n$No]P1hnkAtY'/Ph=roD/1q0BW:J:;CoLqk*i*ACjb(]j/XqO`?okPg:HNfhXa1>,Qs.q/'QddCV>\5CGJ;`l>P.@uWglcP66hP_D5AH'"Z3]+\:$V>5qg3]eRX*1`Ys'?d;@M/foI^(W/gcaK&:%Cpe[*\NKIjC/$QA9"46jd6_4a]YO<=UP$qAOA(1@Ps^J*h(a9-@O^-lW<#eH@'+?A^-Jt=4UVZF(O2'<a<B@ZJM/ia;S2+CLiF+45Yq]=$Y?k'*DA^CLiF+O`fhkEW$6:^*i7CB;fH0C-K1+Gu(jN7Vl5jT3,9G#K&"C-%/",HH!hZrqS>d4Rp(Al/?Pd._h'ZQCE*TpZ0aA2b_e0Hcs@acKF/!?M7p-3C.[g3&:$E.aNE?)dCnmP<Js:Pu]Ntf<MtB.`XPZc4P2'_rYImhHnY=.V.p-7s5r'_.M[$C3I5gF]89qAG;)L*td]-XIYl4Z?Ff@5+t&bVbWHPmtNj#>B0TKaEi2B+DYMIXH>BGmX-Of?NF;J:CLcnXH>BG7b4,K`Ut`(lg9O[XH>BG7b5Ylo<#NO"_>;00p"8u7b5X!=a.Rpf<9_+[jMBc7b5X!=X37X\)R6!OS/=c5h=!p=X.]mh>()V^B1\F,E(T`3AW^@AXIs;]E`oS6dPYh3Hh;Pitq+cps2$4X]j;dpNG>5H=1YNT9ee,b*1M"EjVma/FKG4^>d3RakE0%91,3Il\"PIp=/b_gp53GOmKfeZ[5G'QLF_k\C@gVEFjRe$.o"FFXqW95h9=R6.X*q=X.]mh>(+<XH:QXq+=9RK<2N_L([XUF847BM7pUW)p\nem5qRRIVlGCX&n3JjPaasR6:&abE%V\H`dq[HRmUTjIF;;P\&0C&E=_N3^hQr/e)Y-X:MaWfU"I:`4;G)+2gY"o=br$.j/U]Z63pnNNA7"ZL3)jG#glZ?t;RSa;S2+CLl8s<pZo<XMMu0XH>BG7b5Ylo<$YJ!Ek&;"^1/Rp#bD6<H^BP\<X(Dc!i.FCLiF+kA`"q<^>6j'>qACQI"tgca.e56run?G;+,&L"<Slm3ZUuC0k&([<pDcqQb;D6?6KsmbY*kMZ)&"m!521EuWH_Dp6X5efM0IN&_m]A::Xkq(j=HV^S1:cTO4e24sh3a<-$H6e6-#k?DJg=Yn`XAn5@hRk1-QPr$tKZepY2_d%Y[i2/4DOS/=c5h=!p=X.]m/\VrElYo"<0m04P26o^&a;S3:CrOIV>Yea$SLA$.XH>BG7b/_e0sV;@',XXq$<\ThA<![QFi[T':Y',63IKh3PD,ia-[V/6hMh/FI1D+5+Ar?$3Z.#+QXfaG66<]t3-9:NcFYVLq>QHGJ".Eui]hO1?p<b[GBm/JB-C'@=tp?P`o?Mc<?=1]oOQ:q<KhjO`j*#EZ1b8eKd.&@\>hm?,.ijq1)2%GS$Dj)7ge9rp\#=ll5X@sU<[IX4QFN!/&QB7,MF?D/""d/4!U=:SS_FRlWF-[ft1LS@S;]Oo6G"t?p=I;O?WpoYb1Sm>(F)eRSM0;:$c_\rTApslodK]Vq\?+3R$a0U%@a=a&FbeT-$5d]LhoFB.%#7G'qoYP<$.="='Q7]s8.4`kq8RWZ3_e<N9QjA^rp9g3Mt+0iuq[&`q0HHtC!<\LLieDpp4PAA(,\S/\I![#H5EpX=/`cT>Z#<Rsnuml`lda8V:5`%E"AQE78NjPiAq24f2DG8#$<HKR1=X4m%M,-lB$e.c]/q4=uR^O>(/[6bY$WV(m3>3`hkGAfAd*9S6'`H.epG+DaYZKK0>5=X:_h/hm#HcI2[0W"oWhOYRdA_f2a)He<N()Y+2=X.]9Fs1X3NN>Q!Ur^,I99D*;#/cLQXH>BG(9ETAlW,T+f#Sa<56eD_f#V%!6AhjK[1lagCG>Z'a;S2+CV^?,Z>S2jA<!\,n7*SVA<!Yo/#:7t<D/H3Z3DPk#h]OO$Q%;T4l'>Yf)'8!hj)MFc^qiKnFDH.G1sCm7ZV,o@qi?@`V!Y"DHT2H5PJ`;r.T/0aLYh%$LbelSqi6!Eb;:SKsH_9A8YqkFmWRDo&]j,oT-V)_NihZEQojjO7+kaYARs!Ira_W_.+k-A^VqhJW[u<elaqT*ZJ-kLN-784I0fW>%EVoj'a(rqHG\[mT`Oqj=ua=edZ/LX<U_9O`d_4+RAn&7+T&l5h9'sO>X>(<$=]]Xk&**lh;&qpDsE>BAGi(a?!4Q'NqnK$aQqm:Lr:.$tPoO"'Hl78/5$5h.eO_\pcl+Fmh&HFk."4NN=@)8<J%q[34f3rC#4b_C-7Hn*0A+QPV<8b,KYAL<J;BFO!`:`6!k;bHYtY?$JuLe'%WkN69gngfSfDpX\O)a]nb9QPV:`b6csU$9O`*5KAIrY*G2W)`\OJ-Od)<c@`4S.DP!.%,W8XR;=eJGh@7ILS<!o>lQh3KcSCOa*6IT(M!tE+irBp;Ikcg,?79s[G4rI[Bfq?mLof1p9t`=,O7l8;IhAg(1cg6J?8X$JZSf%7FoO@;M>ffbH1qN4"Jg0\P]2L![Adt^%:Jc<>LmTfrn/9;q&(o3cGHnf!-rk[<!ifet)+5N-p^EZ:<D$2G4fr/[Z@)mB!PXaQh^tc^QI:%6Uo`n7:G)E9c%KXWUMP4(IV?4d#C/d!X]"@9AP\^d>,ko/Uo8?rHuNB:Li=WRKt&I27Q%:/:]!M'nTj9^HU0:Bui@X0T5l.)-!W(+WjD(64>Pk:?L"!\<V_H5s!P/Gh(1auOEd=O-=d;t&Q=Hp:97h##:nk6L)_`hV[4g`M\P'7"8>?p65mF&^H$X$]B^2-XIE="no?FB/K5j!%Q^3HVe>N*N[AYiB.jf\C<.DoL"?5Hm=nA9%p%kjlNbk(XcBaI3H@=jJUQlNr<"[u/r?o$Dc-?H*bPmV:dpO*r_O/M\u=cNr^?V[M2>bgp7h^I@:n\?^R0S-P*L`-Ds^4sF52A?;@%9'8Y8Y&CsL:>qqBkp8gpZGh+61Af7\^^B?(?<Jeua;8h[WHmdhFkOZYoq)oba69`HaEh/IOL6U[)Hh9iQ_qhb!X>sU=$Y@.MLhj76.X,gPJ&eAee'TtFhRp_SlZ>2m0^-get)0(.C+taJZSGXOS-7q+DY&?26uX\027RO":Sh3YCN_;'a%UNJuk)W-[TQbX<V*ql[/kH4g,^Dg(e.XX?5*.;e-mL"'Oe;Qui;Tj3O-<p+[6,*b_jm/?'LsdbT7FN6Gq4)4dr8&7\PC(VZ7r`>ZJ)5ndC&hVh^A)Y?DJp=[fHGJgNN4/XBK0#*M0^6d)q/#C&tjEagi_CM60IWO$&ohXT7KRjk9A/t\\C6>NCH6N#1>@>[P)p#Tl(s!Uu,O6uUdM,hS^d-KH$HTe[(s!Uu,O6uUdM,hS^d-KH$HTe[(s!Uu,O6uUdM,hS^d-KH$HTe[(s!Uu,O6uUdM,hS^d-KH$HTe[)"D29^^iVF1h4TF=X368@OUIFZ52m5ZL/G3Z:<EdHA6dG3?>C]!a1Fk+R=CYADMS@kL0rWmd6!EmB!j;Ao7(^W:5IXcWaHeT7">[ODQN6#FAK7Z#<WFI%0A%7ZQ!T4mKXCF:0S5F`P8e._$/#qaP*:'golBoO&g-hI@[DA3G)05h>>:&QqWCd'+9K(s';_(s!Uu:Ye0qFh;Q[ekn.YX@3X(ZL0kFcXcDb7F)D23`=/Ba;S45&$h4QTj]O!0T^GG0p"8uT"97klZV0AXJ96<=Gn4/ADMS@A<![gmN0H\h)?PDW#-H(U'Cd'pDsE>,O;>@#I87ANQ=.1L5*,"_*HS"_C1dhn&\H*Vc;7fe;1E5Ie*/TOS+5r*SL>\TU^_t<Km>:UJ732(0QPp5h8de1os+VL=nTt++MSSCh91h/.F`s>1pCX3@(JR8<N:u@I0L[H?*[_+'9VN@jc51%UC*BjT"?ehu?R((E^0HLb\T%1ZQgWm(Y5*BCG(^3He\(S6@YP\,E)cRGg;!=06=DBApokiC08d^[%73kt<[qZadZZ\E3%(SB^dMfr<#pc?RhYV#.\XO[GH?#Aa5[GmpARk&e\iLaP]*4'tOfh%7WRYSKA=>Zpe-K.C`?XLYX.AHf6<ULIn=M]N:;h'WVANNA98/1Vk/W#-H(U'Cd'pB^q),AUgQb6l<O.Y`\ckeTO8IDS8#a;S4-Z3%=lMP4H1H8'*W](/i@9sCE+N9qd(h^Hd@X<5*A*Ch.'qspt]4l9@!ake!&mQ4t$ani_F@r+HP3p&c?m=mTTL:-6]5h:A#.%"o@l*18%->R8LDio<WXdmB%UN5]f%Y&!-jK?3moi'EP539l2;_OAV@!uGBH0<=!7qBfaKt#.YrTl5]_Y@sua-leLPuG+6hBI#A(eV@_NhKl5H8(G'T.l?aZCZM5OL8<sA/uCP_cl\?+R;4"+DYLNrJ2S3\I-D=.Y`\ckeTO8IDS8#aEm[p6.U&kOEFM2%;X@DJZSa%JZP",oHSshjXMD=W#-H(U'Cd'pB^q),O=Sa"BioJ5h8de1os+V#.!Y1#-p_LduOd?QE,P;ULIn=M]N:;4g,\M**GB_b%Lat6h@kX*+tb0:WjK7Fib#$27VKPe+l+A]9"C@c^JD1g3$k,cFh>Ha3n]_L%iEj\U..f^DgdUh4qgXXNSqQDY-?]8L#=i3c*m=GWT?GDa`/R0f5t#%n7m]rsghZjl?)%o";\>Y:QXUUVF)mf?ROAZJPKLE6#66EpP4*\"o[u+7uIQT>>e335=bUbBLXG9FP&??E433f*nsFMP4H1H8(HR]OE"!A<!\PG/AF[Lod@\BNU06$tMN)(s!Uu,AXi\Yh_5^l_kX=etNBO=jJT&Z:<Ed>&G^(pPm6T.Y`\ckeTO8o88+#OYsG1gBlV_,I3>eTj]O!0Tbt?@N]GsNND5b_KOgmXJ96<=Gn4/ADJUAk?DKb??W,S=hBc=*P\)7AsVl(4tZ*il*D`1G33@Kk!IYpq\\!bcO+m'Cj(<G&_#'H9*9AKk<'HM*H*b(<i>]Kr3YTG`Rr,)G/AF[Lod@\BNU06$tS0A$tP@!g[-'']%o:hl_kX=etNDeB_p=V5AO_n?'uAPHh,ggZ]C_>qcH8sT3A4Xa1$rUr*iHan-X5qYrn-rQHtS0I)D)M%*pu?<m34X`[Uq9K+-'i=o(EZUr0,!An$"n2#[)c4D/,A5BbI6MOk]7m"BT"CW'1c;e2'\YW6&chN(s,M1)>;OMb]NH.(6kVT5NX=Io%;E9-OF.p8H'F8(_Qa([S(X+V:'?/ahYq^3`ap5tX'3aYFeh%7WRYSKA=aLYFia;S3jgHCX@0F"fua3_%+4W$KrK+Aca#1Y@r3qB-YO$>/2R)-\u:#gU<I+N(&FtVUqK1AtKfZ/lOfC&V^g!TL(@^gdd4F74CnEXM:?P9Cqs*MbHm>l:-s)Oclo9TQ)(d,fJN8YU\iF-\>$k7""K7U+d26o^&a>t:C=c6d'=Gn4/A<![Q26o^&i>BX>*(.VIoO&g-hTK*r/M]a!eVTMnHcPXmZIf2as4]X.pUqSgHh;c1*P6ZnHWduChu2>Of,^ti=VmYR]p4:af#i"3oR-?bNuHjKMm8+1m=aF8aBBQN_cl\?+DYLNqa![%aBE<lPM->\0p&e&L5*,"_*HSmHM2uKXHBp?-76,6L1;?AE=<:ld=["OOnJ&G'j2bsWD-'$-Oe$\f&@MbetNBO=X37c%k=kSel&!)e4pj@JZQgF1os+V#-p_LZQE.WNNAs70r^]t*!9?%@q\u&*XlS=XCjbra;S2SD.6C)@5nIs(<=e+(-NKlAaS@]G8soAI;Ji7AEk*O<,H_HpLWC2M^=Wr3;:kP)sN:d27*#9V.#\dca1oD3Qp:N_^t&_J\C%?auWJd*7:W^>'3rRG6lI6H*?A'o.;``^W32:TX^V,4Y>?8L(6-sWLY^_"'LOlBNU06$tP@!Pmf.J7b/UJK]*ch=r]oI>4c2FCLjPX:m!W@mVjN^a$A58(`Lu"#6S*RCF+UjXH@X\4(1)QZ51L-YSKA=a;S23),t.+X?52D__I7\3/30qkeTO8aBH]Y,&:`FiD(5MJZQgF1os+V#-p_L8d6#5,O5h`_Jfoo/WQN5/UB*cb1aTD/tO0Q5;u^"\m^jeO^lHn!ldf%(,(^=fmdFD50qEF3d%[up^8F0SUTG6hVN7"p!Z^=PiEb2`V!Z*r>,_47ea3kEU7MsMS(c&n[rpS(=2q94WAE[0T`\%L5*,"_*HSm>03E]CLfT[(s#l#6c3+"?m'5qX^k7j26rfh$tLrMTj]O!0HQa3/]XmDs"5k@g3KqGCY)Ya.N`r`B(s[h9X6n:m!O+Y'kFuuA8Th4@V'CpG9lMEa=Sq\?Opq4,-me7"[*^D=r]oI>4c4h3jO),`:G>LFcWT/qe8QZTX0%.jVR:nk?%L0D`QN^n$,lVm#O&JHZ[9mXH7iFIpYF;Jk2$f(ag=YG0]8,k6L.U*O^,OFELt(;Sa-Jo4@VAY7'$3I+@<Je'FN9gEo"CXH^'WQm5)I=[$oc7=2rJQ2^Tg,Ib0>=<([Qf,@*8Ct(Ff2U7mVZp$1Kb0I;;AlOf^gD_.IOWtgQJf]ju7qX\e.-ZHlL5*,"_;NJ).r-I*._2kIb'L3F\?Zmjd'+9K(s!Uu.iD;sNND:]"'LOlBNU06N$)98G!]_&)[tmk.MhaC`A?O;]]h4k<=PsV[e1;dZR5F=I(cmjc@a.WRAm8n$EcT4m^L8ZAaf1<HZ)N+OS(.ZOL7'&L:-6]5h="[o:R:CA3DR_aBBQN_cl\?+DYMiGu0V\ZCVj@A1`h8@4cdZO>X>p4K-=>=jIH[Z51L-YSKA=a;S2s*`Q[0XQK`h=c6d'=Gn4/A<!ZJ%k=kSf(4KEXMlnNX@3YSfkMQiFk4L+`US+n_NFaX!?G8ag)K-,gO7N::=HO^r8J@,dbh+3U_8WhAGs:S5+L`-,&:^P0,Vc6*(.VIoO,muXQs_UI?esR2bttg+a<5m$tTZd`j3$-gL,IXbeJqqI=n.q/LUQ%qpu's^[g7Q[3ss^7&V6odY*Z%\p.X_N^L3%)pF%8f&g5\::I5jTD*B%K-I],br(59*O7I&=c6d'=Gn4/A<!Z0%4\YQf!8N,>[noBW#-H(U'Cd',O7gOMQDrJlkVG0(s"`fL5*,"_*HSm]$[/pCLf$/"jJn/ZAsg9@4cdZO>X=]1oSL,'3W*FJ"Foj[eYm(E:_b1Y&>q^ccE[p2E*Spa6$`sr,D6\m>[u'o\nrh5MjV]FKW6L&4=?=oO&eWADLoqO`aa2p0Us,AL$M10t%Om?qcQ]j'cV'M]N:;NN='..^DOpZ<L.\(s#l@L5*,"_5JmMduLqL?2Ck_b@=nGj-4]Nb8P2L-F8rEn!UC--h&$jcM(SVp[lPfY*UNn%+1rQ6.I)nBAEN$qo\kr0t(sZ^X@N8i:m[<]2">Zp7*%iN,Q==mC`<1.dMH-R""QYT$;/BqdB,8=?`M)B2)u`:o";s6O[M-*(.VIoO&eWADLoqOYsG1*O$#.OL9*;%;X@D@5`eVVcHK+DAj1lO5uJ3qo+e)7WVb]q3B#>=j+mtqCA,:h)/7)35pO03p<lTIdtaV*To*Dk*=3Qlupo4R$h&fB8Lq2U^!nf$tQI[6c3+"?m'5qh.TWIoaGAJ1d/:R=4V;+T(^@]r%[J&OW(G60p&e`$k7""K7U+dFe_5kf!CLHaY*&"i5Wb8LV^O,Sf2.A*(.VIoO&Lj4`P5U`(I$Zp:UP8Z+lQ=o?bI-^#Al]ZU'jTp_!ChL*k3LgjacTNq4dqNW8%n[udSo(j3R@$"/sg*-tZNX*OPZdaLPsHi(UT@6&Lar&JkA;!6%"'adAno)0Z<-k_@+jQN\%s(e^Q$?9N7^G8$t=n\@(fG"jRl_$<i3+lad(_$EA=d/c/2u&;DZeH!r*ggb[0'E&tj`Z*dKg1G:'WD-!&EAP8Ii2?snW,V'%c3]'\aG2=$k7""K7U+dFe_5kf#V$<^cKD!f#f^(X@3Xhq-idh&+MY5oBSW\=Eri0h%)jo@#Xh6G^ZU/IgYuMCV]a1$hk_([RRG"M"f+7!`JnLGT_b<=2ZaeAH.@WM7GA6It^"?If/W"cMp%1Sp8W:544ud_tZ7ApMS`<;YVnZ*X6Np*X5]+Tj]O!0T\/tDD\<5\gporaaV(-nEXW+\nR86EXWCmd=["OO`dEb7Fn$N3ZmOMFZINhC65iD$k7""K7U+dFe_5kf#V%!#dW%1%>>W;etNBO=X36%K8Qam[9sSWXf!*F0f5t#%gK=/er9kK=X.^u,03q`2\]_7=Gn4/A<!Z0%4\YQeq->P[@V7a`6b_(4W%dt34un5inQB5&ug0h/ZG9pA/d@nWN;XDRH<^gq[Q<m\#YsZrlNmIq1UV?jV3`bIA4)Q[2&:0:AI%4S?]j(4`\O@2Rr@NG\uq>6.X151os+V#-p_LN<U,#cUQK>H12o?:1ckh#dW%1%>>W;etNBO=X36%K8Qam[9sSWXf!*F0f5t#%gK=/er9kK=X.^u,03q`2\]_7=Gn4/A<!Z0%4\YQeq->P[@V7a`6b_(4W)6Y=Z76uA<!YoMfal^\[cF%D=YTh^U,qgk0Sn)3[0<5[HPFlf#YGMTH\/^/Qeh?/*fH')cLB^"L8f`d'+9K(hQ/1b4)LSr@PnJjb7WUQ'7Z]jB`=&)<Us$8Dm8,hTB(-YGr-`CZeuZg9R=9$0e(`ST0[<iJ?64W,rN%Ii`&@'_-(bXN8%aR*u(=a2?9.(-NMU)Hf#95h="[FtIcpJZPVUBNU06$tP@!)dsk)A1bEZ\]-nc;)'o/71TU.7b7DjOL;rX,.3`I`^&*P0f5t#%gK=/f(q+_[DIP?[?fZW+DYs*%;X@DJZP!AILKbhn=W=SV)K74=r]oI>4c2FCLjOh"'I-:-rOjF%0j*Ra3_%+<>\MlcC3D?Q+?0PmL'M1*I,<s^q(cAc<8SZ6^,Aog)RUXXI40UBQqs8>\0H\(!8u3)cda6=g,RZF^chV'^5ilXV$PC;4+MA/e:XUAoG:%'WJM4#,@@o<SNMibdedR[,trC2-4PMF/\\be;^Z5?)bL+EKt[dH1a#e2.??0GHQ"G)-g<+;j]0fjf7"gD?iUF/\T!Yb$#cP_cl\?UrXHWX2dKV$4i$D>'bgPXMlnNX@3XhMQDrJH44>dn=W=SV)K74=r]oI>4c3ua;S3^a$A2_%uSk?H@pdM`A'3N71VkFXHBo:$tQL0TLc2]2]0V>*(.VIoO+K9)Hj,]5h68QMUYgUK7U,C0f5t#%n8UL-aC6@\,&m0XhQeQHN-9DS/_$BSe)>J?--8_2j@]@Xedrn)Fd\%2gR:CH8&6-NNCZ?+DZZJ;JYM+L5$;jduE5.\K6\D=X._T(s#l(L=BCQK:u^AolQrfF05`m7FoO`4U/2mL`s0lhI("6;*Eb!c(++98<Gd8<f_g5'k0_9V)K507T</BH8F`10N)G@XOUf'CP<U'CZu:_L(VtbNS_mi*fLe9,AZrhaBBaAe670NTj^@^FJCd9Xp62BLF9?EcU.e((1aNY6Y\3d_9am1HFhLn3S/nG,&=<9#)k+S=s8XM>'bgp@79d1UGm7s#9u[g=q;&Z=cg$X%&pZ,#"-:alKLcVk$/EdMQF3,)DJH>CP<U'CZu:_L(VtbNS_mi*fLe9CHXL^A3ncR0r3CK)[m0#Wi$fLR<(M..C.NNBY_]@X;,28Xedrn)Fd\%2gR:CH8&6-XnC%kOTel<`/n.qD_O#,W1Io!B$U'WV!NbBW5i:6'k0_9V)K507T</BH8F`a0V08T26jVpkKqaFGQj3R@.Xt^&QOW1[?fZWBGaT0h<<+RlbPR%:'cT#$q=2>L=BCQK:u^AolQrfF05`mjY94Ye712,$8J@-dMiT(,H@X\]pWq)(b%Ni)!Wgm;2#ibCZu:_L(VtbNS_mi*fQ>S&.J4KN2T&OWO;@&6c4`FksfUR>Rs:RYnM"krj,]+h`iif9mY/"0XP72CP<U'CZu:_L(VtbNS_mi*fLe9K@'h^JKK8!HOOGe&4:1a]tr&LU3aDuRlT)QOWnQpRU@7R0P&cjf,3XlaNb&#,MKJVU1#X"0N)Ej7M?2@%>O4Qjr+>)8&`iZ(-NK`Z3I'1#-nG#FtIcpJZPVUBNU06N"fEId0'PSK-@jm\]-nc;)'o/71VkFXMJS%JZQ\L?-?J_+R>sC)V1Vf,=U0k1r2H.@*#K^Xtc#\<"'4Od=[Q*CG;2b+DWZAf.tqpa>tf*L:-6]8<GbH9e_Yd(p[qFCCF_o'golBoO+K9)N6![a;PK?[ELK4ZAsg9@4cdZ;Ig5+'+AC\L?r++)?X,4`R(h)4W#WR#,;J/Z3E[>/TZo&XJ96<=Gn5Z[-^V%eXQeGD\EOi%>O4Qjr+>)8&`iZ(-NK`Z3I'1#-nG#FtIcpJZPVUBNU06N"fEId0'PSK-@jm\]-nc;)'o/71VkFXMJS%JZQ\L?-?J_+R>sC)V1Vf,Aj_"('O#hFWpA/'/2Nca;PK?[ELK4ZAsg9@4eK5SfF:YZ+'Zd7]snA++M?,pN=X4*4e0bWW2Wk7D^R*iPG<1pODhQdFh"bT>P8J?d>:F4TD=SdJpq,m6@_^cgS&E%Jb0O6)7&`DuApfcMuEnB1t45ouQ:+F.;@=S%m'X`nc_kC$Y6dO'b%[nct5(2132C=84FM?Sc>J4Z.!BU/=]gWO#n;L5*,"_+;,B#,;Jo='*tfG5_9(Id=I-p7(I@ZgWAsjP+MTOWlBklT\X'`I.ZQ4XWsQmdKUkoUgT9cjfRMp1n9k%B5Z%ra+?=^\;sGFEj[%AK;LQ_cl\?UrXI5-5^%1qK#`@S,G@cfCLW\O8eF@9\-XC^)Pg$elaqn[<N9H(`Lu"#:#N5"Z']FDiARFD3B;;n$^DlTDAeZI_#EdgC!8]o"FN:/Lp\1'8*TloA02FO$@53bAN\heIBt7A0%k0*XiKnd=[Q*CG;2b+DYMY"^*)9W#-H(U'Do3emL>N5h=";$aN7Q;)'o/71VkFXMJS%JZOuV(1`E+ULIn=M]Rg6nh6B\(Up!-JDn=0f#Tl[Z:<DB0f5t#%n;GX_.\FOXH@W@A<![c@VAl%*fLe9K@'f(=X35`a;S2O`R(h)4W#WR#,;J/Z:<DJO>X>(MP4H1H8&6-%7V!>ADNNP:&b*pS2'hla1hDBf!!b.6*ZG.g&0BMKWJg9VBG3'(`Lu"#:&oaHE)H6akACc4Zrh`K7U*cf9>gKHM6/cO>X>(N1jZ3H8&6-%7V!>ADOefO>X>(>!rmUL:-6]8<GbH9e_ZOkB]JGa?"&J4W#*gU'Do3emPGs5h=#fWZ0#_]SIU;%;X@DOd9P6aLTA1N#?"GCLg`$NG`<5Qr4A19"NE>bsr:6MQFWjO+FBpF]CA^[<N9H(`Lu"#9u[g@&V+2f#YG&)ou3qL`Qs6CXIcs,&8m^@j#Pt?.BBp/RCgUL5*,"_+856$YK"Y'/6e%+DYLneI?%@?:5<YL:-6]8<GbHl7nAXZEEHsZ5,*f#=HC4<+.mL3br2C(Le(`1Y7*RSZ,uVr"3'A>of=-^Lh4K.Y+3%_p%9[0#(j(AR`+BG1j8J0lh",mC'mNYC8FC8;dfsqqAX'a7l,]q:$c&I,ajD47@o\L2NBj/fI4/:8nF+-/Ie0k+`1A+L22=4[rc/AoDT(CR1'L$6hoBHrlT747%]$9*;eWXMp+]_9fD%4W#V$M?8NY$m#W9@IU:7n1_@s&NpsLetNBo7FkkFa$A4s\uH^j>.fY4$k7""K97?n0[sSTCLg`$%:h%s6k>$,[HPFtOYn!@0p"8uY3H4s(,)Be6c3+"@&1j^%.tIY)Hg-a"'LNud=\-$/UB,!NauE2\"91ATa_*,,O;@I+D^KkH8%1W71VkFXL0)f0X;g:A6m^pA1_+U%u,hHkeTfP[FR\I7M]NoXK/p`XMp+]_9fD%4W#WRep;#FaF^LUF]CA^[<N9H(`Lu"#:#eu]5H_[['P@@L7TeR1gji[f#YG&)ou3qL`Qs6CXIcs,&=<9#)k+S)Hg-a"'LNud=\-$/UB*KA?GOOJ<:"<,O;@I+D^KkH8%1W71VkFXL0)f0X;g:A6m^pA1_+U%u,hHkeTeOP-sGDJ>!DS=X374DBN`b,'kq"X@3XhMQFWjO+FBpF]CA^[<N9H(`Lu"#9u[g@&V+2f#YG&)ou3qL`Qs6CXIcs,&8m^A)q3<2sM1Sf[n\YIrA@RUe$F4HJnBbS?hRe)cA6slisa20;8\=_cl\?Ube7C?efsR!erUl9\,c(V(4]36PX.fD)\7o)V>L0/RCgUL5*,"_+9\G)!Wi;ogb-e75p=9GS*(U)V1Vf,=U0kW5fauqXJ./3Od;SpB>uWXWUN;p%K@ZR2B(NM]pj'^ht91nKN951os+V7Z+:`:lf&IoAM>dSo)d?@N61j6)7%90Vm84NhKlL;e-mL6c3),@6?P2]Cn><lt_ckcF"aDVtKdfN'gYO-MDWKLfB`r7_'8g\Jrh]&N/em6V05$?q@Dr2]*H&<)5H!1Zs'<d]GTa0E$f1gKdXb^9T@uAQpE+G@5$>iI&FLgNLIPcPsc=_epm=OBP:q0Jn`eSo414cLkS@aL^\)1LIG:i!1@L*WoOq`/n.qD_O#,W1Io!B$U'WUr^.56\DJ<#$EIpOBTh4A!k^g4!QS@B[70GL:-6]8<J&HLB^mW%C0#j+gmWH`^&*P0f5t#%u([L0f?9)nB`<DWBo)B0r3AUf,2Ri.Y`\ckeTO8SKAb\4Z1;a+bnKMjr+>)8&`iZ(-NMU](8:AXJZ8*/&[NQb?SO"l_kX=etNBO=a,=.OS.*GCP<U'CRJrHA/uCP_cl\?U`I.#RBqL%L7WK8l[1XU9F.rtFCRCB8?HI+0p$NW$k6u$?oY?lAp."4Fgi$9XJZ8*/&[NQb?SO"l_kX=eq0uc[D1\A3Zhn7&4:1aF,baPULIn=$aN7Qre>3Soj;WT#,WgRZ;uc)[?eAC5h8de1os-,X>dS:_5pjD#9K<8`nX:EkH7I9W=Y[5AF8X$G/fVIbKMY&gFTY]M4n?0a;S4Y)ih#k6.QAtUt.:W$tMMF(`LtWXHBp*iQ+&%A??D1C+V6Z5h:"3Tj]Oo)HlqVNi_h<ed=.-ehT#iA3G,R)V1WWf%n%g8mY:F<\\g(Y29\!D1eo)@S!V4Af/U8mP$K!"^*'cA6hF@=s8XM>%WM?XQL'\_ci-ZZ:<F<K<,es8?HH8(s%$k0Joj7=X.]m>sHD6+bnKMAqkl<k70ks>*(VI7b76bX;,28X^u)]aEm8.1os-,XA,9+SMd[]9ro\1k1Ym2e*-,(+.)*9eU^<fn#*%5d@u3u7\N@I?r'#Y/WG>/XrAJYrf=p-h%ZV<U3aDUSM?qk1,B?b?ITn2S.6n>[Y>Bb]7]+HTOBFL6C$A=Io)7"N$ea22oS&5$8J@-1,B>L4a._]etP[cBh,?90)2(E%thoOlm;Zj4:D^Slrn"UiRs,mA+20s<"'4O3Oj2jYGT9J*u&6KisA$&9eha;64Bj$bR=SVcQ.ap[HNbGL4WbdCN4$&@d'>D(:*@I6BLjkB4HrUnjQ`SF;e[qfJa`IBOi+uUVjLhfo#+abfC]*7iG?&2iom6jW_c,7Fi&)OEJ8=ZC_#J+R>mAaBB`VMQDq_A.3">YCN]e59\+Z.0d(YLlilsA/uNi=m%;Obg3n=[D;!L6<Z<9\Z@`2+38c_@\iT<lPA5VUE>JsULIn=bJEIN0LODk6.X+<r1M,S@ln1ra;S2O`mCq*A<![QFo<FuKbu8E7b3\V1opj`,O>/jop:06RH65Se0]?sX.PIQm[ok'rN8INo)0Ya<tHh/%ubmuKqE0nkn'V[4I@f%[jD(3pk/+ggJ\2Wa523T_GDQE\U,Q^()Yk&LnLh^4<`f19m>ah%2i;!`-@qAer@[ZhIZZ$4]A9"H7#+W-Q"H%('=YAcXoN?,jV=5%EIC8E.o/),-=YPH%-Yn*t9GE;FD%ML:&/i.Qu<-Dh6='KXC&7Ml@8[&7k1s`jWiWOnE6AN2T8Z4W#*gJul$F<0Oru7^j&ZXrAsi6@;+][D*[8(*c9!PL2(Y,";-3BNPYJY,S<Knj&/e:P_P#3ggOimI/''`CO"O>'BdXKV;gB7>g<FR,qL^\)P7=+m[\rZ_%ekDDYW8ZCX?@[Ojt+X='cO6q*!s_*HTIKkqmtR7rE-2k$lW=jN`[gD2#&es"K8U*<%u?m+e568jqu9I<0')bnq<XCon>D2XN#lcEfW;3<&K0T^F++WJLK-5.TONMc#.ehcO0[`(e"ojfn<W(7L`(s"bQOH#92?$0gC?e,:RC>giEdCWOn1Ee@HWTP#?)BHj8(s#l(7]Jr/,$,,&k?<bE,@JGr9AiiU?ZsM:.Rqt*O`gU0aL]_-0ZlgfNsDtNG>NU9JZSGN0c4]@F3VWI[Ec0%J#C]GgB3SaTrS8/c^2&T./t!N[3+8Hil%el`gS>XB[P/+QA/eS=@i7\1kc7VG]IoW7/W^blNS3f,-AmQ"Jb5D;h+[ZKV;gB7>g<FLqT+iXgl+36l*)EQ1[i=cF)kK<D01V<S"6J4t'-6_D/R+<eulYAN^n?,:ZSZ%n>on"E)3OALFdF%Ge<"`0eAoLiakP66_sR/I"':L(1FhLlp8MFe,jF&>ME\M\C7`L5$9T.A@&WQ>6faMETF?XJ]OO?p[8m&MbMlcBf<!)?[k]=Y%E]OnE6AN2T8Z4W)7$?XX%>LJ<Rq2aSi:deV=#:h*nc+DZZJ.C,P(L(P.LU'Cd'k::?kl`^[-ksiaI6on[Y$u-1Z)e?&^,=U1Id4h:=7J't1l[4Bq"YYar5;\rX#@bo+63@%`A4#S=K*jhMWe.;e@^J,\@pl+=P4d=%f.`pC7J(!3YH/,\Jufo"b^Mk[qh_D\+DZZJ/^F20(b)bV/trRQ=m$U,JZPV@874ZEFV\Mi&>R3I*s3`Vf$["Z?m+e568jpJZj@'*-aM$LX;,3O39t'^UrZ`NL`Qt8SR9Hm!a4]5;R:p+0P3NmiSDj7+n]DPeSSjQ9+7f+^AbZG'j_SC[YPu`WC<[*/.Jo1%p2@]2NW(Q$)oq`iS=d=+F(W-qro]XQ`;0DKc!^#IJn5n.`bf%L`Qt8SR9GBZ>MiL2$Z"O)^,q!c^/f>]uBeF'kFEX6gCbVIr89j=j%T.K7U,q$e[erbpT=LTS@Y8Uk7P#ddF$B3+&\;X;,28Sb;[%c)Mn%fck_rOEH!q)p#VdK[_!kn8<nY&3O=RrU^lg93%(]64Bj"^AbZG'kAn#6k9L-c7`_'M6&j5$[E&O(d2S';KG1%*q<CIJskPM`5;jCD38sB(a>k^8;0)YZe7:7p.E5Y8e%.#N7bG=3?*NFbc)MbVVTlif$,RQlHr,QKd))G/[FdO6f`=sWDEg(=c3fX&e&<A?cWGWDE]4BO$9j%'F?m=O`a_B,,\X9KfUp/>(",M?m+e568jpJo*Lh2oT=9i8Dn3?XLl=\3Sd"Oe:Bp:iWH%\"'Oe'ZCsP7q*QrjPKltSF=3<i&>,&Qk=Z5BEfn/d(0S\tR+^_)QrO_Obj8)ReVRn5@76pr9F405=go6PR^4`<Xa"S>2NW(Q$(6+LO`d?gi1M:[fGHD+h$UKGXCZ$3C;?'A+R=E/%:n:B6DbfAA6gSr32jnZ2TEs9\&,3jCY@C&)DEHSa?!\EBR8dJ2&!$,J*`b@;u!8uhg)'G\!Q^0UN,R,GZ"da:Lu9YW1H2[`[Fn"=\CjU5`B`GqYbNuaNAQNJOLIt<mQTq&n>OO>@CRM(LeRDU*1nQNJ8%1)DEHS;i:bg=O#NdbuQs7)kX`_r>uO$9[&K^H$oGH00]C$YIs^If@s?Yaql\FC(aF\((%/U<+N$KO8RF-k_<J(6:\Cih,#jGTgaXG+gMlGDM7JQIHlR.C`'9r^6\1_[sQs+fPgbtr>TgQBg2BoQV;j?ccNrrGP:t$qqj2Zo;1>Z>U56,@#K\+UdD[;q/6,chqpp_"M<'-7!mSr-*u"1LpJ%O%FNO^eg&nlDR;$ZmtN9cTc5#\ZnNH?=p1Ue)mYWE+DVPtfl"/LJum-)l!HB2[<OWn:]B0'J*Gq.dHfpaUY%B*+D[1<Fg=.)WIM/O/)P.@m9,QE^YGES2+F8Yp8"H&;VeQ%)SQuLDDWpXBf8$@L5B:s65lSo)_FOda5%;pNGu"UF<c/`(?n;?X<fQ^Fjt:OlYm:&DC!;L1<;Kf"'PN5OW\EG$tLBd)ot&[6bF?EZCVK1%`CW`rba"&=one/8*pMd%`].L7Y7]hK<,/0OL;hB$*ol45h8fEJZQaD`4M-SlcC:85R_2jmm_o1,qtF'e8?DpE")8S,fk9ea>sk7=o5gn+DV8lA0&&sa>t;.]Gh0_Sd_n7`'DoQDC!;,!WuRqm09j+`t7]/Jug>PX912=[D*XeZBi9keks&1XMZd2]9+6%aWTn7$tSbo7Y7]f0T^G,DBS7a%.S3\aEfV_3Y2Brqn%t5CC(D[*OQj-3ZLN")[WgA%'gA]5h>pP,fj-j"'J.]#-n`Z&FW)?X=&Y%"#5nF^DdKbQG>c:;7hC\__K*AOW`u3+R;9$AF8hTJug7POEK&j+R<tTnSTVnH8<Q&&-H)4]9+4O#n1>b[2[1J*(.@X$*p-2Z4=f<f)BP4aBAWI=\%i`Z4=ndmm_o1-\JK&0p&fX)[Wg9^d-IJ]7I'$0uU\d+R@,llTbkhmI*MrX<fQ^Fjt:OlYm:&DC!;L1<;Kf"'PN5OW\EG$tLBd)ot&[6bF?EZCVK1%`CW`rbe)I0-5JZ`8#$jO*tm$k2Z>6RQ@(NrE[lSPGWK.>l<l29j3$n<[>=EM^!jmI-Qn#k_<J(g5TcQ]:iang(gUP7USS?F<c/Lm8Gr3Aj\s:i="nGV<)S3h4$KZp-)o[<*`WcXcp^:[f6!%89fh(7B5c!dg_FWZl@E,G!jAfZn(.HQL&QB,2EO^7JkRDOkC;n9)(_6BdjRF8&F1mn>P1$@IS4EnSTU7$pGOM"qSZ1@;p]T&nESFJZPVi"'LChLj((0errDNJJcJ^hi.bA94/n.W80_ii>CS18<ELTOEDZMZM&Je6.QYca?"&pOEEO;GW-7G4W.cNLk2Z+h+3X8"9u/lg'qR5NZm8="BeM)=U/CYCO\8UA1`@`XJ9q@=bgLCG9]E)P<mcN(s(FgN<EBW?m+d6h*BQM(uj@BOS*.GFW^mop3.`Iee/h@3bgU8FZ>,#2\KXa).XbDJZSh+8<C4^#-s9C%:gK>+l81]=\f6)#@\fkIlA!N/V/JSUNQ`BLLZ-a,=0nE6.UT(aP,O2"BeB*+R>u^5h=m2in[.eojj/,+9o.FG9]E)&fA\NC,_5s3/2Z:&nF-CA0$JWXSpsGOL52qZB!WJA0$[RhMhY@:Bjr,@N]H92\KXQJUsntFotm&@u,=R6.V5ceq"[Zg>@km=\E-Fl_rW)f&7J*h+3Y#A<:pV#.!rH_qb7XdfYg#T5*M>cQ@/L\nR]dp5QLbIsY3A]L%N#Kl1EK*Sh:k7_99"CH%L%7_9jEh$@hQL2OBQ7;YEgf8Xs[;<Waj<l,[$8P@7_paEG6_!(*=XJ?fV3ZLN")srM*lU!Ol[AOtbqP+\/cDou;4c_ag_T6r=Sof'AWZ-"2C[l9jR>ocdA@j"jQEFbh25G`XBO)n@%AT36f@''NQLBR=n[Z],:!AT?0m-/R^9?Y-B/(,hMKFbb]3uXO2l+"s32/S%L6C3q/0`UROgU!e,CC<p;`@*V6c3(g5Mbn:JZK#0HF=tIkm"F/`/s7R@$1HQ$!Bn96.X>!Qosq4:RKehXn/Mf*XJql;?VsX@5+D_0r3CK)[m0#Wi$fLR<(M.5PtHS^2Wl_'6BpSb^B[olL7%;m\BfhAHeQ!h#=HJ8-N3C]L#.$gC;V6\fo^c^_,s:2jDNU?kKAULoa%@)r\DBT=Q1$)b)?KYGLj>/aLEsIe1$5GNHD-p03@GA,cf3B6(app8-Y]>U542C]3X'Omi_FMWDD>F'HC-68t^Od<\3-faT76dCP.?)hAIGd#HU$g<4B@0(RE3hZh]ZN=K/rQjmRXK$haN=\1Q6[0VM'2d."`f&_YYY8bPd]Gh0\?m^G%kf1s=$>-$gi"aJQ0uU\dn-Wcki>'Q<1!8;Xf1MZA_(7n'&fA\NC,_5s3/2Z:&nF-CA0$JWXSpsGOL52qZB!WJA0$[RhMhY@:Bjr,@N]H92\KXQJUsntFotm&@u,=R6.V5ceq"[Zg>@km=\E-Fl_rW)f&7J*h+3Y#A<:pV#.!rH,=0ln(s"aQ2ir/AL3PWiA3Cf@*Jf9JrS:#+[0-]>NnOqQ*KD<"N<EB[#$D1?+DZHc&nESFJZPVi"'LChLj((0errDNJJcJ^hi.bA94/n.W80_ii>CS18<ELTOEDZMZM&Je6.QYca?"&pOEEO;GW-7G4W.cNLk2Z+h+3X8"9u/lg'qR5NZm8="BeM)=U/CYCO\8UA1`@`XJ9q@=bgLCG9]E)P<mcN(s(FgN<EBW?m+d6h*BQM(uj@BOS*.GFW^mop3.`Iee/h@3bgU8FZ>,#2\KXa).XbDJZSh+8<C4^#-s9C%:gK>+l81]=\f6)#@\fkIlA!N/V/JSUNQ`BLLZ-a,=0nE6.UT(aP,O2"BeB*+R>u^5h=m2in[.eojj/,+9o.FG9]E)&fA\NC,_5s3/2Z:&nF-CA0$JWXSpsGOL52qZB!WJA0$[RhMhY@:Bjr,@N]H92[mf<O$<-oYuf//7et]genmUbn"crSM;-oFNAYER-d/Y5ai1H4\+R4C78-ne/%!)?FQ6;l4?th.]4"2dHn?PuBNc\0CinMC'>\R>1djno>)[-U]-/pKiE?iX7eg"8dLDsuF,/-!-Z#$I/*j'TZC&&P],r1.WR.A1eNIHS+ju?n,MLae.%-'<76K1b*Nhi,)r\DBT=Q1$)^8Gl?UuOrj^IXL(d&3J[2V4:*f_E#NJ*)'-c<j[JJ^KXmdEVsX<fQ^Fjt:OlYm:&DC!;L1<;Kf"'PN5OW\EG$tLBd)ot&[6bF?EZCVK1%`CW`rba"&=one/8*pMd%`].L7Y7]hK<,/0OL;hB$*ol45h8fEJZQaD`4M-SlcC:85R_2jmm_o1,qtF'e8?DpE")8S,fk9ea>sk7=o5gn+DV8lA0&&sa>t;.]Gh0_Sd_n7`'DoQDC!;,!WuRqm09j+`t7]/Jug>PX912=[D*XeZBi9keks&1XMZd2]9+6%aWTn7$tSbo7Y7]f0T^G,DBS7a%.S3\aEfV_3Y2Brqn%t5CC(D[*OQj-3ZLN")[WgA%'gA]5h>pP,fj-j"'J.]#-n`Z&FW)?X=&Y%"#5nF^DdKbQG>c:;7hC\__K*AOW`u3+R;9$AF8hTJug7POEK&j+R<tTnSTVnH8<Q&&-H)4]9+4O#n1>b[2[1J*(.@X$*p-2Z4=f<f)BQSgRin?@$:IebrkLk,>MB#Xcp`<d<=hoc\dBWBMkSPNU3I9)^=*O2kk`fL6C5'=/;i8JIU#RNHVq4D+O]<d;CiLh%7t+pd.#UBt50)7Fi(gIGL!MF9>[$@u,?(>nLUQkQ\?dF9>Zq<'o/=[CiU(YpWEdq/4iKNc%C1A$0Aph@1d;dCP-M2al6FQ)q<HoWK49Mr_KY[*nbR\inm?h(UcOp\;%N\^<%,Nlf?9[J]_LVLh@$DD>rdCh)^a<&XkKZtJ2k1)kd5Uq._T(6NKfn"P6qL<+1E=A.hT>CJJl[3.rb2In,i5h:N(;V_U0dQ]l<CT/N!g=_Jc&&@ko(]~>endstream
+endobj
+68 0 obj
+<<
+/BitsPerComponent 8 /ColorSpace /DeviceGray /Decode [ 0 1 ] /Filter [ /ASCII85Decode /FlateDecode ] /Height 480 /Length 112 
+  /Subtype /Image /Type /XObject /Width 655
+>>
+stream
+Gb"0;0`_7S!5bE.WFlYNTE"rlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz!8uH/`\*a<~>endstream
+endobj
+69 0 obj
+<<
+/Contents 114 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.52a99f01978f658b0dfab2a424ed47d9 67 0 R
+>>
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+70 0 obj
+<<
+/Contents 115 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+71 0 obj
+<<
+/Contents 116 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+72 0 obj
+<<
+/Contents 117 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+73 0 obj
+<<
+/Contents 118 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+74 0 obj
+<<
+/Contents 119 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+75 0 obj
+<<
+/Contents 120 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+76 0 obj
+<<
+/Contents 121 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 106 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+77 0 obj
+<<
+/Outlines 79 0 R /PageLabels 122 0 R /PageMode /UseNone /Pages 106 0 R /Type /Catalog
+>>
+endobj
+78 0 obj
+<<
+/Author () /CreationDate (D:20220818233629+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20220818233629+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+79 0 obj
+<<
+/Count 31 /First 80 0 R /Last 80 0 R /Type /Outlines
+>>
+endobj
+80 0 obj
+<<
+/Count 25 /Dest [ 64 0 R /XYZ 40.01575 787.0394 0 ] /First 81 0 R /Last 105 0 R /Parent 79 0 R /Title (Safire 2D Camera Documentation)
+>>
+endobj
+81 0 obj
+<<
+/Count 1 /Dest [ 64 0 R /XYZ 40.01575 747.0394 0 ] /First 82 0 R /Last 82 0 R /Next 83 0 R /Parent 80 0 R 
+  /Title (Introduction)
+>>
+endobj
+82 0 obj
+<<
+/Dest [ 64 0 R /XYZ 40.01575 156.2474 0 ] /Parent 81 0 R /Title (Important Methods)
+>>
+endobj
+83 0 obj
+<<
+/Dest [ 65 0 R /XYZ 40.01575 669.0394 0 ] /Next 84 0 R /Parent 80 0 R /Prev 81 0 R /Title (Follow)
+>>
+endobj
+84 0 obj
+<<
+/Dest [ 65 0 R /XYZ 40.01575 139.8394 0 ] /Next 85 0 R /Parent 80 0 R /Prev 83 0 R /Title (Speed Zoom)
+>>
+endobj
+85 0 obj
+<<
+/Dest [ 66 0 R /XYZ 40.01575 699.0394 0 ] /Next 86 0 R /Parent 80 0 R /Prev 84 0 R /Title (Look Ahead)
+>>
+endobj
+86 0 obj
+<<
+/Count 1 /Dest [ 66 0 R /XYZ 40.01575 449.8394 0 ] /First 87 0 R /Last 87 0 R /Next 88 0 R /Parent 80 0 R 
+  /Prev 85 0 R /Title (Rooms)
+>>
+endobj
+87 0 obj
+<<
+/Dest [ 69 0 R /XYZ 40.01575 150.1891 0 ] /Parent 86 0 R /Title (Multiple Targets)
+>>
+endobj
+88 0 obj
+<<
+/Count 1 /Dest [ 70 0 R /XYZ 40.01575 681.0394 0 ] /First 89 0 R /Last 89 0 R /Next 90 0 R /Parent 80 0 R 
+  /Prev 86 0 R /Title (Cinematics)
+>>
+endobj
+89 0 obj
+<<
+/Dest [ 70 0 R /XYZ 40.01575 237.8394 0 ] /Parent 88 0 R /Title (LetterBox)
+>>
+endobj
+90 0 obj
+<<
+/Dest [ 70 0 R /XYZ 40.01575 163.0394 0 ] /Next 91 0 R /Parent 80 0 R /Prev 88 0 R /Title (Rails)
+>>
+endobj
+91 0 obj
+<<
+/Dest [ 71 0 R /XYZ 40.01575 639.0394 0 ] /Next 92 0 R /Parent 80 0 R /Prev 90 0 R /Title (Shakes)
+>>
+endobj
+92 0 obj
+<<
+/Dest [ 72 0 R /XYZ 40.01575 753.0394 0 ] /Next 93 0 R /Parent 80 0 R /Prev 91 0 R /Title (Parallax)
+>>
+endobj
+93 0 obj
+<<
+/Dest [ 72 0 R /XYZ 40.01575 324.2394 0 ] /Next 94 0 R /Parent 80 0 R /Prev 92 0 R /Title (Peek)
+>>
+endobj
+94 0 obj
+<<
+/Dest [ 73 0 R /XYZ 40.01575 723.0394 0 ] /Next 95 0 R /Parent 80 0 R /Prev 93 0 R /Title (Follow Blocks)
+>>
+endobj
+95 0 obj
+<<
+/Dest [ 73 0 R /XYZ 40.01575 545.8394 0 ] /Next 96 0 R /Parent 80 0 R /Prev 94 0 R /Title (Highlight Target)
+>>
+endobj
+96 0 obj
+<<
+/Dest [ 73 0 R /XYZ 40.01575 232.6394 0 ] /Next 97 0 R /Parent 80 0 R /Prev 95 0 R /Title (Zoom Trigger)
+>>
+endobj
+97 0 obj
+<<
+/Dest [ 74 0 R /XYZ 40.01575 677.0394 0 ] /Next 98 0 R /Parent 80 0 R /Prev 96 0 R /Title (Slow Motion Trigger)
+>>
+endobj
+98 0 obj
+<<
+/Dest [ 74 0 R /XYZ 40.01575 441.8394 0 ] /Next 99 0 R /Parent 80 0 R /Prev 97 0 R /Title (Basic Trigger)
+>>
+endobj
+99 0 obj
+<<
+/Dest [ 74 0 R /XYZ 40.01575 300.6394 0 ] /Next 100 0 R /Parent 80 0 R /Prev 98 0 R /Title (Regions)
+>>
+endobj
+100 0 obj
+<<
+/Dest [ 75 0 R /XYZ 40.01575 787.0394 0 ] /Next 101 0 R /Parent 80 0 R /Prev 99 0 R /Title (World Clamp)
+>>
+endobj
+101 0 obj
+<<
+/Count 3 /Dest [ 75 0 R /XYZ 40.01575 585.8394 0 ] /First 102 0 R /Last 104 0 R /Next 105 0 R /Parent 80 0 R 
+  /Prev 100 0 R /Title (User)
+>>
+endobj
+102 0 obj
+<<
+/Dest [ 75 0 R /XYZ 40.01575 450.2929 0 ] /Next 103 0 R /Parent 101 0 R /Title (Pan)
+>>
+endobj
+103 0 obj
+<<
+/Dest [ 75 0 R /XYZ 40.01575 317.1465 0 ] /Next 104 0 R /Parent 101 0 R /Prev 102 0 R /Title (Zoom)
+>>
+endobj
+104 0 obj
+<<
+/Dest [ 75 0 R /XYZ 40.01575 226 0 ] /Parent 101 0 R /Prev 103 0 R /Title (Rotate)
+>>
+endobj
+105 0 obj
+<<
+/Dest [ 76 0 R /XYZ 40.01575 681.0394 0 ] /Parent 80 0 R /Prev 101 0 R /Title (Pixel Perfect)
+>>
+endobj
+106 0 obj
+<<
+/Count 15 /Kids [ 4 0 R 5 0 R 58 0 R 59 0 R 64 0 R 65 0 R 66 0 R 69 0 R 70 0 R 71 0 R 
+  72 0 R 73 0 R 74 0 R 75 0 R 76 0 R ] /Type /Pages
+>>
+endobj
+107 0 obj
+<<
+/Length 896
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 99.25205 0 Td (Safire 2D Camera Documentation) Tj T* -99.25205 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 721.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 24 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 230.9445 0 Td (version) Tj T* -230.9445 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 600 cm
+Q
+q
+1 0 0 1 40.01575 579.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 210.282 0 Td (TwoBitMachines) Tj T* -210.282 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 494.5606 cm
+Q
+q
+1 0 0 1 40.01575 474.1606 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 213.924 0 Td (August 18, 2022) Tj T* -213.924 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 474.1606 cm
+Q
+q
+1 0 0 1 40.01575 474.1606 cm
+Q
+ 
+endstream
+endobj
+108 0 obj
+<<
+/Length 75
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 799.0394 cm
+Q
+ 
+endstream
+endobj
+109 0 obj
+<<
+/Length 6116
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 347.8394 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 408 cm
+q
+BT 1 0 0 1 0 1.7 Tm 10.2 TL /F2 8.5 Tf 0 .4 .6 rg (Safire 2D Camera Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 408 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F2 8.5 Tf 10.2 TL 67.274 0 Td (1) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 391.8 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 391.8 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (1) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 375.6 cm
+q
+BT 1 0 0 1 40 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Important Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 375.6 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (1) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 359.4 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Follow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 359.4 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (2) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 343.2 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Speed Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 343.2 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (2) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 327 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Look Ahead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 327 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (3) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 310.8 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Rooms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 310.8 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (3) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 294.6 cm
+q
+BT 1 0 0 1 40 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Multiple Targets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 294.6 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (4) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 278.4 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Cinematics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 278.4 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (5) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 262.2 cm
+q
+BT 1 0 0 1 40 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (LetterBox) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 262.2 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (5) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 246 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Rails) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 246 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (5) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 229.8 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Shakes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 229.8 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (6) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 213.6 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Parallax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 213.6 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (7) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 197.4 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Peek) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 197.4 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (7) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 181.2 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Follow Blocks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 181.2 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (8) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Highlight Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 165 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (8) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 148.8 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Zoom Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 148.8 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (8) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 132.6 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Slow Motion Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 132.6 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (9) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 116.4 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Basic Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 116.4 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (9) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 100.2 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Regions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 100.2 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 67.274 0 Td (9) Tj T* -67.274 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 84 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (World Clamp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 84 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 62.548 0 Td (10) Tj T* -62.548 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 67.8 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (User) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 67.8 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 62.548 0 Td (10) Tj T* -62.548 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 51.6 cm
+q
+BT 1 0 0 1 40 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Pan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 51.6 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 62.548 0 Td (10) Tj T* -62.548 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 35.4 cm
+q
+BT 1 0 0 1 40 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 35.4 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 62.548 0 Td (10) Tj T* -62.548 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 19.2 cm
+q
+BT 1 0 0 1 40 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Rotate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 19.2 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 62.548 0 Td (10) Tj T* -62.548 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 1.7 Tm 10.2 TL /F1 8.5 Tf 0 .4 .6 rg (Pixel Perfect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 3 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.7 Tm /F1 8.5 Tf 10.2 TL 62.548 0 Td (11) Tj T* -62.548 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 347.8394 cm
+Q
+q
+1 0 0 1 40.01575 347.8394 cm
+Q
+ 
+endstream
+endobj
+110 0 obj
+<<
+/Length 75
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 799.0394 cm
+Q
+ 
+endstream
+endobj
+111 0 obj
+<<
+/Length 4501
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 763.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Safire 2D Camera Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 727.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 697.8394 cm
+q
+BT 1 0 0 1 0 14 Tm 1.157841 Tw 12 TL /F1 10 Tf 0 0 0 rg (If reading the auto generated pdf version, go to ) Tj 0 .4 .6 rg (https://twobitmachines.github.io/Safire2DCameraDocs/) Tj 0 0 0 rg ( for a more) Tj T* 0 Tw (readable experience. If you have any questions or feedback, please contact us at ) Tj 0 .4 .6 rg (TwoBitMachinesDev@gmail.com) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 655.8394 cm
+q
+BT 1 0 0 1 0 26 Tm .655535 Tw 12 TL /F1 10 Tf 0 0 0 rg (Welcome! This is the documentation for Safire 2D Camera This tool contains modules that are fundamental to any) Tj T* 0 Tw 1.084705 Tw (2D camera system. It has a friendly interface that makes it fast and easy to setup these systems. Simply put the) Tj T* 0 Tw /F2 10 Tf (SafireCamera) Tj /F1 10 Tf ( component on the camera gameobject to get started.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 613.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .133052 Tw (Next, choose the target to follow. This is typically the player, and you will need to set the Transform reference. If you) Tj T* 0 Tw 1.052847 Tw (choose User, the system is expecting the camera to be controlled with the pan, zoom, and rotate modules. If the) Tj T* 0 Tw (camera is a perspective camera, choose the zooming mode. Either zoom by FOV or by distance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 571.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .774426 Tw (Once setup, you will need to add modules. Click the \223Module+\224 button to open the module menu. Select what you) Tj T* 0 Tw 1.295909 Tw (need, then press the left button to enable the module. If you want to remove a module, click the close or minus) Tj T* 0 Tw (button on the module bar. The Follow and Pixel Perfect module will always be visible by default.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 559.8394 cm
+Q
+q
+1 0 0 1 40.01575 503.0394 cm
+q
+.933333 1 .8 rg
+n 0 56.8 515.2441 -56.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 38.8 Tm  T* ET
+q
+1 0 0 1 8 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Important) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera will execute in Late Update only.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.666667 .8 .6 RG
+.5 w
+n 0 56.8 m 515.2441 56.8 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 56.8 l S
+n 515.2441 0 m 515.2441 56.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 497.0394 cm
+Q
+q
+1 0 0 1 77.48207 190.2474 cm
+q
+440.3115 0 0 300.792 0 0 cm
+/FormXob.7afdb31daf3dfc568252a197f34e1226 Do
+Q
+Q
+q
+1 0 0 1 40.01575 184.2474 cm
+Q
+q
+1 0 0 1 40.01575 172.2474 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 172.2474 cm
+Q
+q
+1 0 0 1 40.01575 139.4474 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf .12549 .262745 .360784 rg (Important Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 127.4474 cm
+Q
+q
+1 0 0 1 40.01575 81.44738 cm
+q
+1 1 1 rg
+n 0 46 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 30 515.2441 -30 re f*
+.94902 .94902 .94902 rg
+n 0 46 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 33 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 27.74941 0 Td (Method) Tj T* -27.74941 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ResetAll\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Call this when there is a game reset or when the player changes position abruptly, like a) Tj T* (teleportation. If using Flare Engine, this will be called automatically on a game reset.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 30 m 515.2441 30 l S
+n 103.0488 0 m 103.0488 46 l S
+n 0 46 m 515.2441 46 l S
+n 0 0 m 0 46 l S
+n 515.2441 0 m 515.2441 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Safire 2D Camera Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+112 0 obj
+<<
+/Length 9180
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 685.0394 cm
+q
+1 1 1 rg
+n 0 102 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 72 515.2441 -30 re f*
+1 1 1 rg
+n 0 42 515.2441 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (ModuleEnable\(strin) Tj T* (g moduleName\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Enable the specified Module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (ModuleDisable\(strin) Tj T* (g moduleName\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Disable the specified Module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (PauseFollowMecha) Tj T* (nics \(bool enable\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (This pauses all the modules that modify the camera\222s position in a meaningful way but) Tj T* (leaves modules like shake, parallax, etc, still active if enabled. This can be useful in case) Tj T* (another system needs to take control of the camera.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 102 m 515.2441 102 l S
+n 0 72 m 515.2441 72 l S
+n 0 42 m 515.2441 42 l S
+n 103.0488 0 m 103.0488 102 l S
+n 0 0 m 0 102 l S
+n 515.2441 0 m 515.2441 102 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 685.0394 cm
+Q
+q
+1 0 0 1 40.01575 649.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Follow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 619.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.596273 Tw (Implement standard camera mechanics for following the target. Mix and match these properties where it makes) Tj T* 0 Tw (sense to do so.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 613.8394 cm
+Q
+q
+1 0 0 1 40.01575 333.8394 cm
+q
+1 1 1 rg
+n 0 280 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 264 515.2441 -18 re f*
+1 1 1 rg
+n 0 246 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 216 515.2441 -18 re f*
+1 1 1 rg
+n 0 198 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 180 515.2441 -30 re f*
+1 1 1 rg
+n 0 150 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 515.2441 -66 re f*
+1 1 1 rg
+n 0 54 515.2441 -54 re f*
+.94902 .94902 .94902 rg
+n 0 280 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 267 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Speed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 249 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How fast the camera should follow the target.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Smooth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 219 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The camera will smooth towards the target. A value of zero halts the camera. A value of) Tj T* (one instantly moves the camera to the target\222s position.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Offset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Offset the target\222s follow position in the x or y axis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Dead Zone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The area surrounding the target in which no target movement is detected by the camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Screen Zone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Prevent the target from escaping the camera view. This occurs when the target is moving) Tj T* (too fast or when the camera is moving too slow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Auto Scroll) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Scroll the camera with the specified speed. Setting any axis here will override the other) Tj T* (mechanics in that axis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Detect Walls) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (If None is enabled, the system will ignore this setting. If Ignore Gravity is enabled, the) Tj T* (camera will not follow the target when it\222s jumping. If Detect Walls is enabled, the camera) Tj T* (will only follow the target if it\222s touching a surface. Specify the layer that represents hard) Tj T* (surfaces in your world. This mechanic assumes the target contains a BoxCollider2D.) Tj T* (Enable this by method. 0 == Node, 1 == IgnoreGravity, 2 == DetectWalls.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Push Zone) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Force the camera to follow the target only in the desired direction. For example, if Push) Tj T* (Zone X is set to Push Left, the camera will ignore the target if it\222s moving to the right. The) Tj T* (value represents where in the screen the camera will begin to follow the target. Do note,) Tj T* (the camera will ease into the push zone to prevent abrupt target changes.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 264 m 515.2441 264 l S
+n 0 246 m 515.2441 246 l S
+n 0 216 m 515.2441 216 l S
+n 0 198 m 515.2441 198 l S
+n 0 180 m 515.2441 180 l S
+n 0 150 m 515.2441 150 l S
+n 0 120 m 515.2441 120 l S
+n 0 54 m 515.2441 54 l S
+n 103.0488 0 m 103.0488 280 l S
+n 0 280 m 515.2441 280 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 280 l S
+n 515.2441 0 m 515.2441 280 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 333.8394 cm
+Q
+q
+1 0 0 1 40.01575 327.8394 cm
+Q
+q
+1 0 0 1 40.01575 155.8394 cm
+q
+1 1 1 rg
+n 0 172 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 156 515.2441 -30 re f*
+1 1 1 rg
+n 0 126 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 108 515.2441 -18 re f*
+1 1 1 rg
+n 0 90 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 515.2441 -18 re f*
+1 1 1 rg
+n 0 54 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 515.2441 -18 re f*
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 172 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 159 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 208.8189 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 86.63445 0 Td (Method) Tj T* -86.63445 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (ChangeTargetTransform \(Transform) Tj T* (newTransform\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CenterCameraOnTarget \( \)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SetCameraPosition \(Vector3 position\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SetFollowSpeed \(float speed\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SetFollowSmooth \(Vector2 smooth\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SetAutoScrollSpeed \(Vector2 speed\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PauseAutoScroll \(bool enable\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (DetectWallsSet \(int key\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 156 m 515.2441 156 l S
+n 0 126 m 515.2441 126 l S
+n 0 108 m 515.2441 108 l S
+n 0 90 m 515.2441 90 l S
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 220.8189 0 m 220.8189 172 l S
+n 0 172 m 515.2441 172 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 172 l S
+n 515.2441 0 m 515.2441 172 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 155.8394 cm
+Q
+q
+1 0 0 1 40.01575 120.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Speed Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 90.63937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.091439 Tw (The camera will zoom based on the target\222s speed. Add as many threshold speeds as necessary. Arrange them from) Tj T* 0 Tw (the lowest threshold to the highest threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 84.63937 cm
+Q
+q
+1 0 0 1 40.01575 68.63937 cm
+q
+1 1 1 rg
+n 0 16 515.2441 -16 re f*
+.94902 .94902 .94902 rg
+n 0 16 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 3 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 103.0488 0 m 103.0488 16 l S
+n 0 16 m 515.2441 16 l S
+n 0 0 m 0 16 l S
+n 515.2441 0 m 515.2441 16 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Follow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+113 0 obj
+<<
+/Length 10531
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 715.0394 cm
+q
+1 1 1 rg
+n 0 72 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Threshold) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The speed the target must exceed or equal to trigger a zoom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera zoom level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Speed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How quickly the camera should zoom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Axis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The axis in which to detect the target\222s speed.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 72 l S
+n 0 0 m 0 72 l S
+n 515.2441 0 m 515.2441 72 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 715.0394 cm
+Q
+q
+1 0 0 1 40.01575 679.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Look Ahead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 661.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera looks ahead in the direction of target movement. This requires the Follow module to be enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 655.8394 cm
+Q
+q
+1 0 0 1 40.01575 465.8394 cm
+q
+1 1 1 rg
+n 0 190 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 174 515.2441 -18 re f*
+1 1 1 rg
+n 0 156 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 138 515.2441 -30 re f*
+1 1 1 rg
+n 0 108 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 515.2441 -30 re f*
+1 1 1 rg
+n 0 60 515.2441 -42 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 190 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 177 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Normal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 159 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera is always looking ahead.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Recenter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera will stop looking ahead and revert once the target stops moving.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Incremental) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The camera will continue to look ahead only if the target is moving. If the target is not) Tj T* (moving, the camera will retain its position.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Threshold) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera will only look ahead if the target has reached the speed threshold.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mouse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The look ahead direction will depend on the position of the mouse and not the target\222s) Tj T* (direction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shape) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (If Square is enabled, the look ahead boundaries will be rectangular, defined by the) Tj T* -0.034982 Tw (Horizontal and Vertical values. If Circle is enabled, the look ahead boundary will be a circle) Tj T* 0 Tw (defined by the Radius value.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Smooth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (How quickly the camera should look ahead.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 174 m 515.2441 174 l S
+n 0 156 m 515.2441 156 l S
+n 0 138 m 515.2441 138 l S
+n 0 108 m 515.2441 108 l S
+n 0 90 m 515.2441 90 l S
+n 0 60 m 515.2441 60 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 190 l S
+n 0 190 m 515.2441 190 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 190 l S
+n 515.2441 0 m 515.2441 190 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 465.8394 cm
+Q
+q
+1 0 0 1 40.01575 430.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Rooms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 400.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .639705 Tw (Section your game level with rooms and let the target traverse them. When the target enters a room, it causes the) Tj T* 0 Tw (camera to transition into the room. The room boundaries will then clamp the camera\222s position.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 394.6394 cm
+Q
+q
+1 0 0 1 40.01575 156.6394 cm
+q
+1 1 1 rg
+n 0 238 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 222 515.2441 -18 re f*
+1 1 1 rg
+n 0 204 515.2441 -66 re f*
+.878431 .878431 .878431 rg
+n 0 138 515.2441 -42 re f*
+1 1 1 rg
+n 0 96 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 78 515.2441 -42 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 238 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 225 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The name of the room for identification purposes \(optional\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Boundary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Each room has four boundaries, corresponding to each room wall \(left, right, top, bottom\).) Tj T* (If enabled, the camera will be clamped by the corresponding boundary. If disabled, the) Tj T* (camera will freely move through the boundary. The last button is to exit the room. If) Tj T* (enabled, when the target exits the room, the camera will remain clamped to the room.) Tj T* (Otherwise, the camera will exit the room.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Transition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Once the target enters a room, it will trigger a room transition causing the camera to) Tj T* (automatically move inside the room. Specify the duration of the transition and if there) Tj T* (should be a delay before starting the transition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Tween) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Transition tween type.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Zoom to the desired level during the transition period. There are three types. Zoom:) Tj T* (specify the zoom level. Match height: zoom to match the room height. Match width: zoom) Tj T* (to match the room width.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Restrict) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The target will not be able to physically move outside the room boundaries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hold Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If enabled, during a transition the system will prevent the target from moving.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 222 m 515.2441 222 l S
+n 0 204 m 515.2441 204 l S
+n 0 138 m 515.2441 138 l S
+n 0 96 m 515.2441 96 l S
+n 0 78 m 515.2441 78 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 238 l S
+n 0 238 m 515.2441 238 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 238 l S
+n 515.2441 0 m 515.2441 238 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 156.6394 cm
+Q
+q
+1 0 0 1 40.01575 150.6394 cm
+Q
+q
+1 0 0 1 40.01575 68.63937 cm
+q
+1 1 1 rg
+n 0 82 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 66 515.2441 -18 re f*
+1 1 1 rg
+n 0 48 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 515.2441 -30 re f*
+.94902 .94902 .94902 rg
+n 0 82 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 69 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 159.748 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 62.09902 0 Td (Method) Tj T* -62.09902 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RoomRestrict \(string roomName\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Enable a room\222s restriction option.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RoomUnrestrict \(string roomName\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Disable a room\222s restriction option.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (RoomAddMultipleTarget \(string) Tj T* (roomName, Transform transform\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add a transform to the multiple target\222s list.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 66 m 515.2441 66 l S
+n 0 48 m 515.2441 48 l S
+n 0 30 m 515.2441 30 l S
+n 171.748 0 m 171.748 82 l S
+n 0 82 m 515.2441 82 l S
+n 0 0 m 0 82 l S
+n 515.2441 0 m 515.2441 82 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Look Ahead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+114 0 obj
+<<
+/Length 4432
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 757.0394 cm
+q
+1 1 1 rg
+n 0 30 515.2441 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (RoomRemoveMultipleTarget \(string) Tj T* (roomName, Transform transform\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remove a transform from the multiple target\222s list.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 30 m 515.2441 30 l S
+n 171.748 0 m 171.748 30 l S
+n 0 0 m 0 30 l S
+n 515.2441 0 m 515.2441 30 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+Q
+q
+1 0 0 1 40.01575 676.2394 cm
+q
+.933333 .933333 .933333 rg
+n 0 68.8 515.2441 -68.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 50.8 Tm  T* ET
+q
+1 0 0 1 8 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .139243 Tw (While editing the room in the scene, pressing the upper right corner will resize the room to the size of the current) Tj T* 0 Tw (orthographic camera. Make sure the main camera has the tag MainCamera.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 68.8 m 515.2441 68.8 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 68.8 l S
+n 515.2441 0 m 515.2441 68.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 670.2394 cm
+Q
+q
+1 0 0 1 40.01575 604.2394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .3239 Tw (The room is extremely versatile. It is possible to overlap two rooms adjacent to each other to facilitate transitions so) Tj T* 0 Tw -0.080757 Tw (the target doesn\222t go off screen. You can also modify the trigger area of the room. The trigger area detects the target,) Tj T* 0 Tw .027004 Tw (which in turn triggers a room transition. By default, it\222s the same size as the room. To modify the trigger area \(the red) Tj T* 0 Tw .055705 Tw (line\), drag the small buttons found in the middle of the room. You should only modify these values during editor time,) Tj T* 0 Tw (and as a reminder, the trigger area is only there to detect the target, not to clamp the camera\222s position.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.97851 238.1891 cm
+q
+491.3186 0 0 360.0503 0 0 cm
+/FormXob.52a99f01978f658b0dfab2a424ed47d9 Do
+Q
+Q
+q
+1 0 0 1 40.01575 232.1891 cm
+Q
+q
+1 0 0 1 40.01575 220.1891 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 220.1891 cm
+Q
+q
+1 0 0 1 40.01575 166.1891 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .654947 Tw (This becomes useful for creating room platforms. In the image above, the room boundaries are all disabled except) Tj T* 0 Tw .216265 Tw (for the bottom one. And the bottom trigger has been moved up. The benefit is that the only way to enter this room is) Tj T* 0 Tw 1.507814 Tw (by jumping on top of the platform. If the target hits the bottom of the platform, it will not cause an unnecessary) Tj T* 0 Tw (camera transition.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 133.3891 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf .12549 .262745 .360784 rg (Multiple Targets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 79.38911 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .280205 Tw (Each room comes with the ability to follow multiple targets including the main target. The camera will try to keep the) Tj T* 0 Tw .11811 Tw (specified targets in view by moving towards the average center and by zooming \(if enabled\). This feature is useful in) Tj T* 0 Tw 1.576339 Tw (case the main target is interacting with dynamic game elements that need to stay inside the camera view. This) Tj T* 0 Tw (requires the Follow module to be enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 73.38911 cm
+Q
+q
+1 0 0 1 40.01575 57.38911 cm
+q
+1 1 1 rg
+n 0 16 515.2441 -16 re f*
+.94902 .94902 .94902 rg
+n 0 16 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 3 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 103.0488 0 m 103.0488 16 l S
+n 0 16 m 515.2441 16 l S
+n 0 0 m 0 16 l S
+n 515.2441 0 m 515.2441 16 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Look Ahead) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+115 0 obj
+<<
+/Length 10239
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 697.0394 cm
+q
+1 1 1 rg
+n 0 90 515.2441 -42 re f*
+.878431 .878431 .878431 rg
+n 0 48 515.2441 -30 re f*
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Early Detect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (When a target is near the camera edge, the camera will begin to zoom. Change the size of) Tj T* (this detection area to detect targets sooner. A value between 1 and 5 should be a good) Tj T* (starting point.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom To Fit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If enabled, the camera will zoom to encapsulate moving targets and keep them inside the) Tj T* (screen. The zoom level will not grow bigger than the room.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Target Transforms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Specify the targets and their positional offset for the system to keep track of.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 515.2441 90 l S
+n 0 48 m 515.2441 48 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 90 l S
+n 0 0 m 0 90 l S
+n 515.2441 0 m 515.2441 90 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 697.0394 cm
+Q
+q
+1 0 0 1 40.01575 661.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Cinematics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 643.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create cinematic sequences to highlight special moments in your game.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 637.8394 cm
+Q
+q
+1 0 0 1 40.01575 483.8394 cm
+q
+1 1 1 rg
+n 0 154 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 138 515.2441 -18 re f*
+1 1 1 rg
+n 0 120 515.2441 -42 re f*
+.878431 .878431 .878431 rg
+n 0 78 515.2441 -42 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 154 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 141 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name the cinematic for identification \(optional\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (If Trigger Once is enabled, the cinematic can only be activated once by the target. If) Tj T* (Trigger is enabled, the cinematic can be activated any number of times. If By Script is) Tj T* (enabled, the cinematic can only be activated by a method call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LetterBox) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Set the reference for the letterbox that will be activated to give the sequence a more) Tj T* (cinematic feel. This prefab can be found in the Assets/Prefab folder. Drag and drop it into) Tj T* (the scene and set the reference.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Begin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the cinematic begins.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Complete) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the cinematic completes.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 138 m 515.2441 138 l S
+n 0 120 m 515.2441 120 l S
+n 0 78 m 515.2441 78 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 154 l S
+n 0 154 m 515.2441 154 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 154 l S
+n 515.2441 0 m 515.2441 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 483.8394 cm
+Q
+q
+1 0 0 1 40.01575 477.8394 cm
+Q
+q
+1 0 0 1 40.01575 335.8394 cm
+q
+1 1 1 rg
+n 0 142 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 126 515.2441 -30 re f*
+1 1 1 rg
+n 0 96 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 78 515.2441 -42 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 142 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 129 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 27.46441 0 Td (Targets) Tj T* -27.46441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The position the camera will move to in sequence. This value can be modified in the) Tj T* (scene.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The time it takes for the camera to get to the target\222s position.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wait) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Once the camera arrives at its target, specify how long it waits there. If the toggle is) Tj T* (enabled, the wait time is indefinite. To exit out of this state, call the following method:) Tj T* (CinematicNextTarget\(\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom the camera to a specified zoom level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Arrival) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the camera arrives at the target.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 126 m 515.2441 126 l S
+n 0 96 m 515.2441 96 l S
+n 0 78 m 515.2441 78 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 142 l S
+n 0 142 m 515.2441 142 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 142 l S
+n 515.2441 0 m 515.2441 142 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 335.8394 cm
+Q
+q
+1 0 0 1 40.01575 329.8394 cm
+Q
+q
+1 0 0 1 40.01575 253.8394 cm
+q
+1 1 1 rg
+n 0 76 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 60 515.2441 -30 re f*
+1 1 1 rg
+n 0 30 515.2441 -30 re f*
+.94902 .94902 .94902 rg
+n 0 76 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 63 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 159.748 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 62.09902 0 Td (Method) Tj T* -62.09902 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (CinematicTrigger \(string) Tj T* (cinematicName\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trigger this cinematic.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CinematicNextTarget \(\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Move to the next cinematic target if the wait time at the current one is) Tj T* (indefinite.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 60 m 515.2441 60 l S
+n 0 30 m 515.2441 30 l S
+n 171.748 0 m 171.748 76 l S
+n 0 76 m 515.2441 76 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 76 l S
+n 515.2441 0 m 515.2441 76 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 253.8394 cm
+Q
+q
+1 0 0 1 40.01575 221.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf .12549 .262745 .360784 rg (LetterBox) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 179.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .743561 Tw (The letterbox will activate black bars that will tween into the camera view during a cinematic. The tweening values) Tj T* 0 Tw .526531 Tw (can be modified in the Let\222s Wiggle components attached to this gameobject. This is a tweening library that can be) Tj T* 0 Tw (configured in the inspector. Simply change the time and tween settings for each MoveToY child tween.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 143.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Rails) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 101.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .194205 Tw (The camera moves in a segmented path as it follows the target. A segmented path consists of targets that you must) Tj T* 0 Tw .291147 Tw (place in the scene. The first and last targets will be the triggers. Once the target enters a trigger, the camera begins) Tj T* 0 Tw (to follow the rail path. This requires the Follow module to be enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 95.83937 cm
+Q
+q
+1 0 0 1 40.01575 61.83937 cm
+q
+1 1 1 rg
+n 0 34 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 34 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 21 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The name of the rail for identification purposes \(optional\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 34 l S
+n 0 34 m 515.2441 34 l S
+n 0 0 m 0 34 l S
+n 515.2441 0 m 515.2441 34 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cinematics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+116 0 obj
+<<
+/Length 10068
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 655.0394 cm
+q
+1 1 1 rg
+n 0 132 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 102 515.2441 -30 re f*
+1 1 1 rg
+n 0 72 515.2441 -42 re f*
+.878431 .878431 .878431 rg
+n 0 30 515.2441 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Horizontal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The camera follows the target\222s horizontal position. This rail shouldn\222t have vertical) Tj T* (segments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vertical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The camera follows the target\222s vertical position. This rail shouldn\222t have horizontal) Tj T* (segments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Auto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (The camera completely ignores the target\222s position and follows the segmented path at a) Tj T* (specified speed. The automatic rail contains a Unity Event that is invoked when it) Tj T* (completes the path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (RailPause \(bool) Tj T* (value\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pause or unpause an active auto rail.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 132 m 515.2441 132 l S
+n 0 102 m 515.2441 102 l S
+n 0 72 m 515.2441 72 l S
+n 0 30 m 515.2441 30 l S
+n 103.0488 0 m 103.0488 132 l S
+n 0 0 m 0 132 l S
+n 515.2441 0 m 515.2441 132 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 655.0394 cm
+Q
+q
+1 0 0 1 40.01575 619.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Shakes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 553.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .290671 Tw (This is an easy to use shake creator. The idea is to create shakes with predefined settings so they can be activated) Tj T* 0 Tw -0.000723 Tw (at runtime by name. Each shake can be called by a method or by using the shake trigger. Each shake that is created) Tj T* 0 Tw .6439 Tw (is actually linked to a Scriptable Object, which means you don\222t have to keep recreating the same shakes for each) Tj T* 0 Tw -0.086627 Tw (scene. As long as the Scriptable Object is referenced, the shakes will be remembered. In fact, the module won\222t work) Tj T* 0 Tw (without this Scriptable Object. To create one, right click Create/FlareEngine/ShakesSO.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 523.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.0173 Tw (Any shake implemented will run simultaneously with all other shakes. The system will pool and recycle shakes to) Tj T* 0 Tw (keep things nice an efficient.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 505.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Press the play button to test any shake while in Editor Mode.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 499.8394 cm
+Q
+q
+1 0 0 1 40.01575 171.8394 cm
+q
+1 1 1 rg
+n 0 328 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 312 515.2441 -18 re f*
+1 1 1 rg
+n 0 294 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 276 515.2441 -18 re f*
+1 1 1 rg
+n 0 258 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 240 515.2441 -30 re f*
+1 1 1 rg
+n 0 210 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 192 515.2441 -30 re f*
+1 1 1 rg
+n 0 162 515.2441 -42 re f*
+.878431 .878431 .878431 rg
+n 0 120 515.2441 -30 re f*
+1 1 1 rg
+n 0 90 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 515.2441 -18 re f*
+1 1 1 rg
+n 0 42 515.2441 -42 re f*
+.94902 .94902 .94902 rg
+n 0 328 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 315 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shake SO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The reference to the Scriptable Object that will save the list of shakes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 279 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name the shake for identification purposes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TimeScale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If the shake uses time-scale, the shake can be affected by slow motion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Random) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The camera abruptly shakes according to a random pattern.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Perlin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Shake the camera with the perlin noise algorithm, resulting in a smoother and less chaotic) Tj T* (shake.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shake the camera with a sinusoidal algorithm.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (One shot) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The camera shakes in a single direction. This is a recoil. This shake will need to be called) Tj T* (by script since the shake direction can\222t be known ahead of time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Is Single Shake) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (These shakes are meant for high volumes short duration shakes such as bullet impacts.) Tj T* (These shakes are grouped together and handled in a single state. The advantage is that) Tj T* (these shakes are not added into the shake pool.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Amplitude) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 93 cm
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F1 10 Tf 0 0 0 rg (This is the camera displacement in the horizontal and vertical axis. ) Tj /F2 10 Tf (The value Z is the) Tj T* (angle displacement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Speed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (How fast the shake is implemented. Typically, a lower value is smoother, while a higher) Tj T* (value if sharper.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Strength) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shake intensity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (How long the shake will last. The toggle button, if enabled, will make the shake last) Tj T* (indefinitely. This is a constant shake and it must be turned off manually. Only one constant) Tj T* (shake can run at a time.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 312 m 515.2441 312 l S
+n 0 294 m 515.2441 294 l S
+n 0 276 m 515.2441 276 l S
+n 0 258 m 515.2441 258 l S
+n 0 240 m 515.2441 240 l S
+n 0 210 m 515.2441 210 l S
+n 0 192 m 515.2441 192 l S
+n 0 162 m 515.2441 162 l S
+n 0 120 m 515.2441 120 l S
+n 0 90 m 515.2441 90 l S
+n 0 60 m 515.2441 60 l S
+n 0 42 m 515.2441 42 l S
+n 103.0488 0 m 103.0488 328 l S
+n 0 328 m 515.2441 328 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 328 l S
+n 515.2441 0 m 515.2441 328 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 171.8394 cm
+Q
+q
+1 0 0 1 40.01575 165.8394 cm
+Q
+q
+1 0 0 1 40.01575 59.83937 cm
+q
+1 1 1 rg
+n 0 106 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 90 515.2441 -18 re f*
+1 1 1 rg
+n 0 72 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 106 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 135.2126 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 49.8313 0 Td (Method) Tj T* -49.8313 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shake\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2126 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A convenient method for calling a normal sized shake.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ShakeSmall\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2126 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A convenient method for calling a small shake.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shake\(string shakeName\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2126 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Call the specified shake.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ShakeType\(\205\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 153.2126 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create a shake through script. Call any of the different types.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TurnOffConstantShake \( \)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 90 m 515.2441 90 l S
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 147.2126 0 m 147.2126 106 l S
+n 0 106 m 515.2441 106 l S
+n 0 0 m 0 106 l S
+n 515.2441 0 m 515.2441 106 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shakes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+117 0 obj
+<<
+/Length 9051
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 769.0394 cm
+q
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TurnOffAllShakes \( \)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 515.2441 18 l S
+n 147.2126 0 m 147.2126 18 l S
+n 0 0 m 0 18 l S
+n 515.2441 0 m 515.2441 18 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 733.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Parallax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 703.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .249672 Tw (Create the illusion of depth by using several backgrounds to move with the camera. The parallax will scroll infinitely,) Tj T* 0 Tw (even with a perspective camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 649.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .416705 Tw (Each background transform must contain a single sprite that is set to pivot center. Also, don\222t forget to set the layer) Tj T* 0 Tw 2.846123 Tw (order manually for each sprite in order to render the background images in correct order. At runtime these) Tj T* 0 Tw 3.544006 Tw (backgrounds will be duplicated to achieve infinite parallax scrolling. Click the add button to add as many) Tj T* 0 Tw (backgrounds as necessary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 637.8394 cm
+Q
+q
+1 0 0 1 40.01575 581.0394 cm
+q
+.933333 .933333 .933333 rg
+n 0 56.8 515.2441 -56.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 38.8 Tm  T* ET
+q
+1 0 0 1 8 32 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If using a perspective camera, parallax comes for free! But you can still use this module to get infinite scrolling.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 56.8 m 515.2441 56.8 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 56.8 l S
+n 515.2441 0 m 515.2441 56.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 575.0394 cm
+Q
+q
+1 0 0 1 40.01575 569.0394 cm
+Q
+q
+1 0 0 1 40.01575 451.0394 cm
+q
+1 1 1 rg
+n 0 118 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 102 515.2441 -18 re f*
+1 1 1 rg
+n 0 84 515.2441 -42 re f*
+.878431 .878431 .878431 rg
+n 0 42 515.2441 -42 re f*
+.94902 .94902 .94902 rg
+n 0 118 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 105 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Transform Layer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Transform that will scroll with the camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parallax Rate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (The rate at which the transform scrolls with the camera. A value approaching 1 is for the) Tj T* (farthest layers. A value approaching 0 is for the layers nearest to the player. Values less) Tj T* (than -1 are for foregrounds layers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Auto Scroll) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (If this value is greater than zero, the transform will automatically move on its own. This) Tj T* -0.097925 Tw (could be a layer that contains clouds. Try many parallax rates until you get one that gives a) Tj T* 0 Tw (correct motion with the auto scroll.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 102 m 515.2441 102 l S
+n 0 84 m 515.2441 84 l S
+n 0 42 m 515.2441 42 l S
+n 103.0488 0 m 103.0488 118 l S
+n 0 118 m 515.2441 118 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 118 l S
+n 515.2441 0 m 515.2441 118 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 451.0394 cm
+Q
+q
+1 0 0 1 40.01575 439.0394 cm
+Q
+q
+1 0 0 1 40.01575 346.2394 cm
+q
+1 .894118 .894118 rg
+n 0 92.8 515.2441 -92.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 74.8 Tm  T* ET
+q
+1 0 0 1 8 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL -0.074295 Tw (Infinite scrolling limitations: the camera size must always be smaller than the size of the image. If it isn\222t, there will) Tj T* 0 Tw .474426 Tw (be noticeable gaps in each layer during scrolling. Things that can cause this are zooming the camera to a large) Tj T* 0 Tw .431147 Tw (value, a perspective camera that is too far away from the image layer, or a camera size that is simply too large.) Tj T* 0 Tw (These issues may present themselves concurrently if not careful. Choose zoom levels wisely.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+1 .4 .4 RG
+.5 w
+n 0 92.8 m 515.2441 92.8 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 92.8 l S
+n 515.2441 0 m 515.2441 92.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 340.2394 cm
+Q
+q
+1 0 0 1 40.01575 305.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Peek) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 275.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .690195 Tw (This allows the user to quickly peek the camera in the desired direction. This is similar to look ahead, but with this) Tj T* 0 Tw (module, the direction of the camera is controlled by the user and not by the target\222s direction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 269.0394 cm
+Q
+q
+1 0 0 1 40.01575 145.0394 cm
+q
+1 1 1 rg
+n 0 124 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 108 515.2441 -18 re f*
+1 1 1 rg
+n 0 90 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 72 515.2441 -42 re f*
+1 1 1 rg
+n 0 30 515.2441 -30 re f*
+.94902 .94902 .94902 rg
+n 0 124 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 111 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Distance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The peek distance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Easing Time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The time it takes to reach the maximum peek distance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ignore Clamps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (If enabled, peek will ignore room clamps and the world clamp. Otherwise, it is clamped. Be) Tj T* (aware that sometimes the peek effect won\222t be noticeable if the camera itself is being) Tj T* (clamped if this option is disabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Direction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.098513 Tw (If any of the buttons are pressed, the camera will peek in the desired direction. Set to None) Tj T* 0 Tw (if not required.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 108 m 515.2441 108 l S
+n 0 90 m 515.2441 90 l S
+n 0 72 m 515.2441 72 l S
+n 0 30 m 515.2441 30 l S
+n 103.0488 0 m 103.0488 124 l S
+n 0 124 m 515.2441 124 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 124 l S
+n 515.2441 0 m 515.2441 124 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 145.0394 cm
+Q
+q
+1 0 0 1 40.01575 139.0394 cm
+Q
+q
+1 0 0 1 40.01575 69.03937 cm
+q
+1 1 1 rg
+n 0 70 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 70 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 27.74941 0 Td (Method) Tj T* -27.74941 0 Td ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 400.1953 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 38.10764 0 Td (Call these methods continuously to peek in the respective direction.) Tj T* -38.10764 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PeekUp\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PeekDown\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PeekLeft\(\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 70 l S
+n 0 70 m 515.2441 70 l S
+n 0 0 m 0 70 l S
+n 515.2441 0 m 515.2441 70 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Parallax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+118 0 obj
+<<
+/Length 9982
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 739.0394 cm
+q
+1 1 1 rg
+n 0 48 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 515.2441 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PeekRight\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (PeekDirection\(Vect) Tj T* (or2 direction\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 48 m 515.2441 48 l S
+n 0 30 m 515.2441 30 l S
+n 103.0488 0 m 103.0488 48 l S
+n 0 0 m 0 48 l S
+n 515.2441 0 m 515.2441 48 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 40.01575 703.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Follow Blocks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 649.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .351794 Tw (Create and arrange a series of follow blocks to guide the camera in horizontal or vertical pathways. Once the target) Tj T* 0 Tw .985641 Tw (enters one of these blocks, the camera is locked and can only move in that axis. This is helpful if the game level) Tj T* 0 Tw .085205 Tw (requires only certain pathways for the camera to travel in. Typically you put a horizontal block next to a vertical block) Tj T* 0 Tw (and so on.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 643.8394 cm
+Q
+q
+1 0 0 1 40.01575 561.8394 cm
+q
+1 1 1 rg
+n 0 82 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 66 515.2441 -30 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 82 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 69 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Horizontal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If the target enters this block, the camera can only move horizontally as it follows the) Tj T* (target.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vertical) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If the target enters this block, the camera can only move vertically as it follows the target.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is the exit. When the target enters this block, the camera returns to normal operation.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 66 m 515.2441 66 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 82 l S
+n 0 82 m 515.2441 82 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 82 l S
+n 515.2441 0 m 515.2441 82 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 561.8394 cm
+Q
+q
+1 0 0 1 40.01575 526.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Highlight Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 484.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .389705 Tw (On occasion there is a need to highlight an important game element by having the camera follow it. This element is) Tj T* 0 Tw .000186 Tw (not the main target. It is also possible to follow the new target indefinitely and allow a certain range in which the main) Tj T* 0 Tw (target can still influence the camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 454.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .174952 Tw (Use this module to create predefined targets that can be triggered by some event and have the camera follow them.) Tj T* 0 Tw (This requires the Follow module to be enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 448.6394 cm
+Q
+q
+1 0 0 1 40.01575 336.6394 cm
+q
+1 1 1 rg
+n 0 112 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 96 515.2441 -18 re f*
+1 1 1 rg
+n 0 78 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 48 515.2441 -30 re f*
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 112 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 99 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Target) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The target can either be a transform or a position. Specify the follow speed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The total time the camera will follow the target. If the toggle is enabled, the camera will) Tj T* (follow the target indefinitely, or else it will revert to following the main target automatically.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Main Target Range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If the camera is following the target indefinitely, this value will specify the range in which) Tj T* (the main target can still influence camera movement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ignore Clamps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If enabled, the camera will be able to move through rooms while following the target.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 96 m 515.2441 96 l S
+n 0 78 m 515.2441 78 l S
+n 0 48 m 515.2441 48 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 112 l S
+n 0 112 m 515.2441 112 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 112 l S
+n 515.2441 0 m 515.2441 112 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 336.6394 cm
+Q
+q
+1 0 0 1 40.01575 330.6394 cm
+Q
+q
+1 0 0 1 40.01575 248.6394 cm
+q
+1 1 1 rg
+n 0 82 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 66 515.2441 -18 re f*
+1 1 1 rg
+n 0 48 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 30 515.2441 -30 re f*
+.94902 .94902 .94902 rg
+n 0 82 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 69 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 159.748 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 62.09902 0 Td (Method) Tj T* -62.09902 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HighlightTarget \(string name\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HighlightTargetTerminate \( \)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (HighlightTarget \(\205\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If the highlight target hasn\222t been created in the inspector, you can still) Tj T* (create one by code.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 66 m 515.2441 66 l S
+n 0 48 m 515.2441 48 l S
+n 0 30 m 515.2441 30 l S
+n 171.748 0 m 171.748 82 l S
+n 0 82 m 515.2441 82 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 82 l S
+n 515.2441 0 m 515.2441 82 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 248.6394 cm
+Q
+q
+1 0 0 1 40.01575 213.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Zoom Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 195.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Once the target enters this trigger, the camera will begin to zoom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 189.4394 cm
+Q
+q
+1 0 0 1 40.01575 71.43937 cm
+q
+1 1 1 rg
+n 0 118 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 102 515.2441 -30 re f*
+1 1 1 rg
+n 0 72 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 118 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 105 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintain) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If the target exits the trigger, the zoom level will be maintained until changed by another) Tj T* (module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Revert On Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The zoom level will return to the original zoom level when the target exits the trigger.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Scale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The zoom level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Smooth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The smoothing effect applied to the zoom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target enters the trigger.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 102 m 515.2441 102 l S
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 118 l S
+n 0 118 m 515.2441 118 l S
+n 0 0 m 0 118 l S
+n 515.2441 0 m 515.2441 118 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Follow Blocks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+119 0 obj
+<<
+/Length 11138
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 769.0394 cm
+q
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target exits the trigger.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 18 l S
+n 0 0 m 0 18 l S
+n 515.2441 0 m 515.2441 18 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 763.0394 cm
+Q
+q
+1 0 0 1 40.01575 693.0394 cm
+q
+1 1 1 rg
+n 0 70 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 70 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 159.748 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 62.09902 0 Td (Method) Tj T* -62.09902 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom \(float scale, float duration\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ZoomReset \( \)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This will immediately reset the zoom to 1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (ZoomSetToOne \( \)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 177.748 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This will zoom the camera to 1, taking 1 second.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 171.748 0 m 171.748 70 l S
+n 0 70 m 515.2441 70 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 70 l S
+n 515.2441 0 m 515.2441 70 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 693.0394 cm
+Q
+q
+1 0 0 1 40.01575 657.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Slow Motion Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 639.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Once the target enters this trigger, time scale will be slowed down.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 633.8394 cm
+Q
+q
+1 0 0 1 40.01575 527.8394 cm
+q
+1 1 1 rg
+n 0 106 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 90 515.2441 -18 re f*
+1 1 1 rg
+n 0 72 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 106 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 93 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Maintain) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If the target exits the trigger, the slow motion effect will remain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Revert On Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The slow motion effect will be turned off when the target exits the trigger.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Intensity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The value Time.timeScale will be set to.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target enters the trigger.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target exits the trigger.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 515.2441 90 l S
+n 0 72 m 515.2441 72 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 106 l S
+n 0 106 m 515.2441 106 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 106 l S
+n 515.2441 0 m 515.2441 106 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 527.8394 cm
+Q
+q
+1 0 0 1 40.01575 521.8394 cm
+Q
+q
+1 0 0 1 40.01575 457.8394 cm
+q
+1 1 1 rg
+n 0 64 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 48 515.2441 -30 re f*
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 64 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 51 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 216.9974 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 90.72369 0 Td (Method) Tj T* -90.72369 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (SlowMotion \(float intensity, float duration, bool) Tj T* (constant = false\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (TurnOffSlowMotion \(\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 48 m 515.2441 48 l S
+n 0 18 m 515.2441 18 l S
+n 228.9974 0 m 228.9974 64 l S
+n 0 64 m 515.2441 64 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 64 l S
+n 515.2441 0 m 515.2441 64 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 457.8394 cm
+Q
+q
+1 0 0 1 40.01575 422.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Basic Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 404.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The basic trigger can be used for any miscellaneous events that require the OnEnter\(\) and OnExit\(\) Unity Events.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 398.6394 cm
+Q
+q
+1 0 0 1 40.01575 316.6394 cm
+q
+1 1 1 rg
+n 0 82 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 66 515.2441 -30 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 82 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 69 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Set to Trigger Once if you want this trigger to only activate once. With Trigger, the target) Tj T* (can activate the trigger any number of times.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target enters the trigger.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target exits the trigger.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 66 m 515.2441 66 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 82 l S
+n 0 82 m 515.2441 82 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 82 l S
+n 515.2441 0 m 515.2441 82 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 316.6394 cm
+Q
+q
+1 0 0 1 40.01575 281.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Regions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 239.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .5821 Tw (When the target enters a region, it will cause the camera to move towards the center of the region. The farther the) Tj T* 0 Tw 1.726531 Tw (target moves inside the region, the less influence it has on the camera. This requires the Follow module to be) Tj T* 0 Tw (enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 233.4394 cm
+Q
+q
+1 0 0 1 40.01575 55.43937 cm
+q
+1 1 1 rg
+n 0 178 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 162 515.2441 -18 re f*
+1 1 1 rg
+n 0 144 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 114 515.2441 -30 re f*
+1 1 1 rg
+n 0 84 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 178 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 165 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 147 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The region\222s center can be a position in world space or a transform\222s position.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Outer Radius) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If the target is inside the outer region, both target and region will have influence over the) Tj T* (camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Inner Radius) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (If the target is inside the inner region, the region will have complete control over the) Tj T* (camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Zoom the camera as it moves closer to the region center with a specified smooth value. If) Tj T* (no zoom is desired, set to zero.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Smooth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The smoothing effect applied to the zoom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target enters the region.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Exit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The Unity Event invoked when the target exits the region.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 162 m 515.2441 162 l S
+n 0 144 m 515.2441 144 l S
+n 0 114 m 515.2441 114 l S
+n 0 84 m 515.2441 84 l S
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 178 l S
+n 0 178 m 515.2441 178 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 178 l S
+n 515.2441 0 m 515.2441 178 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 55.43937 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Slow Motion Trigger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+120 0 obj
+<<
+/Length 7356
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 767.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (World Clamp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 725.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.864947 Tw (The world clamp is a rectangle that encapsulates the entire game level and prevents the camera from moving) Tj T* 0 Tw .058705 Tw (outside of it. This is similar to rooms. However, while rooms can overlap, they can\222t exist inside each other. This gets) Tj T* 0 Tw (around that limitation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 719.8394 cm
+Q
+q
+1 0 0 1 40.01575 601.8394 cm
+q
+1 1 1 rg
+n 0 118 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 102 515.2441 -18 re f*
+1 1 1 rg
+n 0 84 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 66 515.2441 -18 re f*
+1 1 1 rg
+n 0 48 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 118 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 105 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Destination) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The transform where the gameobject will be teleported to.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (LayerMask) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Only gameobjects on this layer mask will be teleported.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Delay) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Add a time delay before teleporting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Delay Start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The event invoked when the time delay begins. This only executes if delay is greater than) Tj T* (zero.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (On Teleport) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The event invoked when a gameobject is teleported.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 102 m 515.2441 102 l S
+n 0 84 m 515.2441 84 l S
+n 0 66 m 515.2441 66 l S
+n 0 48 m 515.2441 48 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 118 l S
+n 0 118 m 515.2441 118 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 118 l S
+n 515.2441 0 m 515.2441 118 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 601.8394 cm
+Q
+q
+1 0 0 1 40.01575 566.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (User) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 536.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.284672 Tw (Instead of having the camera follow the target, the camera is controlled directly by the user using touch, the) Tj T* 0 Tw (keyboard, and mouse input. Switch the follow type from Target to User.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 494.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.483052 Tw (When the follow type is User, the system is using the center of the camera as the target. Thus, this mode isn\222t) Tj T* 0 Tw .756721 Tw (compatible with the following modules: Dead Zone, Look Ahead, Follow Blocks, Multiple Targets, Regions, Screen) Tj T* 0 Tw (Zone, Push Zone, and Peek.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 466.2929 cm
+0 0 0 RG
+n 0 14.17323 m 515.2441 14.17323 l S
+Q
+q
+1 0 0 1 40.01575 433.4929 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf .12549 .262745 .360784 rg (Pan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 415.4929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This controls the camera movement. Use Touch, Mouse, or Keyboard input to move the camera.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 361.4929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.349719 Tw (If a touch or mouse position is at the edge of the camera, Pan Edge will move the camera automatically in that) Tj T* 0 Tw -0.077087 Tw (direction. Choose how big the area will be to detect a touch or mouse position near the edge of the camera. The Left,) Tj T* 0 Tw 1.086095 Tw (Right, Top, Bottom values are percent values. A value of one will result in a distance that is half the width of the) Tj T* 0 Tw (camera. A value of zero will result in no edge detection. Use the Scale value to damp or boost the pan edge speed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 333.1465 cm
+0 0 0 RG
+n 0 14.17323 m 515.2441 14.17323 l S
+Q
+q
+1 0 0 1 40.01575 300.3465 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf .12549 .262745 .360784 rg (Zoom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 270.3465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.093877 Tw (This controls the camera zoom level. Zoom with Touch, Mouse, or Keyboard. The Range will determine the minimum) Tj T* 0 Tw (and maximum zoom levels. Speed and Smooth will control the rate of the zoom.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 242 cm
+0 0 0 RG
+n 0 14.17323 m 515.2441 14.17323 l S
+Q
+q
+1 0 0 1 40.01575 209.2 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F2 14 Tf .12549 .262745 .360784 rg (Rotate) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 179.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.030328 Tw (This controls the camera rotation. Rotate with Touch, Mouse, or Keyboard. Speed and Smooth will control the rate of) Tj T* 0 Tw (rotation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 150.8535 cm
+0 0 0 RG
+n 0 14.17323 m 515.2441 14.17323 l S
+Q
+q
+1 0 0 1 40.01575 144.8535 cm
+Q
+q
+1 0 0 1 40.01575 80.85354 cm
+q
+1 1 1 rg
+n 0 64 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 48 515.2441 -18 re f*
+1 1 1 rg
+n 0 30 515.2441 -30 re f*
+.94902 .94902 .94902 rg
+n 0 64 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 51 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 331.4961 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 147.973 0 Td (Method) Tj T* -147.973 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PauseUser \(bool pausePan, bool pauseZoom, bool pauseRotate\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.4961 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pause a user module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (UserPanKeyboard \(KeyCode left, KeyCode right, KeyCode up, KeyCode) Tj T* (down\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.4961 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Change the user keyboard settings) Tj T* (for pan movement.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 515.2441 0 l S
+n 0 48 m 515.2441 48 l S
+n 0 30 m 515.2441 30 l S
+n 343.4961 0 m 343.4961 64 l S
+n 0 64 m 515.2441 64 l S
+n 0 0 m 0 64 l S
+n 515.2441 0 m 515.2441 64 l S
+Q
+Q
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (World Clamp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+121 0 obj
+<<
+/Length 5478
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 697.0394 cm
+q
+1 1 1 rg
+n 0 90 515.2441 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 515.2441 -30 re f*
+1 1 1 rg
+n 0 30 515.2441 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (UserPanMouse \(Pan panType, MouseButton mouseButton, MouseButton) Tj T* (holdButton\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.4961 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Change the user mouse settings for) Tj T* (pan movement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UserZoomKeyboard \(KeyCode zoomInKey, KeyCode zoomOutKey\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.4961 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Change the user keyboard settings) Tj T* (for zooming.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (UserRotateKeyboard \(KeyCode rotateLeftKey, KeyCode rotateRightKey\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 349.4961 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Change the user keyboard settings) Tj T* (for camera rotation.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 90 m 515.2441 90 l S
+n 0 60 m 515.2441 60 l S
+n 0 30 m 515.2441 30 l S
+n 343.4961 0 m 343.4961 90 l S
+n 0 0 m 0 90 l S
+n 515.2441 0 m 515.2441 90 l S
+n 0 0 m 515.2441 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 697.0394 cm
+Q
+q
+1 0 0 1 40.01575 661.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Pixel Perfect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 643.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Event though Unity already has a Pixel Perfect Camera, this module will be kept for the completeness of the engine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 589.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.147131 Tw (This module is intended for use with orthographic cameras. Before starting your game, choose the resolution the) Tj T* 0 Tw .264952 Tw (game will be designed for. By default it\222s set to 320x180 since it can multiply nicely into common device resolutions.) Tj T* 0 Tw 1.113528 Tw (This will determine how much of the game world the user can view as determined by the PPU of your game art;) Tj T* 0 Tw (changing this resolution later might change the look and feel of the game, so choose wisely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 559.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .411268 Tw (The camera will execute in Edit Mode and create black bars automatically for any screen resolution that is not pixel) Tj T* 0 Tw (perfect.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 481.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .11811 Tw (It is recommended to use a separate camera for UI. Add the PixelPerfectUI component to the UI camera. Make sure) Tj T* 0 Tw .127459 Tw (the UI camera is only rendering the UI layer. On the flip side, the main camera should not render the UI layer. Match) Tj T* 0 Tw -0.027295 Tw (the PPU and resolution settings. On any canvas in your game world, set the render mode to Screen Space - Camera) Tj T* 0 Tw .158766 Tw (and set the UI camera as a reference. Set Canvas Scaler to scale with screen size and set the target resolution. Set) Tj T* 0 Tw -0.133836 Tw (the UI camera depth to a larger value than the main camera so it renders on top of it. And finally, set the clear flags to) Tj T* 0 Tw (Don\222t Clear.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 451.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .891705 Tw (Typically you shouldn\222t zoom with a pixel perfect camera as it will break pixel perfectness. But if you do, zoom by) Tj T* 0 Tw (integer multiples if possible to retain a pixel perfect screen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 433.8394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (All your sprites should strive to have the same PPU settings and bet set to Point filter with no compression.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 427.8394 cm
+Q
+q
+1 0 0 1 40.01575 351.8394 cm
+q
+1 1 1 rg
+n 0 76 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 60 515.2441 -42 re f*
+1 1 1 rg
+n 0 18 515.2441 -18 re f*
+.94902 .94902 .94902 rg
+n 0 76 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 63 cm
+q
+.94902 .94902 .94902 rg
+n 0 0 91.04882 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 24.96441 0 Td (Property) Tj T* -24.96441 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PPU) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (This is the PPU \(Pixel Per Unit\) of the game art. How many pixels fit in one world unit of) Tj T* (the game? The Wrench Button, if clicked, will snap all scene objects to the PPU grid. The) Tj T* (color will change the color of the black bars.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Resolution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.0488 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The target size of your game world.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 60 m 515.2441 60 l S
+n 0 18 m 515.2441 18 l S
+n 103.0488 0 m 103.0488 76 l S
+n 0 76 m 515.2441 76 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 76 l S
+n 515.2441 0 m 515.2441 76 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 351.8394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pixel Perfect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (11) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+122 0 obj
+<<
+/Nums [ 0 123 0 R 1 124 0 R 2 125 0 R 3 126 0 R 4 127 0 R 
+  5 128 0 R 6 129 0 R 7 130 0 R 8 131 0 R 9 132 0 R 
+  10 133 0 R 11 134 0 R 12 135 0 R 13 136 0 R 14 137 0 R ]
+>>
+endobj
+123 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+124 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+125 0 obj
+<<
+/S /r /St 1
+>>
+endobj
+126 0 obj
+<<
+/S /r /St 2
+>>
+endobj
+127 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+128 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+129 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+130 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+131 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+132 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+133 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+134 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+135 0 obj
+<<
+/S /D /St 9
+>>
+endobj
+136 0 obj
+<<
+/S /D /St 10
+>>
+endobj
+137 0 obj
+<<
+/S /D /St 11
+>>
+endobj
+xref
+0 138
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000540 00000 n 
+0000000747 00000 n 
+0000000915 00000 n 
+0000001083 00000 n 
+0000001251 00000 n 
+0000001419 00000 n 
+0000001588 00000 n 
+0000001757 00000 n 
+0000001926 00000 n 
+0000002095 00000 n 
+0000002264 00000 n 
+0000002433 00000 n 
+0000002602 00000 n 
+0000002771 00000 n 
+0000002940 00000 n 
+0000003109 00000 n 
+0000003278 00000 n 
+0000003447 00000 n 
+0000003616 00000 n 
+0000003785 00000 n 
+0000003954 00000 n 
+0000004123 00000 n 
+0000004292 00000 n 
+0000004461 00000 n 
+0000004630 00000 n 
+0000004799 00000 n 
+0000004968 00000 n 
+0000005137 00000 n 
+0000005306 00000 n 
+0000005475 00000 n 
+0000005644 00000 n 
+0000005813 00000 n 
+0000005982 00000 n 
+0000006151 00000 n 
+0000006320 00000 n 
+0000006489 00000 n 
+0000006658 00000 n 
+0000006827 00000 n 
+0000006996 00000 n 
+0000007165 00000 n 
+0000007334 00000 n 
+0000007503 00000 n 
+0000007672 00000 n 
+0000007841 00000 n 
+0000008010 00000 n 
+0000008179 00000 n 
+0000008348 00000 n 
+0000008517 00000 n 
+0000008686 00000 n 
+0000008855 00000 n 
+0000009019 00000 n 
+0000009183 00000 n 
+0000009352 00000 n 
+0000009521 00000 n 
+0000010116 00000 n 
+0000010324 00000 n 
+0000010529 00000 n 
+0000010716 00000 n 
+0000043057 00000 n 
+0000043356 00000 n 
+0000043654 00000 n 
+0000043862 00000 n 
+0000044070 00000 n 
+0000068911 00000 n 
+0000069231 00000 n 
+0000069503 00000 n 
+0000069711 00000 n 
+0000069919 00000 n 
+0000070127 00000 n 
+0000070335 00000 n 
+0000070543 00000 n 
+0000070751 00000 n 
+0000070959 00000 n 
+0000071067 00000 n 
+0000071325 00000 n 
+0000071400 00000 n 
+0000071557 00000 n 
+0000071710 00000 n 
+0000071816 00000 n 
+0000071937 00000 n 
+0000072062 00000 n 
+0000072187 00000 n 
+0000072346 00000 n 
+0000072451 00000 n 
+0000072615 00000 n 
+0000072713 00000 n 
+0000072833 00000 n 
+0000072954 00000 n 
+0000073077 00000 n 
+0000073196 00000 n 
+0000073324 00000 n 
+0000073455 00000 n 
+0000073582 00000 n 
+0000073716 00000 n 
+0000073844 00000 n 
+0000073967 00000 n 
+0000074095 00000 n 
+0000074258 00000 n 
+0000074366 00000 n 
+0000074489 00000 n 
+0000074595 00000 n 
+0000074712 00000 n 
+0000074874 00000 n 
+0000075822 00000 n 
+0000075948 00000 n 
+0000082117 00000 n 
+0000082243 00000 n 
+0000086797 00000 n 
+0000096030 00000 n 
+0000106615 00000 n 
+0000111100 00000 n 
+0000121393 00000 n 
+0000131515 00000 n 
+0000140619 00000 n 
+0000150654 00000 n 
+0000161846 00000 n 
+0000169255 00000 n 
+0000174786 00000 n 
+0000174980 00000 n 
+0000175015 00000 n 
+0000175050 00000 n 
+0000175085 00000 n 
+0000175120 00000 n 
+0000175155 00000 n 
+0000175190 00000 n 
+0000175225 00000 n 
+0000175260 00000 n 
+0000175295 00000 n 
+0000175330 00000 n 
+0000175365 00000 n 
+0000175400 00000 n 
+0000175435 00000 n 
+0000175471 00000 n 
+trailer
+<<
+/ID 
+[<141006c413ceb0fcb981b6340d79839f><141006c413ceb0fcb981b6340d79839f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 78 0 R
+/Root 77 0 R
+/Size 138
+>>
+startxref
+175507
+%%EOF
