@@ -5,7 +5,7 @@ public class PlayerHealth : MonoBehaviour
 {
     [Header("Health")]
     public int maxHealth = 3;
-    public float invincibleTime = 1.0f;
+    public float invincibleTime = 1f;
 
     [Header("Knockback")]
     public float knockbackForceX = 5f;
@@ -16,8 +16,8 @@ public class PlayerHealth : MonoBehaviour
     private bool isInvincible = false;
     private bool isKnockback = false;
 
-    Rigidbody2D rb;
-    SpriteRenderer sr;
+    private Rigidbody2D rb;
+    private SpriteRenderer sr;
 
     private void Awake()
     {
@@ -35,7 +35,7 @@ public class PlayerHealth : MonoBehaviour
         if (isInvincible) return;
 
         currentHealth -= damage;
-        Debug.Log("피해 입음! 현재 체력: " + currentHealth);
+        Debug.Log("현재 체력: " + currentHealth);
 
         if (currentHealth <= 0)
         {
@@ -51,11 +51,10 @@ public class PlayerHealth : MonoBehaviour
     {
         isKnockback = true;
 
-        // 기존 속도 초기화 (손맛 중요)
         rb.velocity = Vector2.zero;
 
-        float dir = transform.position.x > hitPosition.x ? 1 : -1;
-        rb.AddForce(new Vector2(dir * knockbackForceX, knockbackForceY), ForceMode2D.Impulse);
+        float direction = transform.position.x > hitPosition.x ? 1f : -1f;
+        rb.AddForce(new Vector2(direction * knockbackForceX, knockbackForceY), ForceMode2D.Impulse);
 
         yield return new WaitForSeconds(knockbackDuration);
 
@@ -66,14 +65,14 @@ public class PlayerHealth : MonoBehaviour
     {
         isInvincible = true;
 
-        float blinkTime = 0.1f;
+        float blinkInterval = 0.1f;
         float elapsed = 0f;
 
         while (elapsed < invincibleTime)
         {
             sr.enabled = !sr.enabled;
-            yield return new WaitForSeconds(blinkTime);
-            elapsed += blinkTime;
+            yield return new WaitForSeconds(blinkInterval);
+            elapsed += blinkInterval;
         }
 
         sr.enabled = true;
@@ -83,7 +82,7 @@ public class PlayerHealth : MonoBehaviour
     void Die()
     {
         Debug.Log("플레이어 사망");
-        // 리스폰 / 게임오버
+        // 리스폰 or 게임오버 처리
     }
 
     public bool IsKnockback()
