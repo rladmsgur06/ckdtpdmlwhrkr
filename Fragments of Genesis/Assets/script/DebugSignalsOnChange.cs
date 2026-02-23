@@ -13,7 +13,7 @@ public class DebugSignalsOnChange : MonoBehaviour
     {
         if (character == null)
             character = GetComponent<Character>();
-
+        Debug.Log(character);
         signals = character.signals.signals;
     }
 
